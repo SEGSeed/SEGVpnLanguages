@@ -398,6 +398,19 @@
   <data name="btnSwitchToConfigPlainText" xml:space="preserve"> <value>📝 切换到配置文本</value> </data>
   <data name="btnSwitchToConfigSubscriptionLink" xml:space="preserve"> <value>🔑 切换到订阅链接</value> </data>
   <data name="btnHowToConnectToV2ray" xml:space="preserve"> <value>如何连接到 V2Ray❔</value> </data>
+  <data name="SelectLanguage" xml:space="preserve"> <value>
+🌐 &lt;b&gt;选择你的语言 &lt;/b&gt;;
+
+❗️ 注意：所有语言（英语除外）均使用 Bing ChatGPT 和谷歌翻译自动翻译。
+如果您想改进和贡献，请阅读&lt;a href="https://t.me/SEGVPN/13"&gt;本帖&lt;/a&gt;。
+  </value> </data>
+  <data name="LanguageIsSetSuccessfully" xml:space="preserve">
+    <value>
+🇨🇳 您的首选语言现已设置。
+
+您可以随时使用命令 /language 更改您的语言</value>
+  </data>
+
   <data name="TermsOfService" xml:space="preserve"> <value>❗️ 要连接到我们的服务器，您必须先接受我们的条款：
 
     — 此服务是为反审查目的而设计的。 
@@ -446,7 +459,7 @@
   <data name="GiftCreditOverview" xml:space="preserve"> <value> &lt;b&gt;🎀 这是您的礼物概览：&lt;/b&gt;：
 
     SEGVpn 的 {Amount}$ 信用额度 </value> </data>
-  <data name="AcceptTermsFirstThenClickOnGift" xml:space="preserve"> <value> 请先接受我们的使用条款，然后再次点击礼物代码。
+  <data name="AcceptTermsFirstThenClickOnGift" xml:space="preserve"> <value> 请选择您的语言，然后先接受我们的使用条款，然后再次点击礼品代码。
 
     提供的代码：{Url} </value> </data>
   <data name="GiftCodeIsInvalid" xml:space="preserve"> <value> 礼物代码无效。 </value> </data>

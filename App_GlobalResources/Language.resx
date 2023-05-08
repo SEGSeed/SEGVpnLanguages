@@ -732,6 +732,21 @@ Click on the button below to see the offers.</value>
   <data name="btnHowToConnectToV2ray" xml:space="preserve">
     <value>How to connect to V2Ray❔</value>
   </data>
+  <data name="SelectLanguage" xml:space="preserve">
+    <value>
+🌐 &lt;b&gt;Choose your language &lt;/b&gt;
+
+❗️ NOTE: All languages (except English) are auto-translated using Bing ChatGPT and Google Translate. 
+If you want to improve and contribute, please read &lt;a href="https://t.me/SEGVPN/13"&gt;This Post&lt;/a&gt;.
+</value>
+  </data>
+  <data name="LanguageIsSetSuccessfully" xml:space="preserve">
+    <value>
+🇬🇧 Your preferred language is now set.
+
+You can always change your language with command /language
+</value>
+  </data>
   <data name="TermsOfService" xml:space="preserve">
     <value>❗️ To connect to our servers, you must first accept our terms:
 
@@ -821,7 +836,7 @@ A free {PlanTitle} Plan Subscription of SEGVpn
   </data>
   <data name="AcceptTermsFirstThenClickOnGift" xml:space="preserve">
     <value>
-Please accept our terms of use first then click on Gift code Again.
+Please choose your language then accept our terms of use first then click on Gift code Again.
 
 Provided code: {Url}
 </value>
