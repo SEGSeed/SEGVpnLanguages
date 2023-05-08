@@ -118,173 +118,167 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccountExtendedSuccessfully" xml:space="preserve">
-    <value>Your account extended successfully. thank you! ☺️🙏</value>
+    <value>حساب شما با موفقیت تمدید شد. متشکرم! ☺️🙏</value>
   </data>
   <data name="btnAgree" xml:space="preserve">
-    <value>✅ Agree</value>
+    <value>✅ موافق</value>
   </data>
   <data name="btnNotAgree" xml:space="preserve">
-    <value>❌ Do not agree</value>
+    <value>❌ موافق نیستم</value>
   </data>
   <data name="btnAccept" xml:space="preserve">
-    <value>✅ Accept</value>
+    <value>✅ تایید کنید</value>
   </data>
   <data name="btnApplications" xml:space="preserve">
-    <value>📱 Applications</value>
+    <value>📱 برنامه ها</value>
   </data>
   <data name="btnBack" xml:space="preserve">
-    <value>↩️ Back</value>
+    <value>↩️ بازگشت</value>
   </data>
   <data name="btnStartFreeTrial" xml:space="preserve">
-    <value>🥁 Start Your Free Trial</value>
+    <value>🥁 آزمایشی رایگان خود را شروع کنید</value>
   </data>
   <data name="btnConnect" xml:space="preserve">
-    <value>🌐 Connect!</value>
+    <value>🌐 اتصال!</value>
   </data>
   <data name="btnApply" xml:space="preserve">
-    <value>✅ Apply</value>
+    <value>✅ اعمال کردن</value>
   </data>
   <data name="btnCancel" xml:space="preserve">
-    <value>❌ Cancel</value>
+    <value>❌ لغو کردن</value>
   </data>
   <data name="btnReturnToMainMenu" xml:space="preserve">
-    <value>↩️ Return to main menu</value>
+    <value>↩️ بازگشت به منوی اصلی</value>
   </data>
   <data name="btnChangeServer" xml:space="preserve">
-    <value>🔶 Change Location</value>
+    <value>🔶 تغییر مکان</value>
   </data>
   <data name="btnClose" xml:space="preserve">
-    <value>❌ Close</value>
-  </data>
-  <data name="btnConfirmedWalletTransactions" xml:space="preserve">
-    <value>📄 Confirmed WalletTransactions</value>
+    <value>❌ بستن</value>
   </data>
   <data name="btnContactSupport" xml:space="preserve">
-    <value>🧑🏽‍💻 Contact Support</value>
+    <value>🧑🏽‍💻 تماس با پشتیبانی</value>
   </data>
   <data name="btnDone" xml:space="preserve">
-    <value>✅ Done</value>
-  </data>
-  <data name="btnEditCard" xml:space="preserve">
-    <value>✍️ Edit Bank Card</value>
+    <value>✅ انجام شد</value>
   </data>
   <data name="btnExtendSubscription" xml:space="preserve">
-    <value>💵 Extend Subscription</value>
+    <value>💵 تمدید اشتراک</value>
   </data>
   <data name="btnGetConnections" xml:space="preserve">
-    <value>⤵️ Get Connections</value>
+    <value>⤵️ دریافت اتصالات</value>
   </data>
   <data name="btnHowToChangeServer" xml:space="preserve">
-    <value>❓ How to change my server?</value>
+    <value>❓ چگونه سرور خود را تغییر دهم؟</value>
   </data>
   <data name="btnHowToConnectWithAndroid" xml:space="preserve">
-    <value>◽️ How to connect with Android</value>
+    <value>◽️ نحوه اتصال با اندروید</value>
   </data>
   <data name="btnHowToConnectWithiPhone" xml:space="preserve">
-    <value>◽️ How to connect with iPhone</value>
+    <value>◽️ نحوه اتصال با آیفون</value>
   </data>
   <data name="btnHowToConnectWithWindows" xml:space="preserve">
-    <value>◽️ How to connect with Windows</value>
+    <value>◽️ نحوه اتصال با ویندوز</value>
   </data>
   <data name="btnHowToExtendSubscription" xml:space="preserve">
-    <value>❓ How to extend connection period?</value>
+    <value>❓ نحوه تمدید مدت زمان اتصال?</value>
   </data>
   <data name="btnHowToIncreaseSpeed" xml:space="preserve">
-    <value>❓ How to increase speed</value>
+    <value>❓ چگونه سرعت را افزایش دهیم</value>
   </data>
   <data name="btnHowToViewUsage" xml:space="preserve">
-    <value>❓ How to view my usage</value>
+    <value>❓ نحوه مشاهده استفاده من</value>
   </data>
   <data name="btnGift" xml:space="preserve">
-    <value>🎁 Gift</value>
+    <value>🎁 هدیه</value>
   </data>
   <data name="btnInvite" xml:space="preserve">
-    <value>✉️ Invite</value>
+    <value>✉️ دعوت</value>
   </data>
   <data name="btnGoPremium" xml:space="preserve">
-    <value>🛫 Go Premium</value>
+    <value>🛫 برو پریمیوم</value>
   </data>
   <data name="btnReject" xml:space="preserve">
-    <value>❌ Reject</value>
+    <value>❌ رد کردن</value>
   </data>
   <data name="btnServersAdded" xml:space="preserve">
-    <value>Servers Added</value>
+    <value>سرورها اضافه شد</value>
   </data>
   <data name="btnSettleDebt" xml:space="preserve">
-    <value>💸 Settle Debt</value>
+    <value>💸 تسویه بدهی</value>
   </data>
   <data name="btnTutorial" xml:space="preserve">
-    <value>🧑‍🏫 Tutorials</value>
+    <value>🧑‍🏫 آموزش ها</value>
   </data>
   <data name="btnUsage" xml:space="preserve">
-    <value>📊 Usage</value>
+    <value>📊 مصرف</value>
   </data>
   <data name="lblUsage" xml:space="preserve">
-    <value>📊 Usage</value>
+    <value>📊 مصرف</value>
   </data>
   <data name="btnViewAppTutorial" xml:space="preserve">
-    <value>🖥 View App Tutorial</value>
+    <value>🖥 مشاهده برنامه آموزشی</value>
   </data>
   <data name="ChangeServerCanceled" xml:space="preserve">
-    <value>Change Server canceled</value>
+    <value>تغییر مکان لغو شد</value>
   </data>
   <data name="ChangeServerNotInState" xml:space="preserve">
-    <value>To change your server first tap on the button below and then select a server.
+    <value>برای تغییر سرور ابتدا روی دکمه زیر ضربه بزنید و سپس یک سرور را انتخاب کنید.
 
-To see the bot menu you can always click on /status</value>
+برای مشاهده منوی ربات، همیشه می توانید روی /status کلیک کنید</value>
   </data>
   <data name="ChangeToThisServerNeedsPremiumAccount" xml:space="preserve">
     <value>
-❗️ You have to have a Premium Account to switch to this location.
-Tap on "🛍 Subscription" button to buy your Premium Subscription.
+❗️ برای جابجایی به این مکان باید یک حساب پرمیوم داشته باشید.
+برای خرید اشتراک پرمیوم خود، روی دکمه "🛍 اشتراک" ضربه بزنید.
 </value>
   </data>
   <data name="ChangingServerWait" xml:space="preserve">
-    <value>Changing your server.🙏 Please be patient...</value>
+    <value>در حال تغییر سرور شما لطفا صبور باشید...</value>
   </data>
   <data name="ChooseOS" xml:space="preserve">
-    <value>Choose your Operating System</value>
+    <value>سیستم عامل خود را انتخاب کنید</value>
   </data>
   <data name="ChooseTutorial" xml:space="preserve">
-    <value>Choose your desired tutorial</value>
+    <value>آموزش مورد نظر خود را انتخاب کنید</value>
   </data>
   <data name="ClickOnSettleDebt" xml:space="preserve">
-    <value>To pay click on /settleDebt</value>
+    <value>برای پرداخت روی /settleDebt کلیک کنید</value>
   </data>
   <data name="CommandDoesNotExists" xml:space="preserve">
-    <value>Command Does not exists</value>
+    <value>فرمان وجود ندارد</value>
   </data>
   <data name="ConnectionsGeneratedSuccessfully" xml:space="preserve">
-    <value>✅ Connections are prepared successfully.
+    <value>✅ اتصالات با موفقیت آماده شدند.
 
-‼️ Attention: Reality Configs Only work on specific clients at the moment.
-Need more help? Tap on /help</value>
+‼️ توجه: تنظیمات Reality در حال حاضر فقط روی کلاینت‌های خاصی کار می کند.
+به کمک بیشتری نیاز دارید؟ روی /help ضربه بزنید</value>
   </data>
   <data name="ConnectionsGeneratedSuccessfullyFree" xml:space="preserve">
-    <value>✅ Connections are prepared successfully.
+    <value>✅ اتصالات با موفقیت آماده شدند.
 
-&lt;b&gt;Attention:&lt;/b&gt; This connection is free trial and has the limit of 7 gigabytes! You always can click on Subscription button to buy your Premium Connection!
+&lt;b&gt;توجه:&lt;/b&gt; این اتصال به صورت آزمایشی رایگان است و محدودیت 7 گیگابایت دارد! شما همیشه می توانید روی دکمه اشتراک کلیک کنید تا اتصال پرمیوم خود را خریداری کنید!
 
-‼️ Attention: Reality Configs Only work on specific clients at the moment.
-Need more help? Tap on /help</value>
+‼️ توجه: تنظیمات Reality در حال حاضر فقط روی کلاینت‌های خاصی کار می‌کنند.
+به کمک بیشتری نیاز دارید؟ روی /help ضربه بزنید(Edited)Restore original</value>
   </data>
   <data name="CopyConnectionAndPaste" xml:space="preserve">
-    <value>To use click on the text to copy it then paste it on the desired application.</value>
+    <value>برای استفاده بر روی متن کلیک کنید تا آن را کپی کنید و سپس آن را در برنامه مورد نظر قرار دهید.</value>
   </data>
   <data name="DaysAddedToSubscription" xml:space="preserve">
-    <value>{0} days added to your subscription!</value>
+    <value>{0} روز به اشتراک شما اضافه شد!</value>
   </data>
   <data name="DirectMessageError" xml:space="preserve">
-    <value>Something went wrong. the error report has been sent to developer. try again if the problem persists contact us with {SupportID}.</value>
+    <value>مشکلی پیش آمد. گزارش خطا برای توسعه دهنده ارسال شده است. اگر مشکل برطرف نشد، با {SupportID} با ما تماس بگیرید.</value>
   </data>
   <data name="Done" xml:space="preserve">
-    <value>Done</value>
+    <value>انجام شده</value>
   </data>
   <data name="ErrorGeneratingConnections" xml:space="preserve">
-    <value>An error occurred while generating your connections, Tap on /status</value>
+    <value>هنگام ایجاد اتصالات شما خطایی روی داد، روی /status ضربه بزنید</value>
   </data>
   <data name="GettingData" xml:space="preserve">
-    <value>Fetching
+    <value>واکشی
 .
 .
 .
@@ -296,624 +290,602 @@ Need more help? Tap on /help</value>
 .</value>
   </data>
   <data name="Greeting" xml:space="preserve">
-    <value>Welcome!
-You can always send /status command to see your latest status</value>
+    <value>خوش آمدی!
+همیشه می توانید دستور /status را برای مشاهده آخرین وضعیت خود ارسال کنید</value>
   </data>
   <data name="HowToExtend" xml:space="preserve">
-    <value>How you want to extend your account</value>
+    <value>چگونه می خواهید حساب خود را گسترش دهید</value>
   </data>
   <data name="InvitationSucceed" xml:space="preserve">
-    <value>Invitation Succeed!</value>
+    <value>دعوت موفق شد!</value>
   </data>
   <data name="InviteMessage" xml:space="preserve">
-    <value>🔖 You are invited to use SegVPN.
-Tap on the link below and start the bot.
+    <value>🔖 از شما دعوت شده است که از SegVPN استفاده کنید.
+روی لینک زیر ضربه بزنید و ربات را راه اندازی کنید.
 
 {Url}</value>
   </data>
   <data name="ConnectionExpiringFree" xml:space="preserve">
-    <value>⚠️ You have used more than {percent}% of your {MaxUsage}GB monthly allowed connection traffic! Tap on usage for more detail.</value>
+    <value>⚠️ شما بیش از {percent}% از ترافیک مجاز اتصال ماهانه {MaxUsage}GB خود استفاده کرده‌اید! برای جزئیات بیشتر روی استفاده ضربه بزنید.</value>
   </data>
   <data name="ConnectionExpiringPaid" xml:space="preserve">
-    <value>⚠️ You have used more than {percent}% of your {MaxUsage}GB monthly allowed connection traffic.
-If your usage exceeds {MaxUsage} GigaBytes, your account will be suspended until the end of your subscription month.</value>
+    <value>⚠️ شما بیش از {percent}% از ترافیک مجاز اتصال ماهانه {MaxUsage}GB خود استفاده کرده‌اید.
+اگر میزان استفاده شما از {MaxUsage} گیگابایت بیشتر باشد، حساب شما تا پایان ماه اشتراک شما به حالت تعلیق در می‌آید.</value>
   </data>
   <data name="ConnectionSuspendedPaid" xml:space="preserve">
-    <value>⛔️ You have used your all of {MaxUsage} GigaBytes of your monthly traffic limitation and your subscription is suspended until the end of your subsciption month.
+    <value>⛔️ شما از تمام {MaxUsage} گیگا بایت محدودیت ترافیک ماهانه خود استفاده کرده اید و اشتراک شما تا پایان ماه اشتراک شما به حالت تعلیق درآمده است.
 </value>
   </data>
   <data name="ConnectionSuspendedFree" xml:space="preserve">
-    <value>⚠️ You have used all of your {MaxUsage} GigaBytes of your free trial traffic limitation.
-To subscribe for a premium account tap on 'Subscription' Button.
+    <value>⚠️ شما از تمام {MaxUsage} گیگابایت محدودیت ترافیک آزمایشی رایگان خود استفاده کرده اید.
+برای اشتراک در حساب پریمیوم روی دکمه «اشتراک» ضربه بزنید.
 </value>
   </data>
   <data name="lblDays" xml:space="preserve">
-    <value>Days</value>
+    <value>روز</value>
   </data>
   <data name="lblExpireDate" xml:space="preserve">
-    <value>&lt;b&gt;Subscription Expire Date:&lt;/b&gt;</value>
+    <value>&lt;b&gt;تاریخ انقضای اشتراک:&lt;/b&gt;</value>
   </data>
   <data name="lblFrom" xml:space="preserve">
-    <value>From</value>
+    <value>از</value>
   </data>
   <data name="lblFromMainConnection" xml:space="preserve">
-    <value>From Main Connection</value>
+    <value>از اتصال اصلی</value>
   </data>
   <data name="lblGigabyte" xml:space="preserve">
     <value>GB</value>
   </data>
   <data name="lblMain" xml:space="preserve">
-    <value>Main</value>
+    <value>اصلی</value>
   </data>
   <data name="lblMainConnection" xml:space="preserve">
-    <value>Main Connection</value>
+    <value>اتصال اصلی</value>
   </data>
   <data name="lblSumOfUsage" xml:space="preserve">
-    <value>&lt;b&gt;Total Data Usage:&lt;/b&gt;</value>
+    <value>&lt;b&gt;کل مصرف داده:&lt;/b&gt;</value>
   </data>
   <data name="MainMenuDescription" xml:space="preserve">
     <value>
-✨ With the buttons below you can manage your account or see your latest status.
+✨ با دکمه های زیر می توانید حساب خود را مدیریت کنید یا آخرین وضعیت خود را مشاهده کنید.
 
-👉 Follow Us @SEGVPN
-</value>
+👉 ما را دنبال کنید @SEGVPN</value>
   </data>
   <data name="MakingConnections" xml:space="preserve">
-    <value>Making connections...</value>
+    <value>در حال ایجاد ارتباط ...</value>
   </data>
   <data name="MakingConnectionWait" xml:space="preserve">
-    <value>⚙️ We are preparing your connections. please wait!</value>
+    <value>⚙️ ما در حال آماده سازی ارتباطات شما هستیم. لطفا صبر کنید!</value>
   </data>
   <data name="NewServerNowAdded" xml:space="preserve">
-    <value>New server is just added to the list. You can see them using the button below.</value>
+    <value>سرور جدید به تازگی به لیست اضافه شده است. با استفاده از دکمه زیر می توانید آنها را ببینید.</value>
   </data>
   <data name="NoActiveSubscription" xml:space="preserve">
-    <value>You have no active subscription.
- Tap on /status command to activate your account.</value>
+    <value>شما هیچ اشتراک فعالی ندارید.
+  بر روی دستور /status ضربه بزنید تا حساب کاربری شما فعال شود.</value>
   </data>
   <data name="NoDebtToSettle" xml:space="preserve">
-    <value>You do not have any debt to settle at the moment</value>
+    <value>در حال حاضر هیچ بدهی برای تسویه ندارید</value>
   </data>
-  <data name="NoWalletTransactionsFound" xml:space="preserve">
-    <value>No walletTransactions found</value>
+  <data name="NoOrderFound" xml:space="preserve">
+    <value>سفارشی یافت نشد</value>
   </data>
   <data name="NoServerAvailable" xml:space="preserve">
-    <value>No server is available right now</value>
+    <value>در حال حاضر هیچ سروری در دسترس نیست</value>
   </data>
   <data name="NoServerAvailableAddThenRetry" xml:space="preserve">
-    <value>No server is available at the moment, add one then try again</value>
+    <value>در حال حاضر هیچ سروری در دسترس نیست، یکی اضافه کنید سپس دوباره امتحان کنید</value>
   </data>
   <data name="NoServerAvailableAdminNotified" xml:space="preserve">
-    <value>🔍 No server found at the moment. Try again after a few hours.
-We are also notified and after a server is made, they will notify you.</value>
+    <value>🔍 در حال حاضر سروری پیدا نشد. بعد از چند ساعت دوباره امتحان کنید.
+ما نیز مطلع شدیم و پس از ساخت سرور به شما اطلاع می دهیم.</value>
   </data>
   <data name="NoServerAvailableForChangeAdminNotified" xml:space="preserve">
-    <value>🔍 No server found at the moment for you to change to. Try again after a few hours.
-We are also notified and after a server is made, they will notify you.</value>
+    <value>🔍 در حال حاضر سروری برای تغییر به آن یافت نشد. بعد از چند ساعت دوباره امتحان کنید.
+ما نیز مطلع شدیم و پس از ساخت سرور به شما اطلاع می دهیم.</value>
   </data>
   <data name="NoUserFound" xml:space="preserve">
-    <value>No user found.</value>
-  </data>
-  <data name="WalletTransactionReceiptDetail" xml:space="preserve">
-    <value>Subscription receipt {UserSelectedName} for {WalletTransactionTypeTitle} on {Date} at {Time} (GMT) amount {Amount}$
-
-This images will be deleted from here after a while, Forward them elsewhere to keep them</value>
+    <value>کاربری پیدا نشد.</value>
   </data>
   <data name="PermissionDenied" xml:space="preserve">
-    <value>You do not have sufficient permission to perform this task</value>
+    <value>شما مجوز کافی برای انجام این کار را ندارید</value>
   </data>
   <data name="PollAnswerSubmitted" xml:space="preserve">
-    <value>Your answer submitted! Thank you.🙏😊</value>
+    <value>پاسخ شما ارسال شد! متشکرم.🙏😊</value>
   </data>
   <data name="NotSubscribedUserAccountText" xml:space="preserve">
-    <value>You currently do not have any active subscriptions, tap on the button below to see the plans.</value>
+    <value>در حال حاضر هیچ اشتراک فعالی ندارید، برای مشاهده برنامه ها روی دکمه زیر ضربه بزنید.</value>
   </data>
   <data name="ResetUsage" xml:space="preserve">
-    <value>Dear user, after {DaysFromNow} days of your first registeration your usage has been reset.
-Thanks for choosing us🌿🙏
+    <value>کاربر گرامی، پس از {Days From Now} روز از اولین ثبت نام شما، استفاده شما بازنشانی شده است.
 
-You can always see the menu or see your last state tap on /status</value>
+همیشه می توانید منو را ببینید یا آخرین وضعیت خود را روی /status ضربه بزنید</value>
   </data>
   <data name="SendMessageBelowToUser" xml:space="preserve">
-    <value>✉️ Send message below to the person you want to invite.
+    <value>✉️ برای فردی که می خواهید دعوت کنید پیام زیر را ارسال کنید.
 
-💵 By every invite, 5 cents will be added to your credit. Also, you will receive 10% of every transaction that the invited person makes.</value>
+💵 با هر دعوت 5 سنت به اعتبار شما اضافه می شود. همچنین از هر تراکنشی که فرد دعوت شده انجام می دهد 10 درصد دریافت خواهید کرد.</value>
   </data>
   <data name="SendMessagesAboveToUser" xml:space="preserve">
-    <value>Send Messages above to the user</value>
+    <value>پیام های بالا را برای کاربر ارسال کنید</value>
   </data>
   <data name="SelectServerToChange" xml:space="preserve">
     <value>
-🌎 Select a location to change.
-You are currently on {CurrentServerName}.
-</value>
+🌎 مکانی را برای تغییر انتخاب کنید.
+شما در حال حاضر در {CurrentServerName} هستید.</value>
   </data>
   <data name="ServerChangedSuccessfully" xml:space="preserve">
-    <value>🌎 Location changed successfully.
-❗️ Your current connections will be deleted soon, Please use the new ones by updating your subscription or copying and pasting newly generated config text above.
+    <value>🌎 مکان با موفقیت تغییر کرد.
+❗️ اتصالات فعلی شما به زودی حذف خواهد شد، لطفاً با به روز رسانی اشتراک خود یا کپی و جایگذاری متن پیکربندی جدید ایجاد شده در بالا، از اتصالات جدید استفاده کنید.
 
-‼️ Attention: Reality Configs Only work on specific clients at the moment.
-Tap on /help for more detail</value>
+‼️ توجه: تنظیمات Reality در حال حاضر فقط روی کلاینت‌های خاصی کار می کند.
+برای جزئیات بیشتر روی /help ضربه بزنید</value>
   </data>
   <data name="ServerNoLongerAvailable" xml:space="preserve">
-    <value>Selected server is no longer available. Please choose another server</value>
+    <value>سرور انتخابی دیگر در دسترس نیست. لطفا سرور دیگری انتخاب کنید</value>
   </data>
   <data name="SubscriptionExpired" xml:space="preserve">
-    <value>💀 Your subscription expired and all of your connections are deleted.
+    <value>💀 اشتراک شما منقضی شده و همه اتصالات شما حذف شده است.
 
-♻️ To subscribe again tap on button below.</value>
+♻️ برای اشتراک مجدد روی دکمه زیر ضربه بزنید.</value>
   </data>
   <data name="SubscriptionExpireDate" xml:space="preserve">
-    <value>Your subscription is valid for {GetSubscriptionDaysTillExpire} days and till {ExpireDate}</value>
+    <value>اشتراک شما برای {GetSubscriptionDaysTillExpire} روز و تا {ExpireDate} معتبر است</value>
   </data>
   <data name="SubscriptionExpiring" xml:space="preserve">
-    <value>Your subscription is expiring, consider recharging your account.</value>
+    <value>اشتراک شما در حال انقضا است، به فکر شارژ مجدد حساب خود باشید.</value>
   </data>
   <data name="SubscriptionRemainingDayPaid" xml:space="preserve">
-    <value>There are only {daysTillExpire} days until your subscription ends. Tap on button below to extend it.</value>
+    <value>فقط {daysTillExpire} روز تا پایان اشتراک شما باقی مانده است. برای گسترش آن روی دکمه زیر ضربه بزنید.</value>
   </data>
   <data name="SubscriptionRemainingDayFree" xml:space="preserve">
-    <value>There are only {daysTillExpire} days until your trial subscription ends. To subscribe for a premium account tap on this button.</value>
+    <value>فقط {daysTillExpire} روز تا پایان اشتراک آزمایشی شما باقی مانده است. برای اشتراک در حساب پرمیوم روی این دکمه ضربه بزنید.</value>
   </data>
   <data name="SystemMessageCurrentUsage" xml:space="preserve">
-    <value>System Notification: Your usage till now</value>
+    <value>اعلان سیستم: استفاده شما تا کنون</value>
   </data>
   <data name="SystemMessagePayDebt" xml:space="preserve">
-    <value>&lt;i&gt;System Notification: Pay Debt&lt;/i&gt;
+    <value>&lt;i&gt;اعلان سیستم: پرداخت بدهی&lt;/i&gt;
 
-Dear user, {day} days has passed from your last debt subscription.
-For more information tap on the button below
-Thank you 🙏</value>
+کاربر گرامی، {day} روز از آخرین اشتراک بدهی شما گذشته است.
+برای اطلاعات بیشتر روی دکمه زیر ضربه بزنید
+متشکرم 🙏</value>
   </data>
   <data name="TapToSeeMenu" xml:space="preserve">
-    <value>Tap on /status to see the menu</value>
+    <value>برای مشاهده منو روی /status ضربه بزنید</value>
   </data>
   <data name="UnderMaintenance" xml:space="preserve">
-    <value>The bot is Under Maintenance... Please try again at around {0}</value>
+    <value>ربات تحت تعمیر است... لطفاً دوباره در حدود {0} امتحان کنید</value>
   </data>
   <data name="UserAccountExpired" xml:space="preserve">
-    <value>User has no active account</value>
+    <value>کاربر هیچ حساب کاربری فعالی ندارد</value>
   </data>
   <data name="UserBecameAdmin" xml:space="preserve">
-    <value>Congrats! You are now an admin.
-Now you can create unlimited invite links and accept subscriptions
-
-To begin tap on /admin. this option is also available at the bottom right of the screen.</value>
+    <value>تبریک میگم شما اکنون یک ادمین هستید..</value>
   </data>
   <data name="VerifyingInProgress" xml:space="preserve">
-    <value>Verifying...</value>
+    <value>در حال تأیید...</value>
   </data>
   <data name="WaitMakingConnections" xml:space="preserve">
-    <value>Please wait while we are generating connections...</value>
-  </data>
-  <data name="WaitUntilReceiptIsGettingChecked" xml:space="preserve">
-    <value>Wait while admins are checking the receipt</value>
+    <value>لطفاً صبر کنید تا ما در حال ایجاد اتصالات هستیم...</value>
   </data>
   <data name="WhatsMyIDSuccessResult" xml:space="preserve">
-    <value>Done, thanks</value>
+    <value>انجام شد، با تشکر</value>
   </data>
   <data name="WindowsApplications" xml:space="preserve">
-    <value>There are currently 3 applications for windows;
+    <value>در حال حاضر 3 برنامه برای ویندوز وجود دارد.
 
 1- softether
-2- Nekoray for Vmess, Vless, Trojan
-3- Netch for Vmess, Vless, Trojan
+2- Nekoray برای Vmess، Vless، Trojan
+3- Netch برای Vmess، Vless، Trojan
 
-To see the tutorial tap on corresponding button</value>
+برای دیدن آموزش روی دکمه مربوطه ضربه بزنید</value>
   </data>
   <data name="WrongServerCode" xml:space="preserve">
-    <value>Wrong server code. Try again</value>
+    <value>کد سرور اشتباه است. دوباره امتحان کنید</value>
   </data>
   <data name="SubscriptionPlanFree" xml:space="preserve">
-    <value>Free</value>
+    <value>رایگان</value>
   </data>
   <data name="SubscriptionPlan1" xml:space="preserve">
-    <value>Bronze</value>
+    <value>برنز</value>
   </data>
   <data name="SubscriptionPlan2" xml:space="preserve">
-    <value>Silver</value>
+    <value>نقره ای</value>
   </data>
   <data name="SubscriptionPlan3" xml:space="preserve">
-    <value>Gold</value>
+    <value>طلایی</value>
   </data>
   <data name="btnSubscription" xml:space="preserve">
-    <value>🛍 Subscription</value>
+    <value>🛍 اشتراک</value>
   </data>
   <data name="NoPlansAvailable" xml:space="preserve">
-    <value>There are no plans available at the moment</value>
+    <value>در حال حاضر هیچ طرحی در دسترس نیست</value>
   </data>
   <data name="ViewPlanListTemplate" xml:space="preserve">
-    <value>{Number}. {PlanTitle} Plan, {MaxTraffic}GB per Month, {Month} Month, {IpLimit} Simultanous Users. Price &lt;del&gt;{ActualAmount}$&lt;/del&gt; {DiscountedAmount}$ {DiscountPercent}% off!</value>
+    <value>{Number}. طرح {PlanTitle}، {MaxTraffic} گیگابایت در ماه، {Month} ماه، {IpLimit} کاربران همزمان. قیمت &lt;del&gt;{ActualAmount}$&lt;/del&gt; {DiscountedAmount}$ {DiscountPercent}% تخفیف!</value>
   </data>
   <data name="OrderPlan" xml:space="preserve">
-    <value>Order "{PlanTitle}" for {Amount}$</value>
+    <value>سفارش "{PlanTitle}" به مبلغ {Amount}$</value>
   </data>
   <data name="OrderItemDetailPlan" xml:space="preserve">
-    <value>{PlanTitle} Plan
-{MaxTraffic}GB per Month
-{Month} Month
-{IpLimit} Simultanous Users.
+    <value>طرح {PlanTitle}
+{MaxTraffic} گیگابایت در ماه
+ماه {Month}
+{Limit} کاربران همزمان.
 </value>
   </data>
   <data name="OrderItemDetailGiftCredit" xml:space="preserve">
-    <value>Gift {Amount}$ Credit via Gift link
+    <value>هدیه {Amount}$ اعتبار از طریق پیوند هدیه
 </value>
   </data>
   <data name="OrderItemDetailGiftPlan" xml:space="preserve">
-    <value>Gift Subscription below via Gift link
+    <value>اشتراک هدیه در زیر از طریق لینک هدیه
 {PlanDetail}
 </value>
   </data>
   <data name="OrderDetail" xml:space="preserve">
-    <value>Your order detail:
+    <value>جزئیات سفارش شما:
 
 {OrderItemDetail}
 
-Price {Amount}$
-💰 Your credit: {WalletBalance}$
+قیمت {Amount}$
+💰 اعتبار شما: {WalletBalance}$
 
-Tap on button below to pay.</value>
+برای پرداخت روی دکمه زیر ضربه بزنید.</value>
   </data>
   <data name="OrderDetailForGiftPurchase" xml:space="preserve">
-    <value>Gift detail:
+    <value>جزئیات هدیه:
 
 
-Price {Amount}$
-💰 Your credit: {WalletBalance}$
+قیمت {Amount}$
+💰 اعتبار شما: {WalletBalance}$
 
-Tap on button below to pay.</value>
+برای پرداخت روی دکمه زیر ضربه بزنید.</value>
   </data>
   <data name="ChooseGiftType" xml:space="preserve">
-    <value>Choose gift type:</value>
+    <value>نوع هدیه را انتخاب کنید::</value>
   </data>
   <data name="GiftTypeCredit" xml:space="preserve">
-    <value>💰 Credit</value>
+    <value>💰 اعتبار</value>
   </data>
   <data name="GiftTypeSubscription" xml:space="preserve">
-    <value>🛍 Subscription</value>
+    <value>🛍 اشتراک</value>
   </data>
   <data name="PayOrderAmount" xml:space="preserve">
-    <value>Pay {Amount}$</value>
+    <value>پرداخت {Amount}$</value>
   </data>
   <data name="btnCancelOrderPayment" xml:space="preserve">
-    <value>❌ Cancel</value>
+    <value>❌ لغو کردن</value>
   </data>
   <data name="PayPreviousOrderFirst" xml:space="preserve">
-    <value>You have an unpaid order, please check that first</value>
+    <value>شما یک سفارش پرداخت نشده دارید، لطفاً ابتدا آن را بررسی کنید</value>
   </data>
   <data name="OrderCancelled" xml:space="preserve">
-    <value>Order cancelled.</value>
+    <value>سفارش لغو شد.</value>
   </data>
   <data name="btnMyWallet" xml:space="preserve">
-    <value>💰 Credit</value>
+    <value>💰 اعتبار</value>
   </data>
   <data name="MyWalletMessage" xml:space="preserve">
-    <value>💰 Your Current Balance is {WalletBalance}$
+    <value>💰 موجودی فعلی شما {WalletBalance}$ است
 
-If you want to increase your credit tap on buttons below.
+اگر می خواهید اعتبار خود را افزایش دهید، روی دکمه های زیر ضربه بزنید.
 
-Tip: You also can send the amount in dollar (numbers only) for a custom recharge.
-For example 5.99 or 10...
-(Minimum 0.99)
+نکته: همچنین می توانید مبلغ را به دلار (فقط اعداد) برای شارژ سفارشی ارسال کنید.
+به عنوان مثال 5.99 یا 10 ...
+(حداقل 0.99)
 </value>
   </data>
   <data name="ChargeWalletCancelled" xml:space="preserve">
-    <value>Charging cancelled, tap /status to see your latest status</value>
+    <value>شارژ لغو شد، روی /status ضربه بزنید تا آخرین وضعیت خود را ببینید</value>
   </data>
   <data name="ChargeWalletAmountIsWrong" xml:space="preserve">
-    <value>Please enter the amount correctly
-For example 5.99 or 10...
-(Minimum 0.99)</value>
+    <value>لطفا مبلغ را به درستی وارد کنید
+به عنوان مثال 5.99 یا 10 ...
+(حداقل 0.99)</value>
   </data>
   <data name="ChargeWalletAmountIsSmallerThan99Cents" xml:space="preserve">
-    <value>Amount should be larger than 0.99$</value>
+    <value>مبلغ باید بزرگتر از 0.99$ باشد</value>
   </data>
   <data name="ChargeWalletAmountIsLargerThan2000" xml:space="preserve">
-    <value>Amount should be smaller than 2000$</value>
+    <value>مقدار باید کمتر از 2000$ باشد </value>
   </data>
   <data name="ChooseCoin" xml:space="preserve">
-    <value>💵 Choose desired coin to pay {Amount}$ with. </value>
+    <value>💵 سکه مورد نظر را برای پرداخت {Amount}$ انتخاب کنید. </value>
   </data>
   <data name="PaymentCancelled" xml:space="preserve">
-    <value>Payment cancelled </value>
+    <value>پرداخت لغو شد </value>
   </data>
   <data name="InitiatingPayment" xml:space="preserve">
-    <value>Initiating Payment, Generating Crypto Wallet... 
+    <value>شروع پرداخت، تولید کیف پول ارزهای دیجیتال...
 
-Please wait...</value>
+لطفا صبر کنید...</value>
   </data>
   <data name="PaymentProviderIsNotAvailable" xml:space="preserve">
-    <value>Payment Provider is currently not available, please try again later</value>
+    <value>ارائه دهنده پرداخت در حال حاضر در دسترس نیست، لطفاً بعداً دوباره امتحان کنید</value>
   </data>
   <data name="PaymentFailedToInitiate" xml:space="preserve">
-    <value>Payment failed to initiate, please try again later</value>
+    <value>شروع پرداخت ناموفق بود، لطفاً بعداً دوباره امتحان کنید</value>
   </data>
   <data name="PaymentStatusChoosingCoin" xml:space="preserve">
-    <value>Choosing Coin</value>
+    <value>انتخاب سکه</value>
   </data>
   <data name="PaymentStatusReadyToInitiate" xml:space="preserve">
-    <value>Ready To Initiate</value>
+    <value>آماده برای شروع</value>
   </data>
   <data name="PaymentStatusWaiting" xml:space="preserve">
-    <value>Waiting for Payment</value>
+    <value>در انتظار پرداخت</value>
   </data>
   <data name="PaymentStatusConfirming" xml:space="preserve">
-    <value>Confirming</value>
+    <value>در حال تایید</value>
   </data>
   <data name="PaymentStatusConfirmed" xml:space="preserve">
-    <value>Confirmed</value>
+    <value>تایید شده</value>
   </data>
   <data name="PaymentStatusSending" xml:space="preserve">
-    <value>Sending</value>
+    <value>در حال ارسال</value>
   </data>
   <data name="PaymentStatusPartiallyPaid" xml:space="preserve">
-    <value>Partially Paid</value>
+    <value>تا حدی پرداخت شده است</value>
   </data>
   <data name="PaymentStatusFinished" xml:space="preserve">
-    <value>Finished</value>
+    <value>تمام شده</value>
   </data>
   <data name="PaymentStatusFailed" xml:space="preserve">
-    <value>Failed</value>
+    <value>ناموفق</value>
   </data>
   <data name="PaymentStatusRefunded" xml:space="preserve">
-    <value>Refunded</value>
+    <value>بازپرداخت شد</value>
   </data>
   <data name="PaymentStatusExpired" xml:space="preserve">
-    <value>Expired</value>
+    <value>منقضی شده</value>
   </data>
   <data name="WaitingForPaymentTemplate" xml:space="preserve">
-    <value>Please send &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} on &lt;b&gt;{CryptoNetwork}&lt;/b&gt; network to Crypto Wallet below
-
+    <value>
+لطفاً &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} را در شبکه &lt;b&gt;{CryptoNetwork}&lt;/b&gt; به کیف پول زیر ارسال کنید
 &lt;code&gt;{Wallet}&lt;/code&gt;
 {MemoTemplate}
 
-Payment status: {PaymentStatus}
+وضعیت پرداخت: {PaymentStatus}
 
-Please note that payments may take a few minutes to take place and you will be notified after verification
+لطفاً توجه داشته باشید که پرداخت ها ممکن است چند دقیقه طول بکشد و پس از تأیید به شما اطلاع داده می شود
 
-This payment will expire in {MinutesToExpier} minutes
+این پرداخت {MinutesToExpire} دقیقه دیگر منقضی می‌شود
 
-tap on /refresh to refresh manually</value>
+برای بازخوانی دستی روی /refresh ضربه بزنید</value>
   </data>
   <data name="MemoTemplate" xml:space="preserve">
     <value>Memo: &lt;code&gt;{Memo}&lt;/code&gt;
-🟥 Caution: if you do not specify memo, the payment may be lost</value>
+احتیاط: اگر Memo را مشخص نکنید، ممکن است پرداخت از بین برود</value>
   </data>
   <data name="PaymentFailed" xml:space="preserve">
-    <value>Payment has failed due to an error. Please try again later.</value>
+    <value>پرداخت به دلیل خطا انجام نشد. لطفاً بعداً دوباره امتحان کنید.</value>
   </data>
   <data name="PaymentExpired" xml:space="preserve">
-    <value>Payment has Expired. Please try again.</value>
+    <value>پرداخت منقضی شده است لطفا دوباره تلاش کنید.</value>
   </data>
   <data name="PartiallyPaidTemplate" xml:space="preserve">
-    <value>&lt;b&gt;You partially paid the amount❗️&lt;/b&gt;
-We received {ReceivedAmount} {CryptoName} from you
+    <value>&lt;b&gt;مبلغ را تا حدی پرداخت کردید❗️&lt;/b&gt;
+ما {ReceivedAmount} {CryptoName} را از شما دریافت کردیم
 
-Please send remaining &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} to Crypto Wallet below to complete payment
-
+لطفاً &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} را در شبکه &lt;b&gt;{CryptoNetwork}&lt;/b&gt; به کیف پول زیر ارسال کنید
 &lt;code&gt;{Wallet}&lt;/code&gt;
 {MemoTemplate}
 
-Payment status: {PaymentStatus}
+وضعیت پرداخت: {PaymentStatus}
 
-Please note that payments may take a few minutes to take place and you will be notified after verification
+لطفاً توجه داشته باشید که پرداخت ها ممکن است چند دقیقه طول بکشد و پس از تأیید به شما اطلاع داده می شود
 
-This payment will expire in {MinutesToExpier} minutes
+این پرداخت {MinutesToExpire} دقیقه دیگر منقضی می‌شود
 
-tap on /refresh to refresh manually
+برای بازخوانی دستی روی /refresh ضربه بزنید
 </value>
   </data>
   <data name="ConfirmingTemplate" xml:space="preserve">
-    <value>Confirming payment, Please wait...
+    <value>در حال تایید پرداخت، لطفا صبر کنید...
 </value>
   </data>
   <data name="ConfirmedTemplate" xml:space="preserve">
-    <value>Payment confirmed...
+    <value>پرداخت تایید شد...
 </value>
   </data>
   <data name="SendingTemplate" xml:space="preserve">
-    <value>Sending received amount...
+    <value>ارسال مبلغ دریافتی...
 </value>
   </data>
   <data name="RefundedTemplate" xml:space="preserve">
-    <value>Payment refunded. Try again
+    <value>پرداخت بازپرداخت شد. دوباره امتحان کنید
 </value>
   </data>
   <data name="PaymentEximatedPriceUpdated" xml:space="preserve">
-    <value>Caution: Payment estimated price updated, please pay the new amount below.
+    <value>احتیاط: قیمت تخمینی پرداخت به روز شد، لطفاً مبلغ جدید زیر را پرداخت کنید.
 </value>
   </data>
   <data name="PaymentFinished" xml:space="preserve">
-    <value>Thanks, We received {FiatAmount}$, {ReceivedAmount} {CryptoName}.</value>
+    <value>با تشکر، ما {FiatAmount}$, {ReceivedAmount} {CryptoName} را دریافت کردیم.</value>
   </data>
   <data name="UserShouldGoPremiumToCharge" xml:space="preserve">
-    <value>You have to go Premium to charge and extend your connection.
-Click on the button below to see the offers.</value>
+    <value>برای شارژ و تمدید اتصال خود باید به Premium بروید.
+برای مشاهده پیشنهادات روی دکمه زیر کلیک کنید.</value>
   </data>
   <data name="UserShouldIsCurrentlyPremium" xml:space="preserve">
-    <value>You are currently Premium!</value>
+    <value>شما در حال حاضر Premium هستید!</value>
   </data>
   <data name="UserHadFreeSubscriptionBefore" xml:space="preserve">
-    <value>We only offer one free subscription! Click on the button below to buy a new subscription.</value>
+    <value>ما فقط یک اشتراک رایگان ارائه می دهیم! برای خرید اشتراک جدید روی دکمه زیر کلیک کنید.</value>
   </data>
   <data name="UserHaveToHaveASubscription" xml:space="preserve">
     <value>
-❗️ You do not have an active subscription. 
+❗️ شما اشتراک فعال ندارید. 
 </value>
   </data>
   <data name="btnSwitchToConfigPlainText" xml:space="preserve">
-    <value>📝 Switch to Config Text</value>
+    <value>📝 تغییر به Config Text</value>
   </data>
   <data name="btnSwitchToConfigSubscriptionLink" xml:space="preserve">
-    <value>🔑 Switch to Subscription Link</value>
+    <value>🔑 تغییر به Subscription Link</value>
   </data>
   <data name="btnHowToConnectToV2ray" xml:space="preserve">
-    <value>How to connect to V2Ray❔</value>
+    <value>نحوه اتصال به V2Ray❔</value>
   </data>
   <data name="TermsOfService" xml:space="preserve">
-    <value>❗️ To connect to our servers, you must first accept our terms:
+    <value>❗️ برای اتصال به سرورهای ما، ابتدا باید شرایط ما را بپذیرید:
 
-— This service is designed for anti-censorship purposes.
-🚫 Network scanning,
-🚫 BitTorrent,
-🚫 Hacking,
-🚫 Cracking,
- and other similar activities are not allowed.
+— این سرویس برای اهداف ضد سانسور طراحی شده است.
+🚫 اسکن شبکه،
+🚫 بیت تورنت،
+🚫 هک کردن،
+🚫 کرک کردن،
+  و سایر فعالیت های مشابه مجاز نمی باشد.
 
-— Connections are designed to be used by only one person.
+- اتصالات طوری طراحی شده اند که فقط توسط یک نفر استفاده شود.
 
-— If these rules get violated your account may be suspended.</value>
+- اگر این قوانین نقض شوند، ممکن است حساب شما به حالت تعلیق درآید.</value>
   </data>
   <data name="TermsOfServiceAgreedText" xml:space="preserve">
     <value>
-✅ Terms of service accepted, now you can click on Connect button to receive your connections.
+✅ شرایط خدمات پذیرفته شد، اکنون می توانید برای دریافت اتصالات خود بر روی دکمه اتصال کلیک کنید.
 </value>
   </data>
   <data name="TermsOfServiceDisagreeText" xml:space="preserve">
     <value>
-We are sorry that our terms do not suit you! We hope you come back soon or use our other &lt;a href="https://t.me/SegLand"&gt;Products&lt;/a&gt;.
+متاسفیم که شرایط ما برای شما مناسب نیست! امیدواریم به زودی برگردید یا از دیگر ما استفاده کنید &lt;a href="https://t.me/SegLand"&gt;Products&lt;/a&gt;.
 
-Tap on /terms to see terms again.
-</value>
+برای مشاهده مجدد شرایط، روی /terms ضربه بزنید.</value>
   </data>
   <data name="InviteeShareToInviter" xml:space="preserve">
     <value>
-💰 One of your invitees had a payment so here is your share! 
+💰 یکی از دعوت شدگان شما مبلغی را پرداخت کرده است، پس سهم شما این است!
 
-You received {share}$ and your current credit is {walletBalance}$
+شما {share}$ دریافت کردید و اعتبار فعلی شما {walletBalance}$ است
 </value>
   </data>
   <data name="SomeoneJoinedByInviteLink" xml:space="preserve">
     <value>
-💰 Someone joined the bot using your invite link
-You received {share}$ and your current credit is {walletBalance}$
-</value>
+💰 شخصی با استفاده از لینک دعوت شما به ربات پیوست
+شما {share}$ دریافت کردید و اعتبار فعلی شما {walletBalance}$ است</value>
   </data>
   <data name="GiftChooseAmount" xml:space="preserve">
     <value>
-💰 Choose Amount you want to gift 
-</value>
+💰 مبلغی را که می خواهید هدیه دهید انتخاب کنید</value>
   </data>
   <data name="GiftChoosePlan" xml:space="preserve">
     <value>
-🛍 Choose Plan you want to gift
-</value>
+🛍 طرحی را که می خواهید هدیه دهید انتخاب کنید</value>
   </data>
   <data name="TheGiftIsReady" xml:space="preserve">
     <value>
-🎁 The gift is ready! 
-Send Message to the person you want to surprise with it!
-</value>
+🎁 هدیه آماده است!
+برای شخصی که می خواهید با آن غافلگیر شود پیام زیر را ارسال کنید!</value>
   </data>
   <data name="GiftCreditMessageText" xml:space="preserve">
-    <value>&lt;b&gt;🎁 You've got a gift! &lt;/b&gt;
-&lt;i&gt;Claim your {Amount}$ credit of SEGVpn!&lt;/i&gt;
+    <value>&lt;b&gt;🎁 شما یک هدیه دارید! &lt;/b&gt;
+&lt;i&gt;اعتبار {Amount}$ SEGVpn خود را مطالبه کنید!&lt;/i&gt;
 
-👉 Just follow this link and start the bot to get your gift: 
+👉 کافیست این لینک را دنبال کنید و ربات را برای دریافت هدیه خود راه اندازی کنید:
 
 {Url}
 </value>
   </data>
   <data name="GiftSubscriptionPlanMessageText" xml:space="preserve">
-    <value>&lt;b&gt;🎁 You've got a gift! &lt;/b&gt;
-&lt;i&gt;Enjoy a free {PlanTitle} Plan Subscription of SEGVpn!&lt;/i&gt;
+    <value>&lt;b&gt;🎁 شما یک هدیه دارید! &lt;/b&gt;
+&lt;i&gt;از اشتراک طرح {PlanTitle} رایگان SEGVpn لذت ببرید!&lt;/i&gt;
 
-👉 Just click on this link and start the bot to claim your gift:
+👉 کافیست روی این لینک کلیک کنید و ربات را برای درخواست هدیه خود راه اندازی کنید:
 
 {Url}
 </value>
   </data>
   <data name="GiftSubscriptionPlanOverview" xml:space="preserve">
     <value>
-&lt;b&gt;🎀 Here’s an overview of your gift:&lt;/b&gt;:
+&lt;b&gt;🎀 در اینجا یک نمای کلی از هدیه شما است:&lt;/b&gt;:
 
-A free {PlanTitle} Plan Subscription of SEGVpn
+یک اشتراک طرح {PlanTitle} رایگان SEGVpn
 </value>
   </data>
   <data name="GiftCreditOverview" xml:space="preserve">
     <value>
-&lt;b&gt;🎀 Here’s an overview of your gift:&lt;/b&gt;:
+&lt;b&gt;🎀 در اینجا یک نمای کلی از هدیه شما است:&lt;/b&gt;:
 
-{Amount}$ credit of SEGVpn
+{Amount}$ اعتبار SEGVpn
 </value>
   </data>
   <data name="AcceptTermsFirstThenClickOnGift" xml:space="preserve">
     <value>
-Please accept our terms of use first then click on Gift code Again.
+لطفاً ابتدا شرایط استفاده ما را بپذیرید سپس دوباره روی کد هدیه کلیک کنید.
 
-Provided code: {Url}
+کد ارائه شده: {Url}
 </value>
   </data>
   <data name="GiftCodeIsInvalid" xml:space="preserve">
     <value>
-Gift code is invalid.
+کد هدیه نامعتبر است.
 </value>
   </data>
   <data name="GiftCreditAdded" xml:space="preserve">
     <value>
-🎉 You’ve got {Amount}$ added to your credit!
+🎉 شما {Amount}$ به اعتبار خود اضافه کرده اید!
 </value>
   </data>
   <data name="GiftSubscriptionAdded" xml:space="preserve">
     <value>
-🎉 You’ve just activated your {SubscriptionPlan} Plan for free!
+🎉 شما به تازگی طرح {SubscriptionPlan} خود را به صورت رایگان فعال کرده اید!
 </value>
   </data>
   <data name="AddToV2RayClient" xml:space="preserve">
     <value>
-Add this link to a V2Ray client:
+این پیوند را به یک کلاینت V2Ray اضافه کنید:
 </value>
   </data>
   <data name="SubscriptionLinkIsPermanent" xml:space="preserve">
     <value>
-✅ This is your permanent subscription link. If you change your location or purchase new subscriptions, this link will remain the same. Just remember to &lt;b&gt;Update Subscription&lt;/b&gt; in the V2ray Client after making any changes.
-</value>
+✅ این لینک اشتراک دائمی شماست. اگر مکان خود را تغییر دهید یا اشتراک های جدیدی خریداری کنید، این پیوند به همان صورت باقی می ماند. فقط به یاد داشته باشید که &lt;b&gt;به‌روزرسانی اشتراک&lt;/b&gt; پس از انجام هر گونه تغییر در برنامه V2ray خود بزنید .</value>
   </data>
   <data name="AndroidTeachingText" xml:space="preserve">
     <value>
-Android step by step guide on using Subscription Link
+راهنمای گام به گام اندروید برای استفاده از Subscription Link
 
-1- Download V2rayNG from this link: https://github.com/2dust/v2rayNG/releases (You have to download V2rayNG version 1.8+ from Github if you want to use Reality configs)
-2- Tap on '🌐 Connect!' Button to get config text
-3- Tap on '🔑 Switch to Subscription Link' Button below the config text to get your permanent subscription link
-4- Tap on the link to copy it
-5- Open V2rayNG and tap on Menu icon on top left
-6- Tap on 'Subscription group setting'
-7- Tap on + icon on top right
-8- On 'remark' textbox enter your desired name ie: SegVPN
-9- Tap on 'Optional URL' and paste your permanent subscription link you copied at step 4
-10- Tap on Check Icon on top right
-11- Tap on back Icon on top left to return to the main page of V2rayNG
-12- Tap on 3 dots at top right
-13- Tap on 'Update subscription' and wait until your connections appear
-14- Tap on a connection you want to use 
-15- Click on connect button on bottom right
+1- V2rayNG را از این لینک دانلود کنید: https://github.com/2dust/v2rayNG/releases (اگر می خواهید از تنظیمات Reality استفاده کنید باید V2rayNG نسخه 1.8+ را از Github دانلود کنید)
+2- روی "🌐 اتصال!" ضربه بزنید. دکمه دریافت متن پیکربندی
+3- برای دریافت لینک اشتراک دائمی خود، روی دکمه '🔑 تغییر به Subscription Link' زیر متن پیکربندی ضربه بزنید.
+4- برای کپی کردن لینک روی آن ضربه بزنید
+5- V2rayNG را باز کرده و روی نماد Menu در بالا سمت چپ ضربه بزنید
+6- روی «Subscription group setting» ضربه بزنید
+7- روی نماد + در بالا سمت راست ضربه بزنید
+8- در 'remark' نام مورد نظر خود را وارد کنید مثلا: SegVPN
+9- روی «Optional URL» ضربه بزنید و پیوند اشتراک دائمی خود را که در مرحله 4 کپی کردید، جای‌گذاری کنید.
+10- روی آیکون تیک در بالا سمت راست ضربه بزنید
+11- روی آیکون بازگشت در بالا سمت چپ ضربه بزنید تا به صفحه اصلی V2rayNG بازگردید
+12- روی 3 نقطه در بالا سمت راست ضربه بزنید
+13- روی 'Update subscription' ضربه بزنید و منتظر بمانید تا اتصالات شما ظاهر شود
+14- روی اتصالی که می خواهید استفاده کنید ضربه بزنید
+15- روی دکمه اتصال در پایین سمت راست کلیک کنید
 
-⚠️ NOTE: Repeat steps 12 to 15 whenever your connections did not work properly.
-</value>
+⚠️ توجه: هر زمان که اتصالات شما به درستی کار نکرد، مراحل 12 تا 15 را تکرار کنید.</value>
   </data>
   <data name="IosTeachingText" xml:space="preserve">
     <value>
-iOS step by step guide on using Subscription Link
+راهنمای گام به گام iOS برای استفاده از Subscription Link
 
-1- Download Wings X from this link: https://apps.apple.com/us/app/wings-x/id6446119727
-2- Tap on '🌐 Connect!' Button to get config text
-3- Tap on '🔑 Switch to Subscription Link' Button below the config text to get your permanent subscription link
-4- Tap on the link to copy it
-5- Open Wings X and tap on + icon on top right
-6- Tap on 'Subscription Link'
-7- On 'name' textbox enter your desired name ie: SegVPN
-8- Tap on 'URL' and paste your permanent subscription link you copied at step 4
-9- Tap on 'Subscribe' and wait for a few seconds
-10- Tap on 'Play' Button in front of each connection you want to use
+1- Wings X را از این لینک دانلود کنید: https://apps.apple.com/us/app/wings-x/id6446119727
+2- روی "🌐 اتصال!" ضربه بزنید. دکمه دریافت متن پیکربندی
+3- برای دریافت لینک اشتراک دائمی خود، روی دکمه '🔑 تغییر به Subscription Link' زیر متن پیکربندی ضربه بزنید.
+4- برای کپی کردن لینک روی آن ضربه بزنید
+5- Wings X را باز کنید و روی نماد + در بالا سمت راست ضربه بزنید
+6- روی «Subscription Link» ضربه بزنید
+7- در 'name' نام مورد نظر خود را وارد کنید مثلا: SegVPN
+8- روی 'URL' ضربه بزنید و پیوند اشتراک دائمی خود را که در مرحله 4 کپی کرده اید، جایگذاری کنید
+9- روی 'Subscribe' ضربه بزنید و چند ثانیه صبر کنید
+10- در مقابل هر اتصالی که می خواهید استفاده کنید، روی دکمه «Play» ضربه بزنید
 
-⚠️ NOTE: Do the following steps if your connections did not work properly after some time.
+⚠️ توجه: اگر پس از مدتی اتصالات شما به درستی کار نکرد، مراحل زیر را انجام دهید.
 
-1- Open Wings X and click on '📎(Clipper)' Icon
-2- Tap on the name of your subscription
-3- Tap on 'Update' and return to Main Page 
+1- Wings X را باز کرده و روی نماد '📎(گیره)' کلیک کنید
+2- روی نام اشتراک خود ضربه بزنید
+3- بر روی 'Update' ضربه بزنید و به صفحه اصلی بازگردید
 
-⚪️ Alternative applications: 
+⚪️ برنامه های جایگزین:
 A. NapsternetV https://apps.apple.com/us/app/napsternetv/id1629465476
 B. Fair VPN https://apps.apple.com/us/app/fair-vpn/id1533873488
 C. V2Box https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
@@ -921,56 +893,55 @@ C. V2Box https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
   </data>
   <data name="WindowsTeachingText" xml:space="preserve">
     <value>
-Windows step by step guide on using Subscription Link
+راهنمای گام به گام ویندوز برای استفاده از Subscription Link
 
-1- Download V2rayN by following the gif below from this link: https://github.com/2dust/v2rayN/releases
-2- After installing and updating, run the program as administrator
-3- Tap on '🌐 Connect!' Button to get config text
-4- Tap on '🔑 Switch to Subscription Link' Button below the config text to get your permanent subscription link
-5- Tap on the link to copy it
-6- Click on + Icon and on 'Remarks' textbox enter your desired name ie: SegVPN 
-7- Click on 'URL' Textbox and paste URL you copied at step 5
-8- Click on 'Confirm'
-9- Select the newly created tab (In this example the name will be SegVPN)
-10- Click on 'Subscription group' and click on 'Update current subscription without proxy'
-11- Left click on the config you want to connect to, then hit enter
-12- Check 'Enable Tun' at bottom middle
+1- V2rayN را با دنبال کردن گیف زیر از این لینک دانلود کنید: https://github.com/2dust/v2rayN/releases
+2- پس از نصب و به روز رسانی، برنامه را به عنوان administrator اجرا کنید
+2- روی "🌐 اتصال!" ضربه بزنید. دکمه دریافت متن پیکربندی
+3- برای دریافت لینک اشتراک دائمی خود، روی دکمه '🔑 تغییر به Subscription Link' زیر متن پیکربندی ضربه بزنید.
+5- برای کپی کردن لینک روی آن ضربه بزنید
+6- بر روی آیکون + کلیک کنید و در متن "Remarks" نام مورد نظر خود را وارد کنید مثلا: SegVPN
+7- روی «URL» کلیک کنید و آدرسی را که در مرحله 5 کپی کردید، قرار دهید
+8- بر روی "Confirm" کلیک کنید
+9- تب جدید ایجاد شده را انتخاب کنید (در این مثال نام SegVPN خواهد بود)
+10- بر روی 'Subscription Group' کلیک کنید و بر روی 'Update current subscription without proxy.
+11- روی کانفیکی که می خواهید به آن متصل شوید کلیک چپ کرده و اینتر را بزنید
+12- در پایین وسط گزینه Enable Tun را علامت بزنید
 
-⚠️ NOTE: Repeat step 10 whenever your connections did not work properly.
+⚠️ توجه: هر زمان که اتصالات شما به درستی کار نکرد، مرحله 10 را تکرار کنید.
 
-⚪️ Alternative applications: 
+⚪️ برنامه های جایگزین:
 A. Nekoray https://github.com/MatsuriDayo/nekoray/releases
 
 </value>
   </data>
   <data name="InviteToGetMoney" xml:space="preserve">
     <value>
-&lt;b&gt;💡 Did you know:&lt;/b&gt;
-You can get 5 cents &lt;i&gt;guaranteed&lt;/i&gt; for every friend you invite to SEGVpn!
-
-👇 Just tap on the '✉️ Invite' button below and start making money 💸</value>
+&lt;b&gt;💡 آیا می دانستید:&lt;/b&gt;
+شما می توانید 5 سنت &lt;i&gt;ضمانت شده &lt;/i&gt; برای هر دوستی که به SEGVpn دعوت می کنید دریافت کنید!
+👇 کافیست روی دکمه '✉️ دعوت کردن' زیر ضربه بزنید و شروع به کسب درآمد کنید 💸</value>
   </data>
   <data name="ChangeLocationToImproveSpeed" xml:space="preserve">
-    <value>&lt;b&gt;📡 We Noticed Something...&lt;/b&gt;
+    <value>&lt;b&gt;📡 ما متوجه چیزی شدیم ...&lt;/b&gt;
 
-📶 You have used less than 1 Gigabyte of your service in the past 10 days. We want you to enjoy the full benefits of our features, so here are some suggestions to optimize your experience:
+📶 شما در 10 روز گذشته کمتر از 1 گیگابایت از سرویس خود استفاده کرده اید. ما می خواهیم شما از مزایای کامل ویژگی های ما بهره مند شوید، بنابراین در اینجا چند پیشنهاد برای بهینه سازی تجربه شما وجود دارد:
 
-&lt;b&gt;&lt;i&gt;🌎 Switch your location&lt;/i&gt;&lt;/b&gt;
-You can get a faster and more stable connection by choosing a different location that suits your ISP and Provider better. Just tap on the ‘🔶 Change Location’ button below and explore our options.
+&lt;b&gt;&lt;i&gt;🌎 مکان خود را تغییر دهید&lt;/i&gt;&lt;/b&gt;
+می‌توانید با انتخاب مکان متفاوتی که مناسب‌تر با ISP و ارائه‌دهنده شما باشد، اتصال سریع‌تر و پایدارتری داشته باشید. فقط روی دکمه "🔶 تغییر مکان" در زیر ضربه بزنید و گزینه های ما را بررسی کنید.
 
-&lt;b&gt;&lt;i&gt;🛡️ Use Compatible Clients&lt;/i&gt;&lt;/b&gt;
-SEGVpn offers state of the art, advanced and secure configs that only work with certain V2Ray clients. To find out which clients are compatible, please tap on /help
+&lt;b&gt;&lt;i&gt;🛡️ از کلاینت های سازگار استفاده کنید&lt;/i&gt;&lt;/b&gt;
+SEGVpn پیکربندی های مدرن، پیشرفته و ایمن را ارائه می دهد که فقط با کلاینت های خاص V2Ray کار می کنند. برای اطلاع از اینکه کدام کلاینت‌ها سازگار هستند، لطفاً روی /help ضربه بزنید
 
-&lt;b&gt;&lt;i&gt;🔁 Refresh your Subscription Link&lt;/i&gt;&lt;/b&gt;
-We have to update our domains regularly to avoid being blocked by GFW. To keep up with our changes, go to your v2ray app and tap on ‘Update Subscription’. For more details, tap on /help.
+&lt;b&gt;&lt;i&gt;🔁 پیوند اشتراک خود را تازه کنید&lt;/i&gt;&lt;/b&gt;
+ما باید دامنه های خود را مرتباً به روز کنیم تا توسط GFW مسدود نشویم. برای اطلاع از تغییرات ما، به برنامه v2ray خود بروید و روی «به‌روزرسانی اشتراک» ضربه بزنید. برای جزئیات بیشتر، روی /help ضربه بزنید.
 
-&lt;b&gt;&lt;i&gt;📧 Reach out to us&lt;/i&gt;&lt;/b&gt;
-If none of the above solutions work for you, don’t hesitate to contact us at SEGSeed@Gmail.com and tell us your problem. Our Support Team is always ready to help you and solve any issues you may have.
+&lt;b&gt;&lt;i&gt;📧 با ما تماس بگیرید&lt;/i&gt;&lt;/b&gt;
+اگر هیچ یک از راه حل های بالا برای شما کار نمی کند، دریغ نکنید با ما در SEGSeed@Gmail.com تماس بگیرید و مشکل خود را به ما بگویید. تیم پشتیبانی ما همیشه آماده کمک به شما و حل هر مشکلی است که ممکن است داشته باشید.
 
 
-We are honored to keep you connected in these tough internet times
+ما مفتخریم که شما را در این روزهای سخت اینترنتی در ارتباط نگه داریم
 
-🚀 STAY CONNECTED 🚀
+🚀 متصل بمانید 🚀
 </value>
   </data>
 </root>

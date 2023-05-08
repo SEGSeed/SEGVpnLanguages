@@ -156,17 +156,11 @@
   <data name="btnClose" xml:space="preserve">
     <value>❌ Close</value>
   </data>
-  <data name="btnConfirmedWalletTransactions" xml:space="preserve">
-    <value>📄 Confirmed WalletTransactions</value>
-  </data>
   <data name="btnContactSupport" xml:space="preserve">
     <value>🧑🏽‍💻 Contact Support</value>
   </data>
   <data name="btnDone" xml:space="preserve">
     <value>✅ Done</value>
-  </data>
-  <data name="btnEditCard" xml:space="preserve">
-    <value>✍️ Edit Bank Card</value>
   </data>
   <data name="btnExtendSubscription" xml:space="preserve">
     <value>💵 Extend Subscription</value>
@@ -374,8 +368,8 @@ To subscribe for a premium account tap on 'Subscription' Button.
   <data name="NoDebtToSettle" xml:space="preserve">
     <value>You do not have any debt to settle at the moment</value>
   </data>
-  <data name="NoWalletTransactionsFound" xml:space="preserve">
-    <value>No walletTransactions found</value>
+  <data name="NoOrderFound" xml:space="preserve">
+    <value>No Order found</value>
   </data>
   <data name="NoServerAvailable" xml:space="preserve">
     <value>No server is available right now</value>
@@ -385,19 +379,14 @@ To subscribe for a premium account tap on 'Subscription' Button.
   </data>
   <data name="NoServerAvailableAdminNotified" xml:space="preserve">
     <value>🔍 No server found at the moment. Try again after a few hours.
-We are also notified and after a server is made, they will notify you.</value>
+We are also notified and after a server is made, we will notify you.</value>
   </data>
   <data name="NoServerAvailableForChangeAdminNotified" xml:space="preserve">
     <value>🔍 No server found at the moment for you to change to. Try again after a few hours.
-We are also notified and after a server is made, they will notify you.</value>
+We are also notified and after a server is made, we will notify you.</value>
   </data>
   <data name="NoUserFound" xml:space="preserve">
     <value>No user found.</value>
-  </data>
-  <data name="WalletTransactionReceiptDetail" xml:space="preserve">
-    <value>Subscription receipt {UserSelectedName} for {WalletTransactionTypeTitle} on {Date} at {Time} (GMT) amount {Amount}$
-
-This images will be deleted from here after a while, Forward them elsewhere to keep them</value>
   </data>
   <data name="PermissionDenied" xml:space="preserve">
     <value>You do not have sufficient permission to perform this task</value>
@@ -410,7 +399,6 @@ This images will be deleted from here after a while, Forward them elsewhere to k
   </data>
   <data name="ResetUsage" xml:space="preserve">
     <value>Dear user, after {DaysFromNow} days of your first registeration your usage has been reset.
-Thanks for choosing us🌿🙏
 
 You can always see the menu or see your last state tap on /status</value>
   </data>
@@ -475,19 +463,13 @@ Thank you 🙏</value>
     <value>User has no active account</value>
   </data>
   <data name="UserBecameAdmin" xml:space="preserve">
-    <value>Congrats! You are now an admin.
-Now you can create unlimited invite links and accept subscriptions
-
-To begin tap on /admin. this option is also available at the bottom right of the screen.</value>
+    <value>Congrats! You are now an admin.</value>
   </data>
   <data name="VerifyingInProgress" xml:space="preserve">
     <value>Verifying...</value>
   </data>
   <data name="WaitMakingConnections" xml:space="preserve">
     <value>Please wait while we are generating connections...</value>
-  </data>
-  <data name="WaitUntilReceiptIsGettingChecked" xml:space="preserve">
-    <value>Wait while admins are checking the receipt</value>
   </data>
   <data name="WhatsMyIDSuccessResult" xml:space="preserve">
     <value>Done, thanks</value>
@@ -671,7 +653,7 @@ Payment status: {PaymentStatus}
 
 Please note that payments may take a few minutes to take place and you will be notified after verification
 
-This payment will expire in {MinutesToExpier} minutes
+This payment will expire in {MinutesToExpire} minutes
 
 tap on /refresh to refresh manually</value>
   </data>
@@ -698,7 +680,7 @@ Payment status: {PaymentStatus}
 
 Please note that payments may take a few minutes to take place and you will be notified after verification
 
-This payment will expire in {MinutesToExpier} minutes
+This payment will expire in {MinutesToExpire} minutes
 
 tap on /refresh to refresh manually
 </value>

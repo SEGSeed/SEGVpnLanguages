@@ -117,860 +117,438 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccountExtendedSuccessfully" xml:space="preserve">
-    <value>Your account extended successfully. thank you! ☺️🙏</value>
-  </data>
-  <data name="btnAgree" xml:space="preserve">
-    <value>✅ Agree</value>
-  </data>
-  <data name="btnNotAgree" xml:space="preserve">
-    <value>❌ Do not agree</value>
-  </data>
-  <data name="btnAccept" xml:space="preserve">
-    <value>✅ Accept</value>
-  </data>
-  <data name="btnApplications" xml:space="preserve">
-    <value>📱 Applications</value>
-  </data>
-  <data name="btnBack" xml:space="preserve">
-    <value>↩️ Back</value>
-  </data>
-  <data name="btnStartFreeTrial" xml:space="preserve">
-    <value>🥁 Start Your Free Trial</value>
-  </data>
-  <data name="btnConnect" xml:space="preserve">
-    <value>🌐 Connect!</value>
-  </data>
-  <data name="btnApply" xml:space="preserve">
-    <value>✅ Apply</value>
-  </data>
-  <data name="btnCancel" xml:space="preserve">
-    <value>❌ Cancel</value>
-  </data>
-  <data name="btnReturnToMainMenu" xml:space="preserve">
-    <value>↩️ Return to main menu</value>
-  </data>
-  <data name="btnChangeServer" xml:space="preserve">
-    <value>🔶 Change Location</value>
-  </data>
-  <data name="btnClose" xml:space="preserve">
-    <value>❌ Close</value>
-  </data>
-  <data name="btnConfirmedWalletTransactions" xml:space="preserve">
-    <value>📄 Confirmed WalletTransactions</value>
-  </data>
-  <data name="btnContactSupport" xml:space="preserve">
-    <value>🧑🏽‍💻 Contact Support</value>
-  </data>
-  <data name="btnDone" xml:space="preserve">
-    <value>✅ Done</value>
-  </data>
-  <data name="btnEditCard" xml:space="preserve">
-    <value>✍️ Edit Bank Card</value>
-  </data>
-  <data name="btnExtendSubscription" xml:space="preserve">
-    <value>💵 Extend Subscription</value>
-  </data>
-  <data name="btnGetConnections" xml:space="preserve">
-    <value>⤵️ Get Connections</value>
-  </data>
-  <data name="btnHowToChangeServer" xml:space="preserve">
-    <value>❓ How to change my server?</value>
-  </data>
-  <data name="btnHowToConnectWithAndroid" xml:space="preserve">
-    <value>◽️ How to connect with Android</value>
-  </data>
-  <data name="btnHowToConnectWithiPhone" xml:space="preserve">
-    <value>◽️ How to connect with iPhone</value>
-  </data>
-  <data name="btnHowToConnectWithWindows" xml:space="preserve">
-    <value>◽️ How to connect with Windows</value>
-  </data>
-  <data name="btnHowToExtendSubscription" xml:space="preserve">
-    <value>❓ How to extend connection period?</value>
-  </data>
-  <data name="btnHowToIncreaseSpeed" xml:space="preserve">
-    <value>❓ How to increase speed</value>
-  </data>
-  <data name="btnHowToViewUsage" xml:space="preserve">
-    <value>❓ How to view my usage</value>
-  </data>
-  <data name="btnGift" xml:space="preserve">
-    <value>🎁 Gift</value>
-  </data>
-  <data name="btnInvite" xml:space="preserve">
-    <value>✉️ Invite</value>
-  </data>
-  <data name="btnGoPremium" xml:space="preserve">
-    <value>🛫 Go Premium</value>
-  </data>
-  <data name="btnReject" xml:space="preserve">
-    <value>❌ Reject</value>
-  </data>
-  <data name="btnServersAdded" xml:space="preserve">
-    <value>Servers Added</value>
-  </data>
-  <data name="btnSettleDebt" xml:space="preserve">
-    <value>💸 Settle Debt</value>
-  </data>
-  <data name="btnTutorial" xml:space="preserve">
-    <value>🧑‍🏫 Tutorials</value>
-  </data>
-  <data name="btnUsage" xml:space="preserve">
-    <value>📊 Usage</value>
-  </data>
-  <data name="lblUsage" xml:space="preserve">
-    <value>📊 Usage</value>
-  </data>
-  <data name="btnViewAppTutorial" xml:space="preserve">
-    <value>🖥 View App Tutorial</value>
-  </data>
-  <data name="ChangeServerCanceled" xml:space="preserve">
-    <value>Change Server canceled</value>
-  </data>
-  <data name="ChangeServerNotInState" xml:space="preserve">
-    <value>To change your server first tap on the button below and then select a server.
+  <data name="AccountExtendedSuccessfully" xml:space="preserve"> <value>您的帐户已成功延长。谢谢！☺️🙏</value> </data>
+  <data name="btnAgree" xml:space="preserve"> <value>✅ 同意</value> </data>
+  <data name="btnNotAgree" xml:space="preserve"> <value>❌ 不同意</value> </data>
+  <data name="btnAccept" xml:space="preserve"> <value>✅ 接受</value> </data>
+  <data name="btnApplications" xml:space="preserve"> <value>📱 应用程序</value> </data>
+  <data name="btnBack" xml:space="preserve"> <value>↩️ 返回</value> </data>
+  <data name="btnStartFreeTrial" xml:space="preserve"> <value>🥁 开始免费试用</value> </data>
+  <data name="btnConnect" xml:space="preserve"> <value>🌐 连接！</value> </data>
+  <data name="btnApply" xml:space="preserve"> <value>✅ 应用</value> </data>
+  <data name="btnCancel" xml:space="preserve"> <value>❌ 取消</value> </data>
+  <data name="btnReturnToMainMenu" xml:space="preserve"> <value>↩️ 返回主菜单</value> </data>
+  <data name="btnChangeServer" xml:space="preserve"> <value>🔶 更改位置</value> </data>
+  <data name="btnClose" xml:space="preserve"> <value>❌ 关闭</value> </data>
+  <data name="btnContactSupport" xml:space="preserve"> <value>🧑🏽‍💻 联系支持</value> </data>
+  <data name="btnDone" xml:space="preserve"> <value>✅ 完成</value> </data>
+  <data name="btnExtendSubscription" xml:space="preserve"> <value>💵 延长订阅</value> </data>
+  <data name="btnGetConnections" xml:space="preserve"> <value>⤵️ 获取连接</value> </data>
+  <data name="btnHowToChangeServer" xml:space="preserve"> <value>❓ 如何更改我的服务器？</value> </data>
+  <data name="btnHowToConnectWithAndroid" xml:space="preserve"> <value>◽️ 如何使用 Android 连接</value> </data>
+  <data name="btnHowToConnectWithiPhone" xml:space="preserve"> <value>◽️ 如何使用 iPhone 连接</value> </data>
+  <data name="btnHowToConnectWithWindows" xml:space="preserve"> <value>◽️ 如何使用 Windows 连接</value> </data>
+  <data name="btnHowToExtendSubscription" xml:space="preserve"> <value>❓ 如何延长连接期限？</value> </data>
+  <data name="btnHowToIncreaseSpeed" xml:space="preserve"> <value>❓ 如何提高速度</value> </data>
+  <data name="btnHowToViewUsage" xml:space="preserve"> <value>❓ 如何查看我的使用情况</value> </data>
+  <data name="btnGift" xml:space="preserve"> <value>🎁 礼物</value> </data>
+  <data name="btnInvite" xml:space="preserve"> <value>✉️ 邀请</value> </data>
+  <data name="btnGoPremium" xml:space="preserve"> <value>🛫 升级为高级版</value> </data>
+  <data name="btnReject" xml:space="preserve"> <value>❌ 拒绝</value> </data>
+  <data name="btnServersAdded" xml:space="preserve"> <value>已添加服务器</value> </data>
+  <data name="btnSettleDebt" xml:space="preserve"> <value>💸 结清债务</value> </data>
+  <data name="btnTutorial" xml:space="preserve"> <value>🧑‍🏫 教程</value> </data>
+  <data name="btnUsage" xml:space="preserve"> <value>📊 使用情况</value> </data>
+  <data name="lblUsage" xml:space="preserve"> <value>📊 使用情况</value> </data>
+  <data name="btnViewAppTutorial" xml:space="preserve"> <value>🖥 查看应用教程</value> </data>
+  <data name="ChangeServerCanceled" xml:space="preserve"> <value>已取消更改服务器</value> </data>
+  <data name="ChangeServerNotInState" xml:space="preserve"> <value>要更改服务器，首先点击下面的按钮，然后选择一个服务器。
 
-To see the bot menu you can always click on /status</value>
-  </data>
-  <data name="ChangeToThisServerNeedsPremiumAccount" xml:space="preserve">
-    <value>
-❗️ You have to have a Premium Account to switch to this location.
-Tap on "🛍 Subscription" button to buy your Premium Subscription.
+    要查看机器人菜单，您可以随时点击 /status</value> </data>
+  <data name="ChangeToThisServerNeedsPremiumAccount" xml:space="preserve"> <value> ❗️ 您必须拥有高级帐户才能切换到此位置。 点击"🛍 订阅”按钮购买您的高级订阅。 </value> </data>
+  <data name="ChangingServerWait" xml:space="preserve"> <value>正在更改您的服务器。🙏 请耐心等待…</value> </data>
+  <data name="ChooseOS" xml:space="preserve"> <value>选择您的操作系统</value> </data>
+  <data name="ChooseTutorial" xml:space="preserve"> <value>选择您想要的教程</value> </data>
+  <data name="ClickOnSettleDebt" xml:space="preserve"> <value>要支付，请点击 /settleDebt</value> </data>
+  <data name="CommandDoesNotExists" xml:space="preserve"> <value>命令不存在</value> </data>
+  <data name="ConnectionsGeneratedSuccessfully" xml:space="preserve"> <value>✅ 连接已成功准备。
+
+    ‼️ 注意：Reality Configs 目前只在特定客户端上工作。 需要更多帮助？点击 /help</value> </data>
+  <data name="ConnectionsGeneratedSuccessfullyFree" xml:space="preserve"> <value>✅ 连接已成功准备。
+
+    &lt;b&gt;注意：&lt;/b&gt;这个连接是免费试用的，有7GB的限制！您可以随时点击订阅按钮购买您的高级连接！
+
+    ‼️ 注意：Reality Configs 目前只在特定客户端上工作。 需要更多帮助？点击 /help</value> </data>
+  <data name="CopyConnectionAndPaste" xml:space="preserve"> <value>要使用，请点击文本复制它，然后粘贴到所需的应用程序。</value> </data>
+  <data name="DaysAddedToSubscription" xml:space="preserve"> <value>已为您的订阅添加了 {0} 天！</value> </data>
+  <data name="DirectMessageError" xml:space="preserve"> <value>出了点问题。错误报告已发送给开发者。请重试，如果问题仍然存在，请联系我们并提供 {SupportID}。</value> </data>
+  <data name="Done" xml:space="preserve"> <value>完成</value> </data>
+  <data name="ErrorGeneratingConnections" xml:space="preserve"> <value>生成连接时发生错误，点击 /status</value> </data>
+  <data name="GettingData" xml:space="preserve"> <value>正在获取 
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
 </value>
   </data>
-  <data name="ChangingServerWait" xml:space="preserve">
-    <value>Changing your server.🙏 Please be patient...</value>
-  </data>
-  <data name="ChooseOS" xml:space="preserve">
-    <value>Choose your Operating System</value>
-  </data>
-  <data name="ChooseTutorial" xml:space="preserve">
-    <value>Choose your desired tutorial</value>
-  </data>
-  <data name="ClickOnSettleDebt" xml:space="preserve">
-    <value>To pay click on /settleDebt</value>
-  </data>
-  <data name="CommandDoesNotExists" xml:space="preserve">
-    <value>Command Does not exists</value>
-  </data>
-  <data name="ConnectionsGeneratedSuccessfully" xml:space="preserve">
-    <value>✅ Connections are prepared successfully.
+  <data name="Greeting" xml:space="preserve"> <value>欢迎！ 您可以随时发送 /status 命令查看您的最新状态</value> </data>
+  <data name="HowToExtend" xml:space="preserve"> <value>您想要如何延长您的账户</value> </data>
+  <data name="InvitationSucceed" xml:space="preserve"> <value>邀请成功！</value> </data>
+  <data name="InviteMessage" xml:space="preserve"> <value>🔖 您被邀请使用 SegVPN。 点击下面的链接并启动机器人。
 
-‼️ Attention: Reality Configs Only work on specific clients at the moment.
-Need more help? Tap on /help</value>
-  </data>
-  <data name="ConnectionsGeneratedSuccessfullyFree" xml:space="preserve">
-    <value>✅ Connections are prepared successfully.
+    {Url}</value> </data>
+  <data name="ConnectionExpiringFree" xml:space="preserve"> <value>⚠️ 您已使用超过 {percent}% 的 {MaxUsage}GB 每月允许的连接流量！点击使用情况查看更多详情。</value> </data>
+  <data name="ConnectionExpiringPaid" xml:space="preserve"> <value>⚠️ 您已使用超过 {percent}% 的 {MaxUsage}GB 每月允许的连接流量。 如果您的使用量超过 {MaxUsage} GigaBytes，您的账户将在您的订阅月结束时被暂停。</value> </data>
+  <data name="ConnectionSuspendedFree" xml:space="preserve"> <value>⚠️ 您已使用完您的 {MaxUsage} GigaBytes 免费试用流量限制。 要订购高级账户，请点击"订阅”按钮。 </value> </data>
+  <data name="lblDays" xml:space="preserve"> <value>天</value> </data>
+  <data name="lblExpireDate" xml:space="preserve"> <value>&lt;b&gt;订阅到期日期：&lt;/b&gt;</value> </data>
+  <data name="lblFrom" xml:space="preserve"> <value>从</value> </data>
+  <data name="lblFromMainConnection" xml:space="preserve"> <value>从主连接</value> </data>
+  <data name="lblGigabyte" xml:space="preserve"> <value>GB</value> </data>
+  <data name="lblMain" xml:space="preserve"> <value>主要的</value> </data>
+  <data name="lblMainConnection" xml:space="preserve"> <value>主连接</value> </data>
+  <data name="lblSumOfUsage" xml:space="preserve"> <value>&lt;b&gt;总数据使用量：&lt;/b&gt;</value> </data>
+  <data name="MainMenuDescription" xml:space="preserve"> <value> ✨ 您可以使用下面的按钮管理您的账户或查看您的最新状态。
 
-&lt;b&gt;Attention:&lt;/b&gt; This connection is free trial and has the limit of 7 gigabytes! You always can click on Subscription button to buy your Premium Connection!
+    👉 关注我们 @SEGVPN </value> </data>
+  <data name="MakingConnections" xml:space="preserve"> <value>正在建立连接…</value> </data>
+  <data name="MakingConnectionWait" xml:space="preserve"> <value>⚙️ 我们正在准备您的连接，请稍候！</value> </data>
+  <data name="NewServerNowAdded" xml:space="preserve"> <value>新服务器刚刚添加到列表中。您可以使用下面的按钮查看它们。</value> </data>
+  <data name="NoActiveSubscription" xml:space="preserve"> <value>您没有有效的订阅。 点击 /status 命令激活您的账户。</value> </data>
+  <data name="NoDebtToSettle" xml:space="preserve"> <value>您目前没有任何需要结算的债务</value> </data>
+  <data name="NoOrderFound" xml:space="preserve"> <value>没有找到订单</value> </data>
+  <data name="NoServerAvailable" xml:space="preserve"> <value>目前没有可用的服务器</value> </data>
+  <data name="NoServerAvailableAddThenRetry" xml:space="preserve"> <value>目前没有可用的服务器，请添加一个然后重试</value> </data>
+  <data name="NoServerAvailableAdminNotified" xml:space="preserve"> <value>🔍 目前没有找到服务器。请在几个小时后再试。 我们也已经收到通知，等服务器建好了，我们会通知您。</value> </data>
+  <data name="NoServerAvailableForChangeAdminNotified" xml:space="preserve"> <value>🔍 目前没有找到您可以更换的服务器。请在几个小时后再试。 我们也已经收到通知，等服务器建好了，我们会通知您。</value> </data>
+  <data name="NoUserFound" xml:space="preserve"> <value>没有找到用户。</value> </data>
+  <data name="PermissionDenied" xml:space="preserve"> <value>您没有足够的权限执行此任务</value> </data>
+  <data name="PollAnswerSubmitted" xml:space="preserve"> <value>您的答案已提交！谢谢您。🙏😊</value> </data>
+  <data name="NotSubscribedUserAccountText" xml:space="preserve"> <value>您目前没有任何有效的订阅，请点击下面的按钮查看套餐。</value> </data>
+  <data name="ResetUsage" xml:space="preserve"> <value>亲爱的用户，在您第一次注册后的 {DaysFromNow} 天内，您的使用量已被重置。
 
-‼️ Attention: Reality Configs Only work on specific clients at the moment.
-Need more help? Tap on /help</value>
-  </data>
-  <data name="CopyConnectionAndPaste" xml:space="preserve">
-    <value>To use click on the text to copy it then paste it on the desired application.</value>
-  </data>
-  <data name="DaysAddedToSubscription" xml:space="preserve">
-    <value>{0} days added to your subscription!</value>
-  </data>
-  <data name="DirectMessageError" xml:space="preserve">
-    <value>Something went wrong. the error report has been sent to developer. try again if the problem persists contact us with {SupportID}.</value>
-  </data>
-  <data name="Done" xml:space="preserve">
-    <value>Done</value>
-  </data>
-  <data name="ErrorGeneratingConnections" xml:space="preserve">
-    <value>An error occurred while generating your connections, Tap on /status</value>
-  </data>
-  <data name="GettingData" xml:space="preserve">
-    <value>Fetching
-.
-.
-.
-.
-.
-.
-.
-.
-.</value>
-  </data>
-  <data name="Greeting" xml:space="preserve">
-    <value>Welcome!
-You can always send /status command to see your latest status</value>
-  </data>
-  <data name="HowToExtend" xml:space="preserve">
-    <value>How you want to extend your account</value>
-  </data>
-  <data name="InvitationSucceed" xml:space="preserve">
-    <value>Invitation Succeed!</value>
-  </data>
-  <data name="InviteMessage" xml:space="preserve">
-    <value>🔖 You are invited to use SegVPN.
-Tap on the link below and start the bot.
+    您可以随时查看菜单或查看您的最后状态点击 /status</value> </data>
+  <data name="SendMessageBelowToUser" xml:space="preserve"> <value>✉️ 将下面的消息发送给您想要邀请的人。
 
-{Url}</value>
-  </data>
-  <data name="ConnectionExpiringFree" xml:space="preserve">
-    <value>⚠️ You have used more than {percent}% of your {MaxUsage}GB monthly allowed connection traffic! Tap on usage for more detail.</value>
-  </data>
-  <data name="ConnectionExpiringPaid" xml:space="preserve">
-    <value>⚠️ You have used more than {percent}% of your {MaxUsage}GB monthly allowed connection traffic.
-If your usage exceeds {MaxUsage} GigaBytes, your account will be suspended until the end of your subscription month.</value>
-  </data>
-  <data name="ConnectionSuspendedPaid" xml:space="preserve">
-    <value>⛔️ You have used your all of {MaxUsage} GigaBytes of your monthly traffic limitation and your subscription is suspended until the end of your subsciption month.
-</value>
-  </data>
-  <data name="ConnectionSuspendedFree" xml:space="preserve">
-    <value>⚠️ You have used all of your {MaxUsage} GigaBytes of your free trial traffic limitation.
-To subscribe for a premium account tap on 'Subscription' Button.
-</value>
-  </data>
-  <data name="lblDays" xml:space="preserve">
-    <value>Days</value>
-  </data>
-  <data name="lblExpireDate" xml:space="preserve">
-    <value>&lt;b&gt;Subscription Expire Date:&lt;/b&gt;</value>
-  </data>
-  <data name="lblFrom" xml:space="preserve">
-    <value>From</value>
-  </data>
-  <data name="lblFromMainConnection" xml:space="preserve">
-    <value>From Main Connection</value>
-  </data>
-  <data name="lblGigabyte" xml:space="preserve">
-    <value>GB</value>
-  </data>
-  <data name="lblMain" xml:space="preserve">
-    <value>Main</value>
-  </data>
-  <data name="lblMainConnection" xml:space="preserve">
-    <value>Main Connection</value>
-  </data>
-  <data name="lblSumOfUsage" xml:space="preserve">
-    <value>&lt;b&gt;Total Data Usage:&lt;/b&gt;</value>
-  </data>
-  <data name="MainMenuDescription" xml:space="preserve">
-    <value>
-✨ With the buttons below you can manage your account or see your latest status.
+    💵 每邀请一人，您的信用额度将增加5分。另外，您还将获得被邀请人每笔交易的10%。</value> </data>
+  <data name="SendMessagesAboveToUser" xml:space="preserve"> <value>将上面的消息发送给用户</value> </data>
+  <data name="SelectServerToChange" xml:space="preserve"> <value> 🌎 选择一个位置进行更换。 您目前在 {CurrentServerName}。 </value> </data>
+  <data name="ServerChangedSuccessfully" xml:space="preserve"> <value>🌎 位置更换成功。 ❗️ 您的当前连接将很快被删除，请通过更新您的订阅或复制粘贴新生成的配置文本来使用新的连接。
 
-👉 Follow Us @SEGVPN
-</value>
-  </data>
-  <data name="MakingConnections" xml:space="preserve">
-    <value>Making connections...</value>
-  </data>
-  <data name="MakingConnectionWait" xml:space="preserve">
-    <value>⚙️ We are preparing your connections. please wait!</value>
-  </data>
-  <data name="NewServerNowAdded" xml:space="preserve">
-    <value>New server is just added to the list. You can see them using the button below.</value>
-  </data>
-  <data name="NoActiveSubscription" xml:space="preserve">
-    <value>You have no active subscription.
- Tap on /status command to activate your account.</value>
-  </data>
-  <data name="NoDebtToSettle" xml:space="preserve">
-    <value>You do not have any debt to settle at the moment</value>
-  </data>
-  <data name="NoWalletTransactionsFound" xml:space="preserve">
-    <value>No walletTransactions found</value>
-  </data>
-  <data name="NoServerAvailable" xml:space="preserve">
-    <value>No server is available right now</value>
-  </data>
-  <data name="NoServerAvailableAddThenRetry" xml:space="preserve">
-    <value>No server is available at the moment, add one then try again</value>
-  </data>
-  <data name="NoServerAvailableAdminNotified" xml:space="preserve">
-    <value>🔍 No server found at the moment. Try again after a few hours.
-We are also notified and after a server is made, they will notify you.</value>
-  </data>
-  <data name="NoServerAvailableForChangeAdminNotified" xml:space="preserve">
-    <value>🔍 No server found at the moment for you to change to. Try again after a few hours.
-We are also notified and after a server is made, they will notify you.</value>
-  </data>
-  <data name="NoUserFound" xml:space="preserve">
-    <value>No user found.</value>
-  </data>
-  <data name="WalletTransactionReceiptDetail" xml:space="preserve">
-    <value>Subscription receipt {UserSelectedName} for {WalletTransactionTypeTitle} on {Date} at {Time} (GMT) amount {Amount}$
+    ‼️ 注意：Reality Configs 目前只适用于特定的客户端。 点击 /help 查看更多详情</value> </data>
+  <data name="ServerNoLongerAvailable" xml:space="preserve"> <value>所选服务器已不可用。请选择另一个服务器</value> </data>
+  <data name="SubscriptionExpired" xml:space="preserve"> <value>💀 您的订阅已过期，所有的连接都被删除了。
 
-This images will be deleted from here after a while, Forward them elsewhere to keep them</value>
-  </data>
-  <data name="PermissionDenied" xml:space="preserve">
-    <value>You do not have sufficient permission to perform this task</value>
-  </data>
-  <data name="PollAnswerSubmitted" xml:space="preserve">
-    <value>Your answer submitted! Thank you.🙏😊</value>
-  </data>
-  <data name="NotSubscribedUserAccountText" xml:space="preserve">
-    <value>You currently do not have any active subscriptions, tap on the button below to see the plans.</value>
-  </data>
-  <data name="ResetUsage" xml:space="preserve">
-    <value>Dear user, after {DaysFromNow} days of your first registeration your usage has been reset.
-Thanks for choosing us🌿🙏
+    ♻️ 要再次订阅，请点击下面的按钮。</value> </data>
+  <data name="SubscriptionExpireDate" xml:space="preserve"> <value>您的订阅有效期为 {GetSubscriptionDaysTillExpire} 天，直到 {ExpireDate}</value> </data>
+  <data name="SubscriptionExpiring" xml:space="preserve"> <value>您的订阅即将到期，请考虑充值您的账户。</value> </data>
+  <data name="SubscriptionRemainingDayPaid" xml:space="preserve"> <value>距离您的订阅结束还有 {daysTillExpire} 天。点击下面的按钮来延长它。</value> </data>
+  <data name="SubscriptionRemainingDayFree" xml:space="preserve"> <value>距离您的试用订阅结束还有 {daysTillExpire} 天。要订购高级账户，请点击此按钮。</value> </data>
+  <data name="SystemMessageCurrentUsage" xml:space="preserve"> <value>系统通知：您目前的使用情况</value> </data>
+  <data name="SystemMessagePayDebt" xml:space="preserve"> <value>&lt;i&gt;系统通知：支付债务&lt;/i&gt;
 
-You can always see the menu or see your last state tap on /status</value>
-  </data>
-  <data name="SendMessageBelowToUser" xml:space="preserve">
-    <value>✉️ Send message below to the person you want to invite.
+    亲爱的用户，您上次欠费订阅已经过去了 {day} 天。 要了解更多信息，请点击下面的按钮 谢谢您 🙏</value> </data>
+  <data name="TapToSeeMenu" xml:space="preserve"> <value>点击 /status 查看菜单</value> </data>
+  <data name="UnderMaintenance" xml:space="preserve"> <value>机器人正在维护中…请在 {0} 左右再试</value> </data>
+  <data name="UserAccountExpired" xml:space="preserve"> <value>用户没有有效的账户</value> </data>
+  <data name="UserBecameAdmin" xml:space="preserve"> <value>恭喜！您现在是管理员了。</value> </data>
+  <data name="VerifyingInProgress" xml:space="preserve"> <value>正在验证…</value> </data>
+  <data name="WaitMakingConnections" xml:space="preserve"> <value>请等待我们生成连接…</value> </data>
+  <data name="WhatsMyIDSuccessResult" xml:space="preserve"> <value>完成，谢谢</value> </data>
+  <data name="WindowsApplications" xml:space="preserve"> <value>目前有3个适用于windows的应用程序；
 
-💵 By every invite, 5 cents will be added to your credit. Also, you will receive 10% of every transaction that the invited person makes.</value>
-  </data>
-  <data name="SendMessagesAboveToUser" xml:space="preserve">
-    <value>Send Messages above to the user</value>
-  </data>
-  <data name="SelectServerToChange" xml:space="preserve">
-    <value>
-🌎 Select a location to change.
-You are currently on {CurrentServerName}.
-</value>
-  </data>
-  <data name="ServerChangedSuccessfully" xml:space="preserve">
-    <value>🌎 Location changed successfully.
-❗️ Your current connections will be deleted soon, Please use the new ones by updating your subscription or copying and pasting newly generated config text above.
+    1- softether 
+    2- Nekoray for Vmess, Vless, Trojan 
+    3- Netch for Vmess, Vless, Trojan
 
-‼️ Attention: Reality Configs Only work on specific clients at the moment.
-Tap on /help for more detail</value>
-  </data>
-  <data name="ServerNoLongerAvailable" xml:space="preserve">
-    <value>Selected server is no longer available. Please choose another server</value>
-  </data>
-  <data name="SubscriptionExpired" xml:space="preserve">
-    <value>💀 Your subscription expired and all of your connections are deleted.
-
-♻️ To subscribe again tap on button below.</value>
-  </data>
-  <data name="SubscriptionExpireDate" xml:space="preserve">
-    <value>Your subscription is valid for {GetSubscriptionDaysTillExpire} days and till {ExpireDate}</value>
-  </data>
-  <data name="SubscriptionExpiring" xml:space="preserve">
-    <value>Your subscription is expiring, consider recharging your account.</value>
-  </data>
-  <data name="SubscriptionRemainingDayPaid" xml:space="preserve">
-    <value>There are only {daysTillExpire} days until your subscription ends. Tap on button below to extend it.</value>
-  </data>
-  <data name="SubscriptionRemainingDayFree" xml:space="preserve">
-    <value>There are only {daysTillExpire} days until your trial subscription ends. To subscribe for a premium account tap on this button.</value>
-  </data>
-  <data name="SystemMessageCurrentUsage" xml:space="preserve">
-    <value>System Notification: Your usage till now</value>
-  </data>
-  <data name="SystemMessagePayDebt" xml:space="preserve">
-    <value>&lt;i&gt;System Notification: Pay Debt&lt;/i&gt;
-
-Dear user, {day} days has passed from your last debt subscription.
-For more information tap on the button below
-Thank you 🙏</value>
-  </data>
-  <data name="TapToSeeMenu" xml:space="preserve">
-    <value>Tap on /status to see the menu</value>
-  </data>
-  <data name="UnderMaintenance" xml:space="preserve">
-    <value>The bot is Under Maintenance... Please try again at around {0}</value>
-  </data>
-  <data name="UserAccountExpired" xml:space="preserve">
-    <value>User has no active account</value>
-  </data>
-  <data name="UserBecameAdmin" xml:space="preserve">
-    <value>Congrats! You are now an admin.
-Now you can create unlimited invite links and accept subscriptions
-
-To begin tap on /admin. this option is also available at the bottom right of the screen.</value>
-  </data>
-  <data name="VerifyingInProgress" xml:space="preserve">
-    <value>Verifying...</value>
-  </data>
-  <data name="WaitMakingConnections" xml:space="preserve">
-    <value>Please wait while we are generating connections...</value>
-  </data>
-  <data name="WaitUntilReceiptIsGettingChecked" xml:space="preserve">
-    <value>Wait while admins are checking the receipt</value>
-  </data>
-  <data name="WhatsMyIDSuccessResult" xml:space="preserve">
-    <value>Done, thanks</value>
-  </data>
-  <data name="WindowsApplications" xml:space="preserve">
-    <value>There are currently 3 applications for windows;
-
-1- softether
-2- Nekoray for Vmess, Vless, Trojan
-3- Netch for Vmess, Vless, Trojan
-
-To see the tutorial tap on corresponding button</value>
-  </data>
-  <data name="WrongServerCode" xml:space="preserve">
-    <value>Wrong server code. Try again</value>
-  </data>
-  <data name="SubscriptionPlanFree" xml:space="preserve">
-    <value>Free</value>
-  </data>
-  <data name="SubscriptionPlan1" xml:space="preserve">
-    <value>Bronze</value>
-  </data>
-  <data name="SubscriptionPlan2" xml:space="preserve">
-    <value>Silver</value>
-  </data>
-  <data name="SubscriptionPlan3" xml:space="preserve">
-    <value>Gold</value>
-  </data>
-  <data name="btnSubscription" xml:space="preserve">
-    <value>🛍 Subscription</value>
-  </data>
-  <data name="NoPlansAvailable" xml:space="preserve">
-    <value>There are no plans available at the moment</value>
-  </data>
+    要查看教程，请点击相应的按钮</value> </data>
+  <data name="WrongServerCode" xml:space="preserve"> <value>错误的服务器代码。请重试</value> </data>
+  <data name="SubscriptionPlanFree" xml:space="preserve"> <value>免费</value> </data>
+  <data name="SubscriptionPlan1" xml:space="preserve"> <value>青铜</value> </data>
+  <data name="SubscriptionPlan2" xml:space="preserve"> <value>白银</value> </data>
+  <data name="SubscriptionPlan3" xml:space="preserve"> <value>黄金</value> </data>
+  <data name="btnSubscription" xml:space="preserve"> <value>🛍 订阅</value> </data>
+  <data name="NoPlansAvailable" xml:space="preserve"> <value>目前没有可用的套餐</value> </data>
   <data name="ViewPlanListTemplate" xml:space="preserve">
-    <value>{Number}. {PlanTitle} Plan, {MaxTraffic}GB per Month, {Month} Month, {IpLimit} Simultanous Users. Price &lt;del&gt;{ActualAmount}$&lt;/del&gt; {DiscountedAmount}$ {DiscountPercent}% off!</value>
+    <value>{Number}. {PlanTitle} 计划，每月 {MaxTraffic}GB，{Month} 个月，{IpLimit} 个并发用户。 价格&lt;del&gt;{ActualAmount}$&lt;/del&gt;; {DiscountedAmount}$ {DiscountPercent}% 折扣！</value>
   </data>
   <data name="OrderPlan" xml:space="preserve">
-    <value>Order "{PlanTitle}" for {Amount}$</value>
+    <value>以 {Amount}$ 订购"{PlanTitle}”</value>
   </data>
   <data name="OrderItemDetailPlan" xml:space="preserve">
-    <value>{PlanTitle} Plan
-{MaxTraffic}GB per Month
-{Month} Month
-{IpLimit} Simultanous Users.
+    <value>
+{PlanTitle} 计划
+{MaxTraffic}GB 每月
+{Month}月
+{IpLimit} 并发用户。
 </value>
   </data>
   <data name="OrderItemDetailGiftCredit" xml:space="preserve">
-    <value>Gift {Amount}$ Credit via Gift link
+    <value>通过礼品链接赠送 {Amount}$ 积分
 </value>
   </data>
   <data name="OrderItemDetailGiftPlan" xml:space="preserve">
-    <value>Gift Subscription below via Gift link
+    <value>通过礼物链接在下方订阅礼物
 {PlanDetail}
 </value>
   </data>
   <data name="OrderDetail" xml:space="preserve">
-    <value>Your order detail:
+    <value>您的订单详情：
 
 {OrderItemDetail}
 
-Price {Amount}$
-💰 Your credit: {WalletBalance}$
+价格{金额}$
+💰你的信用：{WalletBalance}$
 
-Tap on button below to pay.</value>
+点击下方按钮进行支付。</value>
   </data>
   <data name="OrderDetailForGiftPurchase" xml:space="preserve">
-    <value>Gift detail:
+    <value>礼物详情：
 
 
-Price {Amount}$
-💰 Your credit: {WalletBalance}$
+价格{金额}$
+💰你的信用：{WalletBalance}$
 
-Tap on button below to pay.</value>
+点击下方按钮进行支付。</value>
   </data>
-  <data name="ChooseGiftType" xml:space="preserve">
-    <value>Choose gift type:</value>
-  </data>
-  <data name="GiftTypeCredit" xml:space="preserve">
-    <value>💰 Credit</value>
-  </data>
-  <data name="GiftTypeSubscription" xml:space="preserve">
-    <value>🛍 Subscription</value>
-  </data>
-  <data name="PayOrderAmount" xml:space="preserve">
-    <value>Pay {Amount}$</value>
-  </data>
-  <data name="btnCancelOrderPayment" xml:space="preserve">
-    <value>❌ Cancel</value>
-  </data>
-  <data name="PayPreviousOrderFirst" xml:space="preserve">
-    <value>You have an unpaid order, please check that first</value>
-  </data>
-  <data name="OrderCancelled" xml:space="preserve">
-    <value>Order cancelled.</value>
-  </data>
-  <data name="btnMyWallet" xml:space="preserve">
-    <value>💰 Credit</value>
-  </data>
+  <data name="ChooseGiftType" xml:space="preserve"> <value>选择礼物类型：</value> </data>
+  <data name="GiftTypeCredit" xml:space="preserve"> <value>💰 信用额度</value> </data>
+  <data name="GiftTypeSubscription" xml:space="preserve"> <value>🛍 订阅</value> </data>
+  <data name="PayOrderAmount" xml:space="preserve"> <value>支付 {Amount}$</value> </data>
+  <data name="btnCancelOrderPayment" xml:space="preserve"> <value>❌ 取消</value> </data>
+  <data name="PayPreviousOrderFirst" xml:space="preserve"> <value>您有一个未付款的订单，请先查看那个</value> </data>
+  <data name="OrderCancelled" xml:space="preserve"> <value>订单已取消。</value> </data>
+  <data name="btnMyWallet" xml:space="preserve"> <value>💰 信用额度</value> </data>
   <data name="MyWalletMessage" xml:space="preserve">
-    <value>💰 Your Current Balance is {WalletBalance}$
+    <value>💰您当前的余额是 {WalletBalance}$
 
-If you want to increase your credit tap on buttons below.
+如果您想增加信用，请点击下面的按钮。
 
-Tip: You also can send the amount in dollar (numbers only) for a custom recharge.
-For example 5.99 or 10...
-(Minimum 0.99)
+提示：您还可以发送美元金额（仅限数字）以进行自定义充值。
+例如 5.99 或 10...
+（最低 0.99）
 </value>
   </data>
   <data name="ChargeWalletCancelled" xml:space="preserve">
-    <value>Charging cancelled, tap /status to see your latest status</value>
+    <value>充电已取消，点按/状态查看您的最新状态</value>
   </data>
   <data name="ChargeWalletAmountIsWrong" xml:space="preserve">
-    <value>Please enter the amount correctly
-For example 5.99 or 10...
-(Minimum 0.99)</value>
+    <value>请正确输入金额
+例如 5.99 或 10...
+（最低 0.99）</value>
   </data>
   <data name="ChargeWalletAmountIsSmallerThan99Cents" xml:space="preserve">
-    <value>Amount should be larger than 0.99$</value>
+    <value>金额应大于 0.99$</value>
   </data>
   <data name="ChargeWalletAmountIsLargerThan2000" xml:space="preserve">
-    <value>Amount should be smaller than 2000$</value>
+    <value>金额应小于 2000$</value>
   </data>
   <data name="ChooseCoin" xml:space="preserve">
-    <value>💵 Choose desired coin to pay {Amount}$ with. </value>
+    <value>💵 选择所需的硬币来支付 {Amount}$. </value>
   </data>
-  <data name="PaymentCancelled" xml:space="preserve">
-    <value>Payment cancelled </value>
-  </data>
-  <data name="InitiatingPayment" xml:space="preserve">
-    <value>Initiating Payment, Generating Crypto Wallet... 
+  <data name="PaymentCancelled" xml:space="preserve"> <value>支付已取消</value> </data>
+  <data name="InitiatingPayment" xml:space="preserve"> <value>正在发起支付，生成加密钱包…
 
-Please wait...</value>
-  </data>
-  <data name="PaymentProviderIsNotAvailable" xml:space="preserve">
-    <value>Payment Provider is currently not available, please try again later</value>
-  </data>
-  <data name="PaymentFailedToInitiate" xml:space="preserve">
-    <value>Payment failed to initiate, please try again later</value>
-  </data>
-  <data name="PaymentStatusChoosingCoin" xml:space="preserve">
-    <value>Choosing Coin</value>
-  </data>
-  <data name="PaymentStatusReadyToInitiate" xml:space="preserve">
-    <value>Ready To Initiate</value>
-  </data>
-  <data name="PaymentStatusWaiting" xml:space="preserve">
-    <value>Waiting for Payment</value>
-  </data>
-  <data name="PaymentStatusConfirming" xml:space="preserve">
-    <value>Confirming</value>
-  </data>
-  <data name="PaymentStatusConfirmed" xml:space="preserve">
-    <value>Confirmed</value>
-  </data>
-  <data name="PaymentStatusSending" xml:space="preserve">
-    <value>Sending</value>
-  </data>
-  <data name="PaymentStatusPartiallyPaid" xml:space="preserve">
-    <value>Partially Paid</value>
-  </data>
-  <data name="PaymentStatusFinished" xml:space="preserve">
-    <value>Finished</value>
-  </data>
-  <data name="PaymentStatusFailed" xml:space="preserve">
-    <value>Failed</value>
-  </data>
-  <data name="PaymentStatusRefunded" xml:space="preserve">
-    <value>Refunded</value>
-  </data>
-  <data name="PaymentStatusExpired" xml:space="preserve">
-    <value>Expired</value>
-  </data>
-  <data name="WaitingForPaymentTemplate" xml:space="preserve">
-    <value>Please send &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} on &lt;b&gt;{CryptoNetwork}&lt;/b&gt; network to Crypto Wallet below
+    请稍候…</value> </data>
+  <data name="PaymentProviderIsNotAvailable" xml:space="preserve"> <value>支付提供商目前不可用，请稍后再试</value> </data>
+  <data name="PaymentFailedToInitiate" xml:space="preserve"> <value>支付初始化失败，请稍后再试</value> </data>
+  <data name="PaymentStatusChoosingCoin" xml:space="preserve"> <value>选择币种</value> </data>
+  <data name="PaymentStatusReadyToInitiate" xml:space="preserve"> <value>准备发起</value> </data>
+  <data name="PaymentStatusWaiting" xml:space="preserve"> <value>等待支付</value> </data>
+  <data name="PaymentStatusConfirming" xml:space="preserve"> <value>确认中</value> </data>
+  <data name="PaymentStatusConfirmed" xml:space="preserve"> <value>已确认</value> </data>
+  <data name="PaymentStatusSending" xml:space="preserve"> <value>发送中</value> </data>
+  <data name="PaymentStatusPartiallyPaid" xml:space="preserve"> <value>部分支付</value> </data>
+  <data name="PaymentStatusFinished" xml:space="preserve"> <value>已完成</value> </data>
+  <data name="PaymentStatusFailed" xml:space="preserve"> <value>失败的</value> </data>
+  <data name="PaymentStatusRefunded" xml:space="preserve"> <value>已退款</value> </data>
+  <data name="PaymentStatusExpired" xml:space="preserve"> <value>已过期</value> </data>
+  <data name="WaitingForPaymentTemplate" xml:space="preserve"> <value>请发送 &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} 到以下加密钱包，使用 &lt;b&gt;{CryptoNetwork}&lt;/b&gt; 网络
 
-&lt;code&gt;{Wallet}&lt;/code&gt;
-{MemoTemplate}
+    &lt;code&gt;{Wallet}&lt;/code&gt; {MemoTemplate}
 
-Payment status: {PaymentStatus}
+    支付状态：{PaymentStatus}
 
-Please note that payments may take a few minutes to take place and you will be notified after verification
+    请注意，支付可能需要几分钟才能完成，您将在验证后收到通知
 
-This payment will expire in {MinutesToExpier} minutes
+    此支付将在 {MinutesToExpire} 分钟后过期
 
-tap on /refresh to refresh manually</value>
-  </data>
-  <data name="MemoTemplate" xml:space="preserve">
-    <value>Memo: &lt;code&gt;{Memo}&lt;/code&gt;
-🟥 Caution: if you do not specify memo, the payment may be lost</value>
-  </data>
-  <data name="PaymentFailed" xml:space="preserve">
-    <value>Payment has failed due to an error. Please try again later.</value>
-  </data>
-  <data name="PaymentExpired" xml:space="preserve">
-    <value>Payment has Expired. Please try again.</value>
-  </data>
-  <data name="PartiallyPaidTemplate" xml:space="preserve">
-    <value>&lt;b&gt;You partially paid the amount❗️&lt;/b&gt;
-We received {ReceivedAmount} {CryptoName} from you
+    点击 /refresh 手动刷新</value> </data>
+  <data name="MemoTemplate" xml:space="preserve"> <value>Memo: &lt;code&gt;{Memo}&lt;/code&gt; 🟥 注意：如果您不指定 memo，支付可能会丢失</value> </data>
+  <data name="PaymentFailed" xml:space="preserve"> <value>支付失败，出现错误。请稍后再试。</value> </data>
+  <data name="PaymentExpired" xml:space="preserve"> <value>支付已过期。请重试。</value> </data>
+  <data name="PartiallyPaidTemplate" xml:space="preserve"> <value>&lt;b&gt;您部分支付了金额❗️&lt;/b&gt; 我们收到了您的 {ReceivedAmount} {CryptoName}
 
-Please send remaining &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} to Crypto Wallet below to complete payment
+    请发送剩余的 &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} 到以下加密钱包以完成支付
 
-&lt;code&gt;{Wallet}&lt;/code&gt;
-{MemoTemplate}
+    &lt;code&gt;{Wallet}&lt;/code&gt; {MemoTemplate}
 
-Payment status: {PaymentStatus}
+    支付状态：{PaymentStatus}
 
-Please note that payments may take a few minutes to take place and you will be notified after verification
+    请注意，支付可能需要几分钟才能完成，您将在验证后收到通知
 
-This payment will expire in {MinutesToExpier} minutes
+    此支付将在 {MinutesToExpire} 分钟后过期
 
-tap on /refresh to refresh manually
-</value>
-  </data>
-  <data name="ConfirmingTemplate" xml:space="preserve">
-    <value>Confirming payment, Please wait...
-</value>
-  </data>
-  <data name="ConfirmedTemplate" xml:space="preserve">
-    <value>Payment confirmed...
-</value>
-  </data>
-  <data name="SendingTemplate" xml:space="preserve">
-    <value>Sending received amount...
-</value>
-  </data>
-  <data name="RefundedTemplate" xml:space="preserve">
-    <value>Payment refunded. Try again
-</value>
-  </data>
-  <data name="PaymentEximatedPriceUpdated" xml:space="preserve">
-    <value>Caution: Payment estimated price updated, please pay the new amount below.
-</value>
-  </data>
-  <data name="PaymentFinished" xml:space="preserve">
-    <value>Thanks, We received {FiatAmount}$, {ReceivedAmount} {CryptoName}.</value>
-  </data>
-  <data name="UserShouldGoPremiumToCharge" xml:space="preserve">
-    <value>You have to go Premium to charge and extend your connection.
-Click on the button below to see the offers.</value>
-  </data>
-  <data name="UserShouldIsCurrentlyPremium" xml:space="preserve">
-    <value>You are currently Premium!</value>
-  </data>
-  <data name="UserHadFreeSubscriptionBefore" xml:space="preserve">
-    <value>We only offer one free subscription! Click on the button below to buy a new subscription.</value>
-  </data>
-  <data name="UserHaveToHaveASubscription" xml:space="preserve">
-    <value>
-❗️ You do not have an active subscription. 
-</value>
-  </data>
-  <data name="btnSwitchToConfigPlainText" xml:space="preserve">
-    <value>📝 Switch to Config Text</value>
-  </data>
-  <data name="btnSwitchToConfigSubscriptionLink" xml:space="preserve">
-    <value>🔑 Switch to Subscription Link</value>
-  </data>
-  <data name="btnHowToConnectToV2ray" xml:space="preserve">
-    <value>How to connect to V2Ray❔</value>
-  </data>
-  <data name="TermsOfService" xml:space="preserve">
-    <value>❗️ To connect to our servers, you must first accept our terms:
+    点击 /refresh 手动刷新 </value> </data>
+  <data name="ConfirmingTemplate" xml:space="preserve"> <value>正在确认支付，请稍候… </value> </data>
+  <data name="ConfirmedTemplate" xml:space="preserve"> <value>支付已确认… </value> </data>
+  <data name="SendingTemplate" xml:space="preserve"> <value>正在发送收到的金额… </value> </data>
+  <data name="RefundedTemplate" xml:space="preserve"> <value>支付已退款。请重试 </value> </data>
+  <data name="PaymentEximatedPriceUpdated" xml:space="preserve"> <value>注意：支付估计价格已更新，请支付下面的新金额。 </value> </data>
+  <data name="PaymentFinished" xml:space="preserve"> <value>谢谢，我们收到了 {FiatAmount}$，{ReceivedAmount} {CryptoName}。</value> </data>
+  <data name="UserShouldGoPremiumToCharge" xml:space="preserve"> <value>您必须升级为高级用户才能充值和延长您的连接。 点击下面的按钮查看优惠。</value> </data>
+  <data name="UserShouldIsCurrentlyPremium" xml:space="preserve"> <value>您目前是高级用户！</value> </data>
+  <data name="UserHadFreeSubscriptionBefore" xml:space="preserve"> <value>我们只提供一次免费订阅！点击下面的按钮购买新的订阅。</value> </data>
+  <data name="UserHaveToHaveASubscription" xml:space="preserve"> <value> ❗️ 您没有有效的订阅。 </value> </data>
+  <data name="btnSwitchToConfigPlainText" xml:space="preserve"> <value>📝 切换到配置文本</value> </data>
+  <data name="btnSwitchToConfigSubscriptionLink" xml:space="preserve"> <value>🔑 切换到订阅链接</value> </data>
+  <data name="btnHowToConnectToV2ray" xml:space="preserve"> <value>如何连接到 V2Ray❔</value> </data>
+  <data name="TermsOfService" xml:space="preserve"> <value>❗️ 要连接到我们的服务器，您必须先接受我们的条款：
 
-— This service is designed for anti-censorship purposes.
-🚫 Network scanning,
-🚫 BitTorrent,
-🚫 Hacking,
-🚫 Cracking,
- and other similar activities are not allowed.
+    — 此服务是为反审查目的而设计的。 
+    🚫 网络扫描， 
+    🚫 BitTorrent， 
+    🚫 黑客， 
+    🚫 破解， 
+    以及其他类似活动是不允许的。
 
-— Connections are designed to be used by only one person.
+    — 连接是设计为只供一人使用。
 
-— If these rules get violated your account may be suspended.</value>
-  </data>
-  <data name="TermsOfServiceAgreedText" xml:space="preserve">
-    <value>
-✅ Terms of service accepted, now you can click on Connect button to receive your connections.
-</value>
-  </data>
+    — 如果违反这些规则，您的账户可能会被暂停。</value> </data>
+  <data name="TermsOfServiceAgreedText" xml:space="preserve"> <value> ✅ 已接受服务条款，现在您可以点击连接按钮来获取您的连接。 </value> </data>
   <data name="TermsOfServiceDisagreeText" xml:space="preserve">
     <value>
-We are sorry that our terms do not suit you! We hope you come back soon or use our other &lt;a href="https://t.me/SegLand"&gt;Products&lt;/a&gt;.
-
-Tap on /terms to see terms again.
-</value>
+很抱歉我们的条款不适合您！ 我们希望您尽快回来或使用我们的其他 &lt;a href="https://t.me/SegLand"&gt; 产品 &lt;/a&gt;。
+点击 /terms 再次查看条款。</value>
   </data>
   <data name="InviteeShareToInviter" xml:space="preserve">
     <value>
-💰 One of your invitees had a payment so here is your share! 
+💰您的一位受邀者付款了，所以这是您的份额！
 
-You received {share}$ and your current credit is {walletBalance}$
-</value>
+您收到了 {share}$，您当前的余额为 {walletBalance}$</value>
   </data>
   <data name="SomeoneJoinedByInviteLink" xml:space="preserve">
     <value>
-💰 Someone joined the bot using your invite link
-You received {share}$ and your current credit is {walletBalance}$
-</value>
+💰有人使用您的邀请链接加入了机器人
+您收到了 {share}$，您当前的余额为 {walletBalance}$</value>
   </data>
-  <data name="GiftChooseAmount" xml:space="preserve">
-    <value>
-💰 Choose Amount you want to gift 
-</value>
-  </data>
-  <data name="GiftChoosePlan" xml:space="preserve">
-    <value>
-🛍 Choose Plan you want to gift
-</value>
-  </data>
-  <data name="TheGiftIsReady" xml:space="preserve">
-    <value>
-🎁 The gift is ready! 
-Send Message to the person you want to surprise with it!
-</value>
-  </data>
-  <data name="GiftCreditMessageText" xml:space="preserve">
-    <value>&lt;b&gt;🎁 You've got a gift! &lt;/b&gt;
-&lt;i&gt;Claim your {Amount}$ credit of SEGVpn!&lt;/i&gt;
+  <data name="GiftChooseAmount" xml:space="preserve"> <value> 💰 选择您想要赠送的金额 </value> </data>
+  <data name="GiftChoosePlan" xml:space="preserve"> <value> 🛍 选择您想要赠送的套餐 </value> </data>
+  <data name="TheGiftIsReady" xml:space="preserve"> <value> 🎁 礼物已准备好！ 给您想要惊喜的人发送消息吧！ </value> </data>
+  <data name="GiftCreditMessageText" xml:space="preserve"> <value>&lt;b&gt;🎁 您收到了一个礼物！ &lt;/b&gt; &lt;i&gt;领取您的 {Amount}$ SEGVpn 信用额度！&lt;/i&gt;
 
-👉 Just follow this link and start the bot to get your gift: 
+    👉 只需点击此链接并启动机器人即可获取您的礼物：
 
-{Url}
-</value>
-  </data>
-  <data name="GiftSubscriptionPlanMessageText" xml:space="preserve">
-    <value>&lt;b&gt;🎁 You've got a gift! &lt;/b&gt;
-&lt;i&gt;Enjoy a free {PlanTitle} Plan Subscription of SEGVpn!&lt;/i&gt;
+    {Url} </value> </data>
+  <data name="GiftSubscriptionPlanMessageText" xml:space="preserve"> <value>&lt;b&gt;🎁 您收到了一个礼物！ &lt;/b&gt; &lt;i&gt;免费享受 SEGVpn 的 {PlanTitle} 套餐订阅！&lt;/i&gt;
 
-👉 Just click on this link and start the bot to claim your gift:
+    👉 只需点击此链接并启动机器人即可领取您的礼物：
 
-{Url}
-</value>
-  </data>
-  <data name="GiftSubscriptionPlanOverview" xml:space="preserve">
-    <value>
-&lt;b&gt;🎀 Here’s an overview of your gift:&lt;/b&gt;:
+    {Url} </value> </data>
+  <data name="GiftSubscriptionPlanOverview" xml:space="preserve"> <value> &lt;b&gt;🎀 这是您的礼物概览：&lt;/b&gt;：
 
-A free {PlanTitle} Plan Subscription of SEGVpn
-</value>
-  </data>
-  <data name="GiftCreditOverview" xml:space="preserve">
-    <value>
-&lt;b&gt;🎀 Here’s an overview of your gift:&lt;/b&gt;:
+    SEGVpn 的免费 {PlanTitle} 套餐订阅 </value> </data>
+  <data name="GiftCreditOverview" xml:space="preserve"> <value> &lt;b&gt;🎀 这是您的礼物概览：&lt;/b&gt;：
 
-{Amount}$ credit of SEGVpn
-</value>
-  </data>
-  <data name="AcceptTermsFirstThenClickOnGift" xml:space="preserve">
-    <value>
-Please accept our terms of use first then click on Gift code Again.
+    SEGVpn 的 {Amount}$ 信用额度 </value> </data>
+  <data name="AcceptTermsFirstThenClickOnGift" xml:space="preserve"> <value> 请先接受我们的使用条款，然后再次点击礼物代码。
 
-Provided code: {Url}
-</value>
-  </data>
-  <data name="GiftCodeIsInvalid" xml:space="preserve">
-    <value>
-Gift code is invalid.
-</value>
-  </data>
-  <data name="GiftCreditAdded" xml:space="preserve">
-    <value>
-🎉 You’ve got {Amount}$ added to your credit!
-</value>
-  </data>
-  <data name="GiftSubscriptionAdded" xml:space="preserve">
-    <value>
-🎉 You’ve just activated your {SubscriptionPlan} Plan for free!
-</value>
-  </data>
-  <data name="AddToV2RayClient" xml:space="preserve">
-    <value>
-Add this link to a V2Ray client:
-</value>
+    提供的代码：{Url} </value> </data>
+  <data name="GiftCodeIsInvalid" xml:space="preserve"> <value> 礼物代码无效。 </value> </data>
+  <data name="GiftCreditAdded" xml:space="preserve"> <value> 🎉 您已经获得了 {Amount}$ 的信用额度！ </value> </data>
+  <data name="GiftSubscriptionAdded" xml:space="preserve"> <value> 🎉 您已经免费激活了您的 {SubscriptionPlan} 套餐！ </value> </data>
+  <data name="AddToV2RayClient" xml:space="preserve"> <value> 将此链接添加到 V2Ray 客户端： </value>
   </data>
   <data name="SubscriptionLinkIsPermanent" xml:space="preserve">
     <value>
-✅ This is your permanent subscription link. If you change your location or purchase new subscriptions, this link will remain the same. Just remember to &lt;b&gt;Update Subscription&lt;/b&gt; in the V2ray Client after making any changes.
-</value>
+✅ 这是您的永久订阅链接。 如果您更改位置或购买新订阅，此链接将保持不变。 请记住 &lt;b&gt;更新订阅&lt;/b&gt; 在进行任何更改后在 V2ray 客户端中。</value>
   </data>
   <data name="AndroidTeachingText" xml:space="preserve">
     <value>
-Android step by step guide on using Subscription Link
+Android 使用订阅链接的分步指南
 
-1- Download V2rayNG from this link: https://github.com/2dust/v2rayNG/releases (You have to download V2rayNG version 1.8+ from Github if you want to use Reality configs)
-2- Tap on '🌐 Connect!' Button to get config text
-3- Tap on '🔑 Switch to Subscription Link' Button below the config text to get your permanent subscription link
-4- Tap on the link to copy it
-5- Open V2rayNG and tap on Menu icon on top left
-6- Tap on 'Subscription group setting'
-7- Tap on + icon on top right
-8- On 'remark' textbox enter your desired name ie: SegVPN
-9- Tap on 'Optional URL' and paste your permanent subscription link you copied at step 4
-10- Tap on Check Icon on top right
-11- Tap on back Icon on top left to return to the main page of V2rayNG
-12- Tap on 3 dots at top right
-13- Tap on 'Update subscription' and wait until your connections appear
-14- Tap on a connection you want to use 
-15- Click on connect button on bottom right
+1- 从这个链接下载 V2rayNG：https://github.com/2dust/v2rayNG/releases（如果你想使用 Reality 配置，你必须从 Github 下载 V2rayNG 版本 1.8+）
+2- 点击"🌐连接！” 获取配置文本的按钮
+3- 点击配置文本下方的"🔑切换到订阅链接”按钮以获取永久订阅链接
+4- 点击链接进行复制
+5- 打开 V2rayNG 并点击左上角的菜单图标
+6- 点击"订阅组设置”
+7- 点击右上角的 + 图标
+8- 在"备注”文本框中输入您想要的名称，即：SegVPN
+9- 点击"可选 URL”并粘贴您在第 4 步复制的永久订阅链接
+10- 点击右上角的检查图标
+11- 点击左上角的返回图标返回到 V2rayNG 的主页
+12- 点击右上角的 3 个点
+13- 点击"更新订阅”并等待您的连接出现
+14- 点击您要使用的连接
+15-点击右下角的连接按钮
 
-⚠️ NOTE: Repeat steps 12 to 15 whenever your connections did not work properly.
-</value>
+⚠️ 注意：每当您的连接无法正常工作时，请重复步骤 12 至 15。</value>
   </data>
   <data name="IosTeachingText" xml:space="preserve">
     <value>
-iOS step by step guide on using Subscription Link
+iOS 使用订阅链接的分步指南
 
-1- Download Wings X from this link: https://apps.apple.com/us/app/wings-x/id6446119727
-2- Tap on '🌐 Connect!' Button to get config text
-3- Tap on '🔑 Switch to Subscription Link' Button below the config text to get your permanent subscription link
-4- Tap on the link to copy it
-5- Open Wings X and tap on + icon on top right
-6- Tap on 'Subscription Link'
-7- On 'name' textbox enter your desired name ie: SegVPN
-8- Tap on 'URL' and paste your permanent subscription link you copied at step 4
-9- Tap on 'Subscribe' and wait for a few seconds
-10- Tap on 'Play' Button in front of each connection you want to use
+1- 从此链接下载 Wings X：https://apps.apple.com/us/app/wings-x/id6446119727
+2- 点击"🌐连接！” 获取配置文本的按钮
+3- 点击配置文本下方的"🔑切换到订阅链接”按钮以获取永久订阅链接
+4- 点击链接进行复制
+5- 打开 Wings X 并点击右上角的 + 图标
+6- 点击"订阅链接”
+7- 在"名称”文本框中输入您想要的名称，即：SegVPN
+8- 点击"URL”并粘贴您在第 4 步复制的永久订阅链接
+9- 点击"订阅”并等待几秒钟
+10- 点击您要使用的每个连接前面的"播放”按钮
 
-⚠️ NOTE: Do the following steps if your connections did not work properly after some time.
+⚠️ 注意：如果您的连接在一段时间后无法正常工作，请执行以下步骤。
 
-1- Open Wings X and click on '📎(Clipper)' Icon
-2- Tap on the name of your subscription
-3- Tap on 'Update' and return to Main Page 
+1- 打开 Wings X 并点击"📎(Clipper)”图标
+2- 点击您的订阅名称
+3- 点击"更新”并返回主页
 
-⚪️ Alternative applications: 
+⚪️ 替代应用：
 A. NapsternetV https://apps.apple.com/us/app/napsternetv/id1629465476
 B. Fair VPN https://apps.apple.com/us/app/fair-vpn/id1533873488
-C. V2Box https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
-</value>
+C. V2Box https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690</value>
   </data>
   <data name="WindowsTeachingText" xml:space="preserve">
     <value>
-Windows step by step guide on using Subscription Link
+Windows 使用订阅链接的分步指南
 
-1- Download V2rayN by following the gif below from this link: https://github.com/2dust/v2rayN/releases
-2- After installing and updating, run the program as administrator
-3- Tap on '🌐 Connect!' Button to get config text
-4- Tap on '🔑 Switch to Subscription Link' Button below the config text to get your permanent subscription link
-5- Tap on the link to copy it
-6- Click on + Icon and on 'Remarks' textbox enter your desired name ie: SegVPN 
-7- Click on 'URL' Textbox and paste URL you copied at step 5
-8- Click on 'Confirm'
-9- Select the newly created tab (In this example the name will be SegVPN)
-10- Click on 'Subscription group' and click on 'Update current subscription without proxy'
-11- Left click on the config you want to connect to, then hit enter
-12- Check 'Enable Tun' at bottom middle
+1- 通过以下链接中的 gif 下载 V2rayN：https://github.com/2dust/v2rayN/releases
+2-安装和更新后，以管理员身份运行程序
+3- 点击"🌐连接！” 获取配置文本的按钮
+4- 点击配置文本下方的"🔑切换到订阅链接”按钮以获取永久订阅链接
+5-点击链接进行复制
+6- 单击 + 图标并在"备注”文本框中输入您想要的名称，即：SegVPN
+7- 单击"URL”文本框并粘贴您在第 5 步复制的 URL
+8-点击"确认”
+9- 选择新创建的选项卡（在此示例中，名称将是 SegVPN）
+10- 单击"订阅组”，然后单击"无需代理更新当前订阅”
+11- 左键单击要连接的配置，然后按 Enter
+12-选中底部中间的"启用Tun”
 
-⚠️ NOTE: Repeat step 10 whenever your connections did not work properly.
+⚠️ 注意：每当您的连接无法正常工作时，请重复第 10 步。
 
-⚪️ Alternative applications: 
+⚪️ 替代应用：
 A. Nekoray https://github.com/MatsuriDayo/nekoray/releases
-
 </value>
   </data>
-  <data name="InviteToGetMoney" xml:space="preserve">
-    <value>
-&lt;b&gt;💡 Did you know:&lt;/b&gt;
-You can get 5 cents &lt;i&gt;guaranteed&lt;/i&gt; for every friend you invite to SEGVpn!
+  <data name="InviteToGetMoney" xml:space="preserve"> <value> &lt;b&gt;💡 您知道吗：&lt;/b&gt; 您可以为每个邀请到 SEGVpn 的朋友获得 5 分钱 &lt;i&gt;保证&lt;/i&gt;！
 
-👇 Just tap on the '✉️ Invite' button below and start making money 💸</value>
-  </data>
-  <data name="ChangeLocationToImproveSpeed" xml:space="preserve">
-    <value>&lt;b&gt;📡 We Noticed Something...&lt;/b&gt;
+    👇 只需点击下面的 ‘✉️ 邀请’ 按钮，开始赚钱 💸</value> </data>
+  <data name="ChangeLocationToImproveSpeed" xml:space="preserve"> <value>&lt;b&gt;📡 我们注意到了一些事情…&lt;/b&gt;
 
-📶 You have used less than 1 Gigabyte of your service in the past 10 days. We want you to enjoy the full benefits of our features, so here are some suggestions to optimize your experience:
+    📶 您在过去的 10 天内使用了不到 1 GB 的服务。我们希望您享受我们功能的全部好处，所以这里有一些建议来优化您的体验：
 
-&lt;b&gt;&lt;i&gt;🌎 Switch your location&lt;/i&gt;&lt;/b&gt;
-You can get a faster and more stable connection by choosing a different location that suits your ISP and Provider better. Just tap on the ‘🔶 Change Location’ button below and explore our options.
+    &lt;b&gt;&lt;i&gt;🌎 切换您的位置&lt;/i&gt;&lt;/b&gt; 
+    您可以通过选择一个更适合您的 ISP 和提供商的不同位置，获得更快速和更稳定的连接。只需点击下面的 ‘🔶 更改位置’ 按钮，探索我们的选项。
 
-&lt;b&gt;&lt;i&gt;🛡️ Use Compatible Clients&lt;/i&gt;&lt;/b&gt;
-SEGVpn offers state of the art, advanced and secure configs that only work with certain V2Ray clients. To find out which clients are compatible, please tap on /help
+    &lt;b&gt;&lt;i&gt;🛡️ 使用兼容的客户端&lt;/i&gt;&lt;/b&gt; 
+    SEGVpn 提供了先进、安全的配置，只能与某些 V2Ray 客户端一起使用。要了解哪些客户端是兼容的，请点击 /help
 
-&lt;b&gt;&lt;i&gt;🔁 Refresh your Subscription Link&lt;/i&gt;&lt;/b&gt;
-We have to update our domains regularly to avoid being blocked by GFW. To keep up with our changes, go to your v2ray app and tap on ‘Update Subscription’. For more details, tap on /help.
+    &lt;b&gt;&lt;i&gt;🔁 刷新您的订阅链接&lt;/i&gt;&lt;/b&gt; 
+    我们必须定期更新我们的域名，以避免被 GFW 阻止。为了跟上我们的变化，请到您的 v2ray 应用程序，点击 ‘更新订阅’。更多详情，请点击 /help。
 
-&lt;b&gt;&lt;i&gt;📧 Reach out to us&lt;/i&gt;&lt;/b&gt;
-If none of the above solutions work for you, don’t hesitate to contact us at SEGSeed@Gmail.com and tell us your problem. Our Support Team is always ready to help you and solve any issues you may have.
+    &lt;b&gt;&lt;i&gt;📧 联系我们&lt;/i&gt;&lt;/b&gt; 
+    如果以上解决方案都不适合您，请随时联系我们 SEGSeed@Gmail.com，并告诉我们您的问题。我们的支持团队随时准备帮助您，解决您可能遇到的任何问题。
 
+    在这些艰难的互联网时代，我们很荣幸能让您保持连接
 
-We are honored to keep you connected in these tough internet times
-
-🚀 STAY CONNECTED 🚀
-</value>
-  </data>
+    🚀 保持连接 🚀 </value> </data>
 </root>

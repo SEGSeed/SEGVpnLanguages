@@ -117,860 +117,391 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccountExtendedSuccessfully" xml:space="preserve">
-    <value>Your account extended successfully. thank you! ☺️🙏</value>
-  </data>
-  <data name="btnAgree" xml:space="preserve">
-    <value>✅ Agree</value>
-  </data>
-  <data name="btnNotAgree" xml:space="preserve">
-    <value>❌ Do not agree</value>
-  </data>
-  <data name="btnAccept" xml:space="preserve">
-    <value>✅ Accept</value>
-  </data>
-  <data name="btnApplications" xml:space="preserve">
-    <value>📱 Applications</value>
-  </data>
-  <data name="btnBack" xml:space="preserve">
-    <value>↩️ Back</value>
-  </data>
-  <data name="btnStartFreeTrial" xml:space="preserve">
-    <value>🥁 Start Your Free Trial</value>
-  </data>
-  <data name="btnConnect" xml:space="preserve">
-    <value>🌐 Connect!</value>
-  </data>
-  <data name="btnApply" xml:space="preserve">
-    <value>✅ Apply</value>
-  </data>
-  <data name="btnCancel" xml:space="preserve">
-    <value>❌ Cancel</value>
-  </data>
-  <data name="btnReturnToMainMenu" xml:space="preserve">
-    <value>↩️ Return to main menu</value>
-  </data>
-  <data name="btnChangeServer" xml:space="preserve">
-    <value>🔶 Change Location</value>
-  </data>
-  <data name="btnClose" xml:space="preserve">
-    <value>❌ Close</value>
-  </data>
-  <data name="btnConfirmedWalletTransactions" xml:space="preserve">
-    <value>📄 Confirmed WalletTransactions</value>
-  </data>
-  <data name="btnContactSupport" xml:space="preserve">
-    <value>🧑🏽‍💻 Contact Support</value>
-  </data>
-  <data name="btnDone" xml:space="preserve">
-    <value>✅ Done</value>
-  </data>
-  <data name="btnEditCard" xml:space="preserve">
-    <value>✍️ Edit Bank Card</value>
-  </data>
-  <data name="btnExtendSubscription" xml:space="preserve">
-    <value>💵 Extend Subscription</value>
-  </data>
-  <data name="btnGetConnections" xml:space="preserve">
-    <value>⤵️ Get Connections</value>
-  </data>
-  <data name="btnHowToChangeServer" xml:space="preserve">
-    <value>❓ How to change my server?</value>
-  </data>
-  <data name="btnHowToConnectWithAndroid" xml:space="preserve">
-    <value>◽️ How to connect with Android</value>
-  </data>
-  <data name="btnHowToConnectWithiPhone" xml:space="preserve">
-    <value>◽️ How to connect with iPhone</value>
-  </data>
-  <data name="btnHowToConnectWithWindows" xml:space="preserve">
-    <value>◽️ How to connect with Windows</value>
-  </data>
-  <data name="btnHowToExtendSubscription" xml:space="preserve">
-    <value>❓ How to extend connection period?</value>
-  </data>
-  <data name="btnHowToIncreaseSpeed" xml:space="preserve">
-    <value>❓ How to increase speed</value>
-  </data>
-  <data name="btnHowToViewUsage" xml:space="preserve">
-    <value>❓ How to view my usage</value>
-  </data>
-  <data name="btnGift" xml:space="preserve">
-    <value>🎁 Gift</value>
-  </data>
-  <data name="btnInvite" xml:space="preserve">
-    <value>✉️ Invite</value>
-  </data>
-  <data name="btnGoPremium" xml:space="preserve">
-    <value>🛫 Go Premium</value>
-  </data>
-  <data name="btnReject" xml:space="preserve">
-    <value>❌ Reject</value>
-  </data>
-  <data name="btnServersAdded" xml:space="preserve">
-    <value>Servers Added</value>
-  </data>
-  <data name="btnSettleDebt" xml:space="preserve">
-    <value>💸 Settle Debt</value>
-  </data>
-  <data name="btnTutorial" xml:space="preserve">
-    <value>🧑‍🏫 Tutorials</value>
-  </data>
-  <data name="btnUsage" xml:space="preserve">
-    <value>📊 Usage</value>
-  </data>
-  <data name="lblUsage" xml:space="preserve">
-    <value>📊 Usage</value>
-  </data>
-  <data name="btnViewAppTutorial" xml:space="preserve">
-    <value>🖥 View App Tutorial</value>
-  </data>
-  <data name="ChangeServerCanceled" xml:space="preserve">
-    <value>Change Server canceled</value>
-  </data>
-  <data name="ChangeServerNotInState" xml:space="preserve">
-    <value>To change your server first tap on the button below and then select a server.
+  <data name="AccountExtendedSuccessfully" xml:space="preserve"> <value>Ваш аккаунт успешно продлен. Спасибо! ☺️🙏</value> </data>
+  <data name="btnAgree" xml:space="preserve"> <value>✅ Согласен</value> </data>
+  <data name="btnNotAgree" xml:space="preserve"> <value>❌ Не согласен</value> </data>
+  <data name="btnAccept" xml:space="preserve"> <value>✅ Принять</value> </data>
+  <data name="btnApplications" xml:space="preserve"> <value>📱 Приложения</value> </data>
+  <data name="btnBack" xml:space="preserve"> <value>↩️ Назад</value> </data>
+  <data name="btnStartFreeTrial" xml:space="preserve"> <value>🥁 Начать бесплатный пробный период</value> </data>
+  <data name="btnConnect" xml:space="preserve"> <value>🌐 Подключиться!</value> </data>
+  <data name="btnApply" xml:space="preserve"> <value>✅ Применить</value> </data>
+  <data name="btnCancel" xml:space="preserve"> <value>❌ Отменить</value> </data>
+  <data name="btnReturnToMainMenu" xml:space="preserve"> <value>↩️ Вернуться в главное меню</value> </data>
+  <data name="btnChangeServer" xml:space="preserve"> <value>🔶 Сменить локацию</value> </data>
+  <data name="btnClose" xml:space="preserve"> <value>❌ Закрыть</value> </data>
+  <data name="btnContactSupport" xml:space="preserve"> <value>🧑🏽‍💻 Связаться с поддержкой</value> </data>
+  <data name="btnDone" xml:space="preserve"> <value>✅ Готово</value> </data>
+  <data name="btnExtendSubscription" xml:space="preserve"> <value>💵 Продлить подписку</value> </data>
+  <data name="btnGetConnections" xml:space="preserve"> <value>⤵️ Получить подключения</value> </data>
+  <data name="btnHowToChangeServer" xml:space="preserve"> <value>❓ Как сменить сервер?</value> </data>
+  <data name="btnHowToConnectWithAndroid" xml:space="preserve"> <value>◽️ Как подключиться с Android</value> </data>
+  <data name="btnHowToConnectWithiPhone" xml:space="preserve"> <value>◽️ Как подключиться с iPhone</value> </data>
+  <data name="btnHowToConnectWithWindows" xml:space="preserve"> <value>◽️ Как подключиться с Windows</value> </data>
+  <data name="btnHowToExtendSubscription" xml:space="preserve"> <value>❓ Как продлить период подключения?</value> </data>
+  <data name="btnHowToIncreaseSpeed" xml:space="preserve"> <value>❓ Как увеличить скорость</value> </data>
+  <data name="btnHowToViewUsage" xml:space="preserve"> <value>❓ Как посмотреть моё использование</value> </data>
+  <data name="btnGift" xml:space="preserve"> <value>🎁 Подарок</value> </data>
+  <data name="btnInvite" xml:space="preserve"> <value>✉️ Пригласить</value> </data>
+  <data name="btnGoPremium" xml:space="preserve"> <value>🛫 Перейти на Премиум</value> </data>
+  <data name="btnReject" xml:space="preserve"> <value>❌ Отклонить</value> </data>
+  <data name="btnServersAdded" xml:space="preserve"> <value>Серверы добавлены</value> </data>
+  <data name="btnSettleDebt" xml:space="preserve"> <value>💸 Погасить долг</value> </data>
+  <data name="btnTutorial" xml:space="preserve"> <value>🧑‍🏫 Уроки</value> </data>
+  <data name="btnUsage" xml:space="preserve"> <value>📊 Использование</value> </data>
+  <data name="lblUsage" xml:space="preserve"> <value>📊 Использование</value> </data>
+  <data name="btnViewAppTutorial" xml:space="preserve"> <value>🖥 Посмотреть урок по приложению</value> </data>
+  <data name="ChangeServerCanceled" xml:space="preserve"> <value>Смена сервера отменена</value> </data>
+  <data name="ChangeServerNotInState" xml:space="preserve"> <value>Чтобы сменить свой сервер, сначала нажмите на кнопку ниже и выберите сервер.
 
-To see the bot menu you can always click on /status</value>
-  </data>
-  <data name="ChangeToThisServerNeedsPremiumAccount" xml:space="preserve">
-    <value>
-❗️ You have to have a Premium Account to switch to this location.
-Tap on "🛍 Subscription" button to buy your Premium Subscription.
-</value>
-  </data>
-  <data name="ChangingServerWait" xml:space="preserve">
-    <value>Changing your server.🙏 Please be patient...</value>
-  </data>
-  <data name="ChooseOS" xml:space="preserve">
-    <value>Choose your Operating System</value>
-  </data>
-  <data name="ChooseTutorial" xml:space="preserve">
-    <value>Choose your desired tutorial</value>
-  </data>
-  <data name="ClickOnSettleDebt" xml:space="preserve">
-    <value>To pay click on /settleDebt</value>
-  </data>
-  <data name="CommandDoesNotExists" xml:space="preserve">
-    <value>Command Does not exists</value>
-  </data>
-  <data name="ConnectionsGeneratedSuccessfully" xml:space="preserve">
-    <value>✅ Connections are prepared successfully.
+    Чтобы увидеть меню бота, вы всегда можете нажать на /status</value> </data>
+  <data name="ChangeToThisServerNeedsPremiumAccount" xml:space="preserve"> <value> ❗️ Вам нужен Премиум Аккаунт, чтобы переключиться на эту локацию. Нажмите на кнопку "🛍 Подписка”, чтобы купить свою Премиум Подписку. </value> </data>
+  <data name="ChangingServerWait" xml:space="preserve"> <value>Меняем ваш сервер.🙏 Пожалуйста, подождите…</value> </data>
+  <data name="ChooseOS" xml:space="preserve"> <value>Выберите свою операционную систему</value> </data>
+  <data name="ChooseTutorial" xml:space="preserve"> <value>Выберите желаемый урок</value> </data>
+  <data name="ClickOnSettleDebt" xml:space="preserve"> <value>Чтобы оплатить, нажмите на /settleDebt</value> </data>
 
-‼️ Attention: Reality Configs Only work on specific clients at the moment.
-Need more help? Tap on /help</value>
-  </data>
-  <data name="ConnectionsGeneratedSuccessfullyFree" xml:space="preserve">
-    <value>✅ Connections are prepared successfully.
+  <data name="CommandDoesNotExists" xml:space="preserve"> <value>Команда не существует</value> </data>
+  <data name="ConnectionsGeneratedSuccessfully" xml:space="preserve"> <value>✅ Подключения успешно подготовлены.
 
-&lt;b&gt;Attention:&lt;/b&gt; This connection is free trial and has the limit of 7 gigabytes! You always can click on Subscription button to buy your Premium Connection!
+‼️ Внимание: Reality Configs работают только на определенных клиентах в настоящее время. Нужна дополнительная помощь? Нажмите на /help</value> </data>
+  <data name="ConnectionsGeneratedSuccessfullyFree" xml:space="preserve"> <value>✅ Подключения успешно подготовлены.
 
-‼️ Attention: Reality Configs Only work on specific clients at the moment.
-Need more help? Tap on /help</value>
-  </data>
-  <data name="CopyConnectionAndPaste" xml:space="preserve">
-    <value>To use click on the text to copy it then paste it on the desired application.</value>
-  </data>
-  <data name="DaysAddedToSubscription" xml:space="preserve">
-    <value>{0} days added to your subscription!</value>
-  </data>
-  <data name="DirectMessageError" xml:space="preserve">
-    <value>Something went wrong. the error report has been sent to developer. try again if the problem persists contact us with {SupportID}.</value>
-  </data>
-  <data name="Done" xml:space="preserve">
-    <value>Done</value>
-  </data>
-  <data name="ErrorGeneratingConnections" xml:space="preserve">
-    <value>An error occurred while generating your connections, Tap on /status</value>
-  </data>
-  <data name="GettingData" xml:space="preserve">
-    <value>Fetching
-.
-.
-.
-.
-.
-.
-.
-.
-.</value>
-  </data>
-  <data name="Greeting" xml:space="preserve">
-    <value>Welcome!
-You can always send /status command to see your latest status</value>
-  </data>
-  <data name="HowToExtend" xml:space="preserve">
-    <value>How you want to extend your account</value>
-  </data>
-  <data name="InvitationSucceed" xml:space="preserve">
-    <value>Invitation Succeed!</value>
-  </data>
-  <data name="InviteMessage" xml:space="preserve">
-    <value>🔖 You are invited to use SegVPN.
-Tap on the link below and start the bot.
+&lt;b&gt;Внимание:&lt;/b&gt; Это подключение бесплатное и имеет лимит в 7 гигабайт! Вы всегда можете нажать на кнопку Подписка, чтобы купить свое Премиум Подключение!
 
-{Url}</value>
-  </data>
-  <data name="ConnectionExpiringFree" xml:space="preserve">
-    <value>⚠️ You have used more than {percent}% of your {MaxUsage}GB monthly allowed connection traffic! Tap on usage for more detail.</value>
-  </data>
-  <data name="ConnectionExpiringPaid" xml:space="preserve">
-    <value>⚠️ You have used more than {percent}% of your {MaxUsage}GB monthly allowed connection traffic.
-If your usage exceeds {MaxUsage} GigaBytes, your account will be suspended until the end of your subscription month.</value>
-  </data>
-  <data name="ConnectionSuspendedPaid" xml:space="preserve">
-    <value>⛔️ You have used your all of {MaxUsage} GigaBytes of your monthly traffic limitation and your subscription is suspended until the end of your subsciption month.
-</value>
-  </data>
-  <data name="ConnectionSuspendedFree" xml:space="preserve">
-    <value>⚠️ You have used all of your {MaxUsage} GigaBytes of your free trial traffic limitation.
-To subscribe for a premium account tap on 'Subscription' Button.
-</value>
-  </data>
-  <data name="lblDays" xml:space="preserve">
-    <value>Days</value>
-  </data>
-  <data name="lblExpireDate" xml:space="preserve">
-    <value>&lt;b&gt;Subscription Expire Date:&lt;/b&gt;</value>
-  </data>
-  <data name="lblFrom" xml:space="preserve">
-    <value>From</value>
-  </data>
-  <data name="lblFromMainConnection" xml:space="preserve">
-    <value>From Main Connection</value>
-  </data>
-  <data name="lblGigabyte" xml:space="preserve">
-    <value>GB</value>
-  </data>
-  <data name="lblMain" xml:space="preserve">
-    <value>Main</value>
-  </data>
-  <data name="lblMainConnection" xml:space="preserve">
-    <value>Main Connection</value>
-  </data>
-  <data name="lblSumOfUsage" xml:space="preserve">
-    <value>&lt;b&gt;Total Data Usage:&lt;/b&gt;</value>
-  </data>
-  <data name="MainMenuDescription" xml:space="preserve">
-    <value>
-✨ With the buttons below you can manage your account or see your latest status.
+‼️ Внимание: Reality Configs работают только на определенных клиентах в настоящее время. Нужна дополнительная помощь? Нажмите на /help</value> </data>
+  <data name="CopyConnectionAndPaste" xml:space="preserve"> <value>Чтобы использовать, нажмите на текст, чтобы скопировать его, затем вставьте его в нужное приложение.</value> </data>
+  <data name="DaysAddedToSubscription" xml:space="preserve"> <value>{0} дней добавлено к вашей подписке!</value> </data>
+  <data name="DirectMessageError" xml:space="preserve"> <value>Что-то пошло не так. Отчет об ошибке был отправлен разработчику. Попробуйте еще раз, если проблема не исчезнет, свяжитесь с нами с {SupportID}.</value> </data>
+  <data name="Done" xml:space="preserve"> <value>Готово</value> </data>
+  <data name="ErrorGeneratingConnections" xml:space="preserve"> <value>Произошла ошибка при генерации ваших подключений, нажмите на /status</value> </data>
+  <data name="GettingData" xml:space="preserve"> <value>Получение данных 
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+</value> </data>
+  <data name="Greeting" xml:space="preserve"> <value>Добро пожаловать! Вы всегда можете отправить команду /status, чтобы увидеть свой последний статус</value> </data>
+  <data name="HowToExtend" xml:space="preserve"> <value>Как вы хотите продлить свой аккаунт</value> </data>
+  <data name="InvitationSucceed" xml:space="preserve"> <value>Приглашение успешно!</value> </data>
+  <data name="InviteMessage" xml:space="preserve"> <value>🔖 Вы приглашены использовать SegVPN. Нажмите на ссылку ниже и запустите бота.
 
-👉 Follow Us @SEGVPN
-</value>
-  </data>
-  <data name="MakingConnections" xml:space="preserve">
-    <value>Making connections...</value>
-  </data>
-  <data name="MakingConnectionWait" xml:space="preserve">
-    <value>⚙️ We are preparing your connections. please wait!</value>
-  </data>
-  <data name="NewServerNowAdded" xml:space="preserve">
-    <value>New server is just added to the list. You can see them using the button below.</value>
-  </data>
-  <data name="NoActiveSubscription" xml:space="preserve">
-    <value>You have no active subscription.
- Tap on /status command to activate your account.</value>
-  </data>
-  <data name="NoDebtToSettle" xml:space="preserve">
-    <value>You do not have any debt to settle at the moment</value>
-  </data>
-  <data name="NoWalletTransactionsFound" xml:space="preserve">
-    <value>No walletTransactions found</value>
-  </data>
-  <data name="NoServerAvailable" xml:space="preserve">
-    <value>No server is available right now</value>
-  </data>
-  <data name="NoServerAvailableAddThenRetry" xml:space="preserve">
-    <value>No server is available at the moment, add one then try again</value>
-  </data>
-  <data name="NoServerAvailableAdminNotified" xml:space="preserve">
-    <value>🔍 No server found at the moment. Try again after a few hours.
-We are also notified and after a server is made, they will notify you.</value>
-  </data>
-  <data name="NoServerAvailableForChangeAdminNotified" xml:space="preserve">
-    <value>🔍 No server found at the moment for you to change to. Try again after a few hours.
-We are also notified and after a server is made, they will notify you.</value>
-  </data>
-  <data name="NoUserFound" xml:space="preserve">
-    <value>No user found.</value>
-  </data>
-  <data name="WalletTransactionReceiptDetail" xml:space="preserve">
-    <value>Subscription receipt {UserSelectedName} for {WalletTransactionTypeTitle} on {Date} at {Time} (GMT) amount {Amount}$
+    {Url}</value> </data>
+  <data name="ConnectionExpiringFree" xml:space="preserve"> <value>⚠️ Вы использовали более {percent}% из {MaxUsage}GB разрешенного месячного трафика подключения! Нажмите на использование для более подробной информации.</value> </data>
+  <data name="ConnectionExpiringPaid" xml:space="preserve"> <value>⚠️ Вы использовали более {percent}% из {MaxUsage}GB разрешенного месячного трафика подключения. Если ваше использование превысит {MaxUsage} гигабайт, ваш аккаунт будет приостановлен до конца месяца подписки.</value> </data>
+  <data name="ConnectionSuspendedPaid" xml:space="preserve"> <value>⛔️ Вы использовали все {MaxUsage} гигабайт своего месячного лимита трафика и ваша подписка приостановлена до конца месяца подписки. </value> </data>
+  <data name="ConnectionSuspendedFree" xml:space="preserve"> <value>⚠️ Вы использовали все {MaxUsage} гигабайт своего лимита трафика бесплатного пробного периода. Чтобы подписаться на премиум-аккаунт, нажмите на кнопку "Подписка”. </value> </data>
+  <data name="lblDays" xml:space="preserve"> <value>Дни</value> </data>
+  <data name="lblExpireDate" xml:space="preserve"> <value>&lt;b&gt;Дата окончания подписки:&lt;/b&gt;</value> </data>
+  <data name="lblFrom" xml:space="preserve"> <value>От</value> </data>
+  <data name="lblFromMainConnection" xml:space="preserve"> <value>От основного подключения</value> </data>
+  <data name="lblGigabyte" xml:space="preserve"> <value>ГБ</value> </data>
+  <data name="lblMain" xml:space="preserve"> <value>Основной</value> </data>
+  <data name="lblMainConnection" xml:space="preserve"> <value>Основное подключение</value> </data>
+  <data name="lblSumOfUsage" xml:space="preserve"> <value>&lt;b&gt;Общее использование данных:&lt;/b&gt;</value> </data>
+  <data name="MainMenuDescription" xml:space="preserve"> <value> ✨ С помощью кнопок ниже вы можете управлять своим аккаунтом или посмотреть свой последний статус.
 
-This images will be deleted from here after a while, Forward them elsewhere to keep them</value>
-  </data>
-  <data name="PermissionDenied" xml:space="preserve">
-    <value>You do not have sufficient permission to perform this task</value>
-  </data>
-  <data name="PollAnswerSubmitted" xml:space="preserve">
-    <value>Your answer submitted! Thank you.🙏😊</value>
-  </data>
-  <data name="NotSubscribedUserAccountText" xml:space="preserve">
-    <value>You currently do not have any active subscriptions, tap on the button below to see the plans.</value>
-  </data>
-  <data name="ResetUsage" xml:space="preserve">
-    <value>Dear user, after {DaysFromNow} days of your first registeration your usage has been reset.
-Thanks for choosing us🌿🙏
+👉 Подписывайтесь на нас @SEGVPN </value> </data>
+  <data name="MakingConnections" xml:space="preserve"> <value>Создание подключений…</value> </data>
+  <data name="MakingConnectionWait" xml:space="preserve"> <value>⚙️ Мы готовим ваши подключения. Пожалуйста, подождите!</value> </data>
+  <data name="NewServerNowAdded" xml:space="preserve"> <value>Новый сервер только что добавлен в список. Вы можете увидеть их с помощью кнопки ниже.</value> </data>
+  <data name="NoActiveSubscription" xml:space="preserve"> <value>У вас нет активной подписки. Нажмите на команду /status, чтобы активировать свой аккаунт.</value> </data>
+  <data name="NoDebtToSettle" xml:space="preserve"> <value>У вас нет долгов для погашения в данный момент</value> </data>
+  <data name="NoOrderFound" xml:space="preserve"> <value>Заказ не найден</value> </data>
+  <data name="NoServerAvailable" xml:space="preserve"> <value>Сейчас нет доступных серверов</value> </data>
+  <data name="NoServerAvailableAddThenRetry" xml:space="preserve"> <value>Сейчас нет доступных серверов, добавьте один, а затем попробуйте еще раз</value> </data>
+  <data name="NoServerAvailableAdminNotified" xml:space="preserve"> <value>🔍 Сейчас не найдено ни одного сервера. Попробуйте еще раз через несколько часов. Мы также уведомлены и после того, как сервер будет создан, мы сообщим вам.</value> </data>
+  <data name="NoServerAvailableForChangeAdminNotified" xml:space="preserve"> <value>🔍 Сейчас не найдено ни одного сервера, на который вы могли бы переключиться. Попробуйте еще раз через несколько часов. Мы также уведомлены и после того, как сервер будет создан, мы сообщим вам.</value> </data>
+  <data name="NoUserFound" xml:space="preserve"> <value>Пользователь не найден.</value> </data>
+  <data name="PermissionDenied" xml:space="preserve"> <value>У вас недостаточно прав для выполнения этой задачи</value> </data>
+  <data name="PollAnswerSubmitted" xml:space="preserve"> <value>Ваш ответ принят! Спасибо.🙏😊</value> </data>
+  <data name="NotSubscribedUserAccountText" xml:space="preserve"> <value>У вас сейчас нет активных подписок, нажмите на кнопку ниже, чтобы увидеть планы.</value> </data>
+  <data name="ResetUsage" xml:space="preserve"> <value>Уважаемый пользователь, после {DaysFromNow} дней с момента вашей первой регистрации ваше использование было сброшено.
 
-You can always see the menu or see your last state tap on /status</value>
-  </data>
-  <data name="SendMessageBelowToUser" xml:space="preserve">
-    <value>✉️ Send message below to the person you want to invite.
+    Вы всегда можете увидеть меню или посмотреть свое последнее состояние, нажав на /status</value> </data>
+  <data name="SendMessageBelowToUser" xml:space="preserve"> <value>✉️ Отправьте сообщение ниже человеку, которого хотите пригласить.
 
-💵 By every invite, 5 cents will be added to your credit. Also, you will receive 10% of every transaction that the invited person makes.</value>
-  </data>
-  <data name="SendMessagesAboveToUser" xml:space="preserve">
-    <value>Send Messages above to the user</value>
-  </data>
-  <data name="SelectServerToChange" xml:space="preserve">
-    <value>
-🌎 Select a location to change.
-You are currently on {CurrentServerName}.
-</value>
-  </data>
-  <data name="ServerChangedSuccessfully" xml:space="preserve">
-    <value>🌎 Location changed successfully.
-❗️ Your current connections will be deleted soon, Please use the new ones by updating your subscription or copying and pasting newly generated config text above.
+    💵 За каждое приглашение вам будет начислено 5 центов. Кроме того, вы получите 10% от каждой транзакции, которую совершит приглашенный человек.</value> </data>
+  <data name="SendMessagesAboveToUser" xml:space="preserve"> <value>Отправьте сообщения выше пользователю</value> </data>
+  <data name="SelectServerToChange" xml:space="preserve"> <value> 🌎 Выберите локацию для смены. Вы сейчас на {CurrentServerName}. </value> </data>
+  <data name="ServerChangedSuccessfully" xml:space="preserve"> <value>🌎 Локация успешно изменена. ❗️ Ваши текущие подключения скоро будут удалены. Пожалуйста, используйте новые, обновив свою подписку или скопировав и вставив новый сгенерированный текст конфигурации выше.
 
-‼️ Attention: Reality Configs Only work on specific clients at the moment.
-Tap on /help for more detail</value>
-  </data>
-  <data name="ServerNoLongerAvailable" xml:space="preserve">
-    <value>Selected server is no longer available. Please choose another server</value>
-  </data>
-  <data name="SubscriptionExpired" xml:space="preserve">
-    <value>💀 Your subscription expired and all of your connections are deleted.
+    ‼️ Внимание: Reality Configs работают только на определенных клиентах в настоящее время. Нажмите на /help для более подробной информации</value> </data>
+  <data name="ServerNoLongerAvailable" xml:space="preserve"> <value>Выбранный сервер больше недоступен. Пожалуйста, выберите другой сервер</value> </data>
+  <data name="SubscriptionExpired" xml:space="preserve"> <value>💀 Ваша подписка истекла и все ваши подключения удалены.
 
-♻️ To subscribe again tap on button below.</value>
-  </data>
-  <data name="SubscriptionExpireDate" xml:space="preserve">
-    <value>Your subscription is valid for {GetSubscriptionDaysTillExpire} days and till {ExpireDate}</value>
-  </data>
-  <data name="SubscriptionExpiring" xml:space="preserve">
-    <value>Your subscription is expiring, consider recharging your account.</value>
-  </data>
-  <data name="SubscriptionRemainingDayPaid" xml:space="preserve">
-    <value>There are only {daysTillExpire} days until your subscription ends. Tap on button below to extend it.</value>
-  </data>
-  <data name="SubscriptionRemainingDayFree" xml:space="preserve">
-    <value>There are only {daysTillExpire} days until your trial subscription ends. To subscribe for a premium account tap on this button.</value>
-  </data>
-  <data name="SystemMessageCurrentUsage" xml:space="preserve">
-    <value>System Notification: Your usage till now</value>
-  </data>
-  <data name="SystemMessagePayDebt" xml:space="preserve">
-    <value>&lt;i&gt;System Notification: Pay Debt&lt;/i&gt;
+    ♻️ Чтобы подписаться снова, нажмите на кнопку ниже.</value> </data>
+  <data name="SubscriptionExpireDate" xml:space="preserve"> <value>Ваша подписка действительна в течение {GetSubscriptionDaysTillExpire} дней и до {ExpireDate}</value> </data>
+  <data name="SubscriptionExpiring" xml:space="preserve"> <value>Ваша подписка истекает, рассмотрите возможность пополнения своего счета.</value> </data>
+  <data name="SubscriptionRemainingDayPaid" xml:space="preserve"> <value>Осталось только {daysTillExpire} дней до окончания вашей подписки. Нажмите на кнопку ниже, чтобы продлить ее.</value> </data>
+  <data name="SubscriptionRemainingDayFree" xml:space="preserve"> <value>Осталось только {daysTillExpire} дней до окончания вашей пробной подписки. Чтобы подписаться на премиум-аккаунт, нажмите на эту кнопку.</value> </data>
+  <data name="SystemMessageCurrentUsage" xml:space="preserve"> <value>Системное уведомление: Ваше использование до сих пор</value> </data>
+  <data name="SystemMessagePayDebt" xml:space="preserve"> <value>&lt;i&gt;Системное уведомление: Оплатить долг&lt;/i&gt;
 
-Dear user, {day} days has passed from your last debt subscription.
-For more information tap on the button below
-Thank you 🙏</value>
-  </data>
-  <data name="TapToSeeMenu" xml:space="preserve">
-    <value>Tap on /status to see the menu</value>
-  </data>
-  <data name="UnderMaintenance" xml:space="preserve">
-    <value>The bot is Under Maintenance... Please try again at around {0}</value>
-  </data>
-  <data name="UserAccountExpired" xml:space="preserve">
-    <value>User has no active account</value>
-  </data>
-  <data name="UserBecameAdmin" xml:space="preserve">
-    <value>Congrats! You are now an admin.
-Now you can create unlimited invite links and accept subscriptions
+    Уважаемый пользователь, {day} дней прошло с момента вашей последней долговой подписки. Для получения более подробной информации нажмите на кнопку ниже Спасибо 🙏</value> </data>
+  <data name="TapToSeeMenu" xml:space="preserve"> <value>Нажмите на /status, чтобы увидеть меню</value> </data>
+  <data name="UnderMaintenance" xml:space="preserve"> <value>Бот находится на обслуживании… Пожалуйста, попробуйте еще раз около {0}</value> </data>
+  <data name="UserAccountExpired" xml:space="preserve"> <value>У пользователя нет активного аккаунта</value> </data>
+  <data name="UserBecameAdmin" xml:space="preserve"> <value>Поздравляем! Вы теперь администратор.</value> </data>
+  <data name="VerifyingInProgress" xml:space="preserve"> <value>Проверка…</value> </data>
+  <data name="WaitMakingConnections" xml:space="preserve"> <value>Пожалуйста, подождите, пока мы генерируем подключения…</value> </data>
+  <data name="WhatsMyIDSuccessResult" xml:space="preserve"> <value>Готово, спасибо</value> </data>
+  <data name="WindowsApplications" xml:space="preserve"> <value>Сейчас есть 3 приложения для Windows;
 
-To begin tap on /admin. this option is also available at the bottom right of the screen.</value>
-  </data>
-  <data name="VerifyingInProgress" xml:space="preserve">
-    <value>Verifying...</value>
-  </data>
-  <data name="WaitMakingConnections" xml:space="preserve">
-    <value>Please wait while we are generating connections...</value>
-  </data>
-  <data name="WaitUntilReceiptIsGettingChecked" xml:space="preserve">
-    <value>Wait while admins are checking the receipt</value>
-  </data>
-  <data name="WhatsMyIDSuccessResult" xml:space="preserve">
-    <value>Done, thanks</value>
-  </data>
-  <data name="WindowsApplications" xml:space="preserve">
-    <value>There are currently 3 applications for windows;
+    1- softether 2- Nekoray для Vmess, Vless, Trojan 3- Netch для Vmess, Vless, Trojan
 
-1- softether
-2- Nekoray for Vmess, Vless, Trojan
-3- Netch for Vmess, Vless, Trojan
-
-To see the tutorial tap on corresponding button</value>
-  </data>
-  <data name="WrongServerCode" xml:space="preserve">
-    <value>Wrong server code. Try again</value>
-  </data>
-  <data name="SubscriptionPlanFree" xml:space="preserve">
-    <value>Free</value>
-  </data>
-  <data name="SubscriptionPlan1" xml:space="preserve">
-    <value>Bronze</value>
-  </data>
-  <data name="SubscriptionPlan2" xml:space="preserve">
-    <value>Silver</value>
-  </data>
-  <data name="SubscriptionPlan3" xml:space="preserve">
-    <value>Gold</value>
-  </data>
-  <data name="btnSubscription" xml:space="preserve">
-    <value>🛍 Subscription</value>
-  </data>
-  <data name="NoPlansAvailable" xml:space="preserve">
-    <value>There are no plans available at the moment</value>
-  </data>
+    Чтобы посмотреть урок, нажмите на соответствующую кнопку</value> </data>
+  <data name="WrongServerCode" xml:space="preserve"> <value>Неверный код сервера. Попробуйте еще раз</value> </data>
+  <data name="SubscriptionPlanFree" xml:space="preserve"> <value>Бесплатно</value> </data>
+  <data name="SubscriptionPlan1" xml:space="preserve"> <value>Бронза</value> </data>
+  <data name="SubscriptionPlan2" xml:space="preserve"> <value>Серебро</value> </data>
+  <data name="SubscriptionPlan3" xml:space="preserve"> <value>Золото</value> </data>
+  <data name="btnSubscription" xml:space="preserve"> <value>🛍 Подписка</value> </data>
+  <data name="NoPlansAvailable" xml:space="preserve"> <value>Сейчас нет доступных планов</value> </data>
   <data name="ViewPlanListTemplate" xml:space="preserve">
-    <value>{Number}. {PlanTitle} Plan, {MaxTraffic}GB per Month, {Month} Month, {IpLimit} Simultanous Users. Price &lt;del&gt;{ActualAmount}$&lt;/del&gt; {DiscountedAmount}$ {DiscountPercent}% off!</value>
+    <value>{Number}. План {PlanTitle}, {MaxTraffic} ГБ в месяц, {Month} в месяц, {IpLimit} одновременных пользователей. Цена &lt;del&gt;{ActualAmount}$&lt;/del&gt; {DiscountedAmount}$ {DiscountPercent}% скидка!</value>
   </data>
-  <data name="OrderPlan" xml:space="preserve">
-    <value>Order "{PlanTitle}" for {Amount}$</value>
-  </data>
-  <data name="OrderItemDetailPlan" xml:space="preserve">
-    <value>{PlanTitle} Plan
-{MaxTraffic}GB per Month
-{Month} Month
-{IpLimit} Simultanous Users.
-</value>
-  </data>
-  <data name="OrderItemDetailGiftCredit" xml:space="preserve">
-    <value>Gift {Amount}$ Credit via Gift link
-</value>
-  </data>
-  <data name="OrderItemDetailGiftPlan" xml:space="preserve">
-    <value>Gift Subscription below via Gift link
-{PlanDetail}
-</value>
-  </data>
+  <data name="OrderPlan" xml:space="preserve"> <value>Заказать "{PlanTitle}” за {Amount}$</value> </data>
+  <data name="OrderItemDetailPlan" xml:space="preserve"> <value>План {PlanTitle} {MaxTraffic}ГБ в месяц {Month} месяц {IpLimit} одновременных пользователей. </value>  </data>
+  <data name="OrderItemDetailGiftCredit" xml:space="preserve"> <value>Подарить {Amount}$ кредит по ссылке для подарка </value> </data>
+  <data name="OrderItemDetailGiftPlan" xml:space="preserve"> <value>Подарить подписку ниже по ссылке для подарка {PlanDetail} </value> </data>
   <data name="OrderDetail" xml:space="preserve">
-    <value>Your order detail:
+    <value>Детали вашего заказа:
 
 {OrderItemDetail}
 
-Price {Amount}$
-💰 Your credit: {WalletBalance}$
+Цена {Amount}$
+💰 Ваш баланс: {WalletBalance}$
 
-Tap on button below to pay.</value>
+Нажмите на кнопку ниже, чтобы оплатить.</value>
   </data>
   <data name="OrderDetailForGiftPurchase" xml:space="preserve">
-    <value>Gift detail:
+    <value>Детали подарка:
 
 
-Price {Amount}$
-💰 Your credit: {WalletBalance}$
+Цена {Amount}$
+💰 Ваш баланс: {WalletBalance}$
 
-Tap on button below to pay.</value>
+Нажмите на кнопку ниже, чтобы оплатить.</value>
   </data>
-  <data name="ChooseGiftType" xml:space="preserve">
-    <value>Choose gift type:</value>
-  </data>
-  <data name="GiftTypeCredit" xml:space="preserve">
-    <value>💰 Credit</value>
-  </data>
-  <data name="GiftTypeSubscription" xml:space="preserve">
-    <value>🛍 Subscription</value>
-  </data>
-  <data name="PayOrderAmount" xml:space="preserve">
-    <value>Pay {Amount}$</value>
-  </data>
-  <data name="btnCancelOrderPayment" xml:space="preserve">
-    <value>❌ Cancel</value>
-  </data>
-  <data name="PayPreviousOrderFirst" xml:space="preserve">
-    <value>You have an unpaid order, please check that first</value>
-  </data>
-  <data name="OrderCancelled" xml:space="preserve">
-    <value>Order cancelled.</value>
-  </data>
-  <data name="btnMyWallet" xml:space="preserve">
-    <value>💰 Credit</value>
-  </data>
+  <data name="ChooseGiftType" xml:space="preserve"> <value>Выберите тип подарка:</value> </data>
+  <data name="GiftTypeCredit" xml:space="preserve"> <value>💰 Кредит</value> </data>
+  <data name="GiftTypeSubscription" xml:space="preserve"> <value>🛍 Подписка</value> </data>
+  <data name="PayOrderAmount" xml:space="preserve"> <value>Оплатить {Amount}$</value> </data>
+  <data name="btnCancelOrderPayment" xml:space="preserve"> <value>❌ Отменить</value> </data>
+  <data name="PayPreviousOrderFirst" xml:space="preserve"> <value>У вас есть неоплаченный заказ, пожалуйста, проверьте его сначала</value> </data>
+  <data name="OrderCancelled" xml:space="preserve"> <value>Заказ отменен.</value> </data>
+  <data name="btnMyWallet" xml:space="preserve"> <value>💰 Кредит</value> </data>
   <data name="MyWalletMessage" xml:space="preserve">
-    <value>💰 Your Current Balance is {WalletBalance}$
+    <value>💰 Ваш текущий баланс {WalletBalance}$
 
-If you want to increase your credit tap on buttons below.
+Если вы хотите увеличить свой кредит, нажмите на кнопки ниже.
 
-Tip: You also can send the amount in dollar (numbers only) for a custom recharge.
-For example 5.99 or 10...
-(Minimum 0.99)
+Совет: Вы также можете отправить сумму в долларах (только цифры) для индивидуального пополнения.
+Например 5,99 или 10...
+(минимум 0,99)
 </value>
   </data>
-  <data name="ChargeWalletCancelled" xml:space="preserve">
-    <value>Charging cancelled, tap /status to see your latest status</value>
-  </data>
-  <data name="ChargeWalletAmountIsWrong" xml:space="preserve">
-    <value>Please enter the amount correctly
-For example 5.99 or 10...
-(Minimum 0.99)</value>
-  </data>
-  <data name="ChargeWalletAmountIsSmallerThan99Cents" xml:space="preserve">
-    <value>Amount should be larger than 0.99$</value>
-  </data>
-  <data name="ChargeWalletAmountIsLargerThan2000" xml:space="preserve">
-    <value>Amount should be smaller than 2000$</value>
-  </data>
-  <data name="ChooseCoin" xml:space="preserve">
-    <value>💵 Choose desired coin to pay {Amount}$ with. </value>
-  </data>
-  <data name="PaymentCancelled" xml:space="preserve">
-    <value>Payment cancelled </value>
-  </data>
-  <data name="InitiatingPayment" xml:space="preserve">
-    <value>Initiating Payment, Generating Crypto Wallet... 
+  <data name="ChargeWalletCancelled" xml:space="preserve"> <value>Пополнение отменено, нажмите /status, чтобы увидеть свой последний статус</value> </data>
+  <data name="ChargeWalletAmountIsWrong" xml:space="preserve"> <value>Пожалуйста, введите сумму правильно Например, 5.99 или 10… (Минимум 0.99)</value> </data>
+  <data name="ChargeWalletAmountIsSmallerThan99Cents" xml:space="preserve"> <value>Сумма должна быть больше 0.99$</value> </data>
+  <data name="ChargeWalletAmountIsLargerThan2000" xml:space="preserve"> <value>Сумма должна быть меньше 2000$</value> </data>
+  <data name="ChooseCoin" xml:space="preserve"> <value>💵 Выберите желаемую монету для оплаты {Amount}$.</value> </data>
+  <data name="PaymentCancelled" xml:space="preserve"> <value>Оплата отменена</value> </data>
+  <data name="InitiatingPayment" xml:space="preserve"> <value>Инициирование оплаты, генерация криптовалютного кошелька…
 
-Please wait...</value>
-  </data>
-  <data name="PaymentProviderIsNotAvailable" xml:space="preserve">
-    <value>Payment Provider is currently not available, please try again later</value>
-  </data>
-  <data name="PaymentFailedToInitiate" xml:space="preserve">
-    <value>Payment failed to initiate, please try again later</value>
-  </data>
-  <data name="PaymentStatusChoosingCoin" xml:space="preserve">
-    <value>Choosing Coin</value>
-  </data>
-  <data name="PaymentStatusReadyToInitiate" xml:space="preserve">
-    <value>Ready To Initiate</value>
-  </data>
-  <data name="PaymentStatusWaiting" xml:space="preserve">
-    <value>Waiting for Payment</value>
-  </data>
-  <data name="PaymentStatusConfirming" xml:space="preserve">
-    <value>Confirming</value>
-  </data>
-  <data name="PaymentStatusConfirmed" xml:space="preserve">
-    <value>Confirmed</value>
-  </data>
-  <data name="PaymentStatusSending" xml:space="preserve">
-    <value>Sending</value>
-  </data>
-  <data name="PaymentStatusPartiallyPaid" xml:space="preserve">
-    <value>Partially Paid</value>
-  </data>
-  <data name="PaymentStatusFinished" xml:space="preserve">
-    <value>Finished</value>
-  </data>
-  <data name="PaymentStatusFailed" xml:space="preserve">
-    <value>Failed</value>
-  </data>
-  <data name="PaymentStatusRefunded" xml:space="preserve">
-    <value>Refunded</value>
-  </data>
-  <data name="PaymentStatusExpired" xml:space="preserve">
-    <value>Expired</value>
-  </data>
-  <data name="WaitingForPaymentTemplate" xml:space="preserve">
-    <value>Please send &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} on &lt;b&gt;{CryptoNetwork}&lt;/b&gt; network to Crypto Wallet below
+    Пожалуйста, подождите…</value> </data>
+  <data name="PaymentProviderIsNotAvailable" xml:space="preserve"> <value>Провайдер оплаты в настоящее время недоступен, пожалуйста, попробуйте позже</value> </data>
+  <data name="PaymentFailedToInitiate" xml:space="preserve"> <value>Не удалось инициировать оплату, пожалуйста, попробуйте позже</value> </data>
+  <data name="PaymentStatusChoosingCoin" xml:space="preserve"> <value>Выбор монеты</value> </data>
+  <data name="PaymentStatusReadyToInitiate" xml:space="preserve"> <value>Готов к инициации</value> </data>
+  <data name="PaymentStatusWaiting" xml:space="preserve"> <value>Ожидание оплаты</value> </data>
+  <data name="PaymentStatusConfirming" xml:space="preserve"> <value>Подтверждение</value> </data> 
+  <data name="PaymentStatusConfirmed" xml:space="preserve"> <value>Подтверждено</value> </data>
+  <data name="PaymentStatusSending" xml:space="preserve"> <value>Отправка</value> </data>
+  <data name="PaymentStatusPartiallyPaid" xml:space="preserve"> <value>Частично оплачено</value> </data>
+  <data name="PaymentStatusFinished" xml:space="preserve"> <value>Завершено</value> </data>
+  <data name="PaymentStatusFailed" xml:space="preserve"> <value>Не удалось</value> </data>
+  <data name="PaymentStatusRefunded" xml:space="preserve"> <value>Возвращено</value> </data>
+  <data name="PaymentStatusExpired" xml:space="preserve"> <value>Истек</value> </data>
+  <data name="WaitingForPaymentTemplate" xml:space="preserve"> <value>Пожалуйста, отправьте &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} по сети &lt;b&gt;{CryptoNetwork}&lt;/b&gt; на криптовалютный кошелек ниже
 
-&lt;code&gt;{Wallet}&lt;/code&gt;
-{MemoTemplate}
+    &lt;code&gt;{Wallet}&lt;/code&gt; 
+    {MemoTemplate}
 
-Payment status: {PaymentStatus}
+    Статус оплаты: {PaymentStatus}
 
-Please note that payments may take a few minutes to take place and you will be notified after verification
+    Обратите внимание, что оплата может занять несколько минут и вы будете уведомлены после проверки
 
-This payment will expire in {MinutesToExpier} minutes
+    Эта оплата истечет через {MinutesToExpire} минут
 
-tap on /refresh to refresh manually</value>
-  </data>
-  <data name="MemoTemplate" xml:space="preserve">
-    <value>Memo: &lt;code&gt;{Memo}&lt;/code&gt;
-🟥 Caution: if you do not specify memo, the payment may be lost</value>
-  </data>
-  <data name="PaymentFailed" xml:space="preserve">
-    <value>Payment has failed due to an error. Please try again later.</value>
-  </data>
-  <data name="PaymentExpired" xml:space="preserve">
-    <value>Payment has Expired. Please try again.</value>
-  </data>
-  <data name="PartiallyPaidTemplate" xml:space="preserve">
-    <value>&lt;b&gt;You partially paid the amount❗️&lt;/b&gt;
-We received {ReceivedAmount} {CryptoName} from you
+    нажмите на /refresh, чтобы обновить вручную</value> </data>
+  <data name="MemoTemplate" xml:space="preserve"> <value>Memo: &lt;code&gt;{Memo}&lt;/code&gt; 🟥 Внимание: если вы не укажете memo, оплата может быть потеряна</value> </data>
+  <data name="PaymentFailed" xml:space="preserve"> <value>Оплата не удалась из-за ошибки. Пожалуйста, попробуйте позже.</value> </data>
+  <data name="PaymentExpired" xml:space="preserve"> <value>Оплата истекла. Пожалуйста, попробуйте еще раз.</value> </data>
+  <data name="PartiallyPaidTemplate" xml:space="preserve"> <value>&lt;b&gt;Вы частично оплатили сумму❗️&lt;/b&gt; Мы получили от вас {ReceivedAmount} {CryptoName}
 
-Please send remaining &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} to Crypto Wallet below to complete payment
+    Пожалуйста, отправьте оставшиеся &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} на криптовалютный кошелек ниже, чтобы завершить оплату
 
-&lt;code&gt;{Wallet}&lt;/code&gt;
-{MemoTemplate}
+    &lt;code&gt;{Wallet}&lt;/code&gt; {MemoTemplate}
 
-Payment status: {PaymentStatus}
+    Статус оплаты: {PaymentStatus}
 
-Please note that payments may take a few minutes to take place and you will be notified after verification
+    Обратите внимание, что оплата может занять несколько минут и вы будете уведомлены после проверки
 
-This payment will expire in {MinutesToExpier} minutes
+    Эта оплата истечет через {MinutesToExpire} минут
 
-tap on /refresh to refresh manually
-</value>
-  </data>
-  <data name="ConfirmingTemplate" xml:space="preserve">
-    <value>Confirming payment, Please wait...
-</value>
-  </data>
-  <data name="ConfirmedTemplate" xml:space="preserve">
-    <value>Payment confirmed...
-</value>
-  </data>
-  <data name="SendingTemplate" xml:space="preserve">
-    <value>Sending received amount...
-</value>
-  </data>
-  <data name="RefundedTemplate" xml:space="preserve">
-    <value>Payment refunded. Try again
-</value>
-  </data>
-  <data name="PaymentEximatedPriceUpdated" xml:space="preserve">
-    <value>Caution: Payment estimated price updated, please pay the new amount below.
-</value>
-  </data>
-  <data name="PaymentFinished" xml:space="preserve">
-    <value>Thanks, We received {FiatAmount}$, {ReceivedAmount} {CryptoName}.</value>
-  </data>
-  <data name="UserShouldGoPremiumToCharge" xml:space="preserve">
-    <value>You have to go Premium to charge and extend your connection.
-Click on the button below to see the offers.</value>
-  </data>
-  <data name="UserShouldIsCurrentlyPremium" xml:space="preserve">
-    <value>You are currently Premium!</value>
-  </data>
-  <data name="UserHadFreeSubscriptionBefore" xml:space="preserve">
-    <value>We only offer one free subscription! Click on the button below to buy a new subscription.</value>
-  </data>
-  <data name="UserHaveToHaveASubscription" xml:space="preserve">
-    <value>
-❗️ You do not have an active subscription. 
-</value>
-  </data>
-  <data name="btnSwitchToConfigPlainText" xml:space="preserve">
-    <value>📝 Switch to Config Text</value>
-  </data>
-  <data name="btnSwitchToConfigSubscriptionLink" xml:space="preserve">
-    <value>🔑 Switch to Subscription Link</value>
-  </data>
-  <data name="btnHowToConnectToV2ray" xml:space="preserve">
-    <value>How to connect to V2Ray❔</value>
-  </data>
-  <data name="TermsOfService" xml:space="preserve">
-    <value>❗️ To connect to our servers, you must first accept our terms:
+    нажмите на /refresh, чтобы обновить вручную </value> </data>
+  <data name="ConfirmingTemplate" xml:space="preserve"> <value>Подтверждение оплаты, пожалуйста, подождите… </value> </data>
+  <data name="ConfirmedTemplate" xml:space="preserve"> <value>Оплата подтверждена… </value> </data>
+  <data name="SendingTemplate" xml:space="preserve"> <value>Отправка полученной суммы… </value> </data>
+  <data name="RefundedTemplate" xml:space="preserve"> <value>Оплата возвращена. Попробуйте еще раз </value> </data>
+  <data name="PaymentEximatedPriceUpdated" xml:space="preserve"> <value>Внимание: Оценочная цена оплаты обновлена, пожалуйста, оплатите новую сумму ниже. </value> </data>
+  <data name="PaymentFinished" xml:space="preserve"> <value>Спасибо, мы получили {FiatAmount}$, {ReceivedAmount} {CryptoName}.</value> </data>
+  <data name="UserShouldGoPremiumToCharge" xml:space="preserve"> <value>Вы должны перейти на Premium, чтобы пополнить и продлить свое подключение. Нажмите на кнопку ниже, чтобы увидеть предложения.</value> </data>
+  <data name="UserShouldIsCurrentlyPremium" xml:space="preserve"> <value>Вы сейчас Premium!</value> </data>
+  <data name="UserHadFreeSubscriptionBefore" xml:space="preserve"> <value>Мы предлагаем только одну бесплатную подписку! Нажмите на кнопку ниже, чтобы купить новую подписку.</value> </data>
+  <data name="UserHaveToHaveASubscription" xml:space="preserve"> <value> ❗️ У вас нет активной подписки. </value> </data>
+  <data name="btnSwitchToConfigPlainText" xml:space="preserve"> <value>📝 Переключиться на текст конфигурации</value> </data>
+  <data name="btnSwitchToConfigSubscriptionLink" xml:space="preserve"> <value>🔑 Переключиться на ссылку подписки</value> </data>
+  <data name="btnHowToConnectToV2ray" xml:space="preserve"> <value>Как подключиться к V2Ray❔</value> </data>
+  <data name="TermsOfService" xml:space="preserve"> <value>❗️ Чтобы подключиться к нашим серверам, вы должны сначала принять наши условия:
 
-— This service is designed for anti-censorship purposes.
-🚫 Network scanning,
-🚫 BitTorrent,
-🚫 Hacking,
-🚫 Cracking,
- and other similar activities are not allowed.
+    — Этот сервис предназначен для целей противодействия цензуре. 🚫 Сканирование сети, 🚫 BitTorrent, 🚫 Хакинг, 🚫 Крэкинг, и другие подобные действия запрещены.
 
-— Connections are designed to be used by only one person.
+    — Подключения предназначены для использования только одним человеком.
 
-— If these rules get violated your account may be suspended.</value>
-  </data>
-  <data name="TermsOfServiceAgreedText" xml:space="preserve">
-    <value>
-✅ Terms of service accepted, now you can click on Connect button to receive your connections.
-</value>
-  </data>
-  <data name="TermsOfServiceDisagreeText" xml:space="preserve">
-    <value>
-We are sorry that our terms do not suit you! We hope you come back soon or use our other &lt;a href="https://t.me/SegLand"&gt;Products&lt;/a&gt;.
+    — Если эти правила нарушаются, ваш аккаунт может быть приостановлен.</value> </data>
+  <data name="TermsOfServiceAgreedText" xml:space="preserve"> <value> ✅ Условия обслуживания приняты, теперь вы можете нажать на кнопку Подключиться, чтобы получить свои подключения. </value> </data>
+  <data name="TermsOfServiceDisagreeText" xml:space="preserve"> <value> Нам жаль, что наши условия вам не подходят! Надеемся, что вы скоро вернетесь или воспользуетесь нашими другими &lt;a href="https://t.me/SegLand"&gt;Продуктами&lt;/a&gt;.
 
-Tap on /terms to see terms again.
-</value>
-  </data>
+    Нажмите на /terms, чтобы снова увидеть условия. </value> </data>
   <data name="InviteeShareToInviter" xml:space="preserve">
     <value>
-💰 One of your invitees had a payment so here is your share! 
+💰 У одного из ваших приглашенных была оплата, так что вот ваша доля!
 
-You received {share}$ and your current credit is {walletBalance}$
-</value>
+Вы получили {share}$, и ваш текущий баланс составляет {walletBalance}$</value>
   </data>
   <data name="SomeoneJoinedByInviteLink" xml:space="preserve">
     <value>
-💰 Someone joined the bot using your invite link
-You received {share}$ and your current credit is {walletBalance}$
-</value>
+💰 Кто-то присоединился к боту по вашей пригласительной ссылке
+Вы получили {share}$, и ваш текущий баланс составляет {walletBalance}$</value>
   </data>
-  <data name="GiftChooseAmount" xml:space="preserve">
-    <value>
-💰 Choose Amount you want to gift 
-</value>
-  </data>
-  <data name="GiftChoosePlan" xml:space="preserve">
-    <value>
-🛍 Choose Plan you want to gift
-</value>
-  </data>
-  <data name="TheGiftIsReady" xml:space="preserve">
-    <value>
-🎁 The gift is ready! 
-Send Message to the person you want to surprise with it!
-</value>
-  </data>
-  <data name="GiftCreditMessageText" xml:space="preserve">
-    <value>&lt;b&gt;🎁 You've got a gift! &lt;/b&gt;
-&lt;i&gt;Claim your {Amount}$ credit of SEGVpn!&lt;/i&gt;
+  <data name="GiftChooseAmount" xml:space="preserve"> <value> 💰 Выберите сумму, которую хотите подарить </value> </data>
+  <data name="GiftChoosePlan" xml:space="preserve"> <value> 🛍 Выберите план, который хотите подарить </value> </data>
+  <data name="TheGiftIsReady" xml:space="preserve"> <value> 🎁 Подарок готов! Отправьте сообщение человеку, которого хотите удивить им! </value> </data>
+  <data name="GiftCreditMessageText" xml:space="preserve"> <value>&lt;b&gt;🎁 Вы получили подарок! &lt;/b&gt; &lt;i&gt;Заберите свой {Amount}$ кредит от SEGVpn!&lt;/i&gt;
 
-👉 Just follow this link and start the bot to get your gift: 
+    👉 Просто перейдите по этой ссылке и запустите бота, чтобы получить свой подарок:
 
-{Url}
-</value>
-  </data>
-  <data name="GiftSubscriptionPlanMessageText" xml:space="preserve">
-    <value>&lt;b&gt;🎁 You've got a gift! &lt;/b&gt;
-&lt;i&gt;Enjoy a free {PlanTitle} Plan Subscription of SEGVpn!&lt;/i&gt;
+    {Url} </value> </data>
+  <data name="GiftSubscriptionPlanMessageText" xml:space="preserve"> <value>&lt;b&gt;🎁 Вы получили подарок! &lt;/b&gt; &lt;i&gt;Наслаждайтесь бесплатной подпиской на план {PlanTitle} от SEGVpn!&lt;/i&gt;
 
-👉 Just click on this link and start the bot to claim your gift:
+    👉 Просто нажмите на эту ссылку и запустите бота, чтобы забрать свой подарок:
 
-{Url}
-</value>
-  </data>
-  <data name="GiftSubscriptionPlanOverview" xml:space="preserve">
-    <value>
-&lt;b&gt;🎀 Here’s an overview of your gift:&lt;/b&gt;:
+    {Url} </value> </data>
+  <data name="GiftSubscriptionPlanOverview" xml:space="preserve"> <value> &lt;b&gt;🎀 Вот обзор вашего подарка:&lt;/b&gt;:
 
-A free {PlanTitle} Plan Subscription of SEGVpn
-</value>
-  </data>
-  <data name="GiftCreditOverview" xml:space="preserve">
-    <value>
-&lt;b&gt;🎀 Here’s an overview of your gift:&lt;/b&gt;:
+    Бесплатная подписка на план {PlanTitle} от SEGVpn </value> </data>
+  <data name="GiftCreditOverview" xml:space="preserve"> <value> &lt;b&gt;🎀 Вот обзор вашего подарка:&lt;/b&gt;:
 
-{Amount}$ credit of SEGVpn
-</value>
-  </data>
-  <data name="AcceptTermsFirstThenClickOnGift" xml:space="preserve">
-    <value>
-Please accept our terms of use first then click on Gift code Again.
+    {Amount}$ кредита от SEGVpn </value> </data>
+  <data name="AcceptTermsFirstThenClickOnGift" xml:space="preserve"> <value> Пожалуйста, сначала примите наши условия использования, а затем снова нажмите на код подарка.
 
-Provided code: {Url}
-</value>
-  </data>
-  <data name="GiftCodeIsInvalid" xml:space="preserve">
-    <value>
-Gift code is invalid.
-</value>
-  </data>
-  <data name="GiftCreditAdded" xml:space="preserve">
-    <value>
-🎉 You’ve got {Amount}$ added to your credit!
-</value>
-  </data>
-  <data name="GiftSubscriptionAdded" xml:space="preserve">
-    <value>
-🎉 You’ve just activated your {SubscriptionPlan} Plan for free!
-</value>
-  </data>
-  <data name="AddToV2RayClient" xml:space="preserve">
-    <value>
-Add this link to a V2Ray client:
-</value>
-  </data>
-  <data name="SubscriptionLinkIsPermanent" xml:space="preserve">
-    <value>
-✅ This is your permanent subscription link. If you change your location or purchase new subscriptions, this link will remain the same. Just remember to &lt;b&gt;Update Subscription&lt;/b&gt; in the V2ray Client after making any changes.
-</value>
-  </data>
-  <data name="AndroidTeachingText" xml:space="preserve">
-    <value>
-Android step by step guide on using Subscription Link
+    Предоставленный код: {Url} </value> </data>
+  <data name="GiftCodeIsInvalid" xml:space="preserve"> <value> Код подарка недействителен. </value> </data>
+  <data name="GiftCreditAdded" xml:space="preserve"> <value> 🎉 Вы получили {Amount}$ на свой кредит! </value> </data>
+  <data name="GiftSubscriptionAdded" xml:space="preserve"> <value> 🎉 Вы только что активировали свой план {SubscriptionPlan} бесплатно! </value> </data>
+  <data name="AddToV2RayClient" xml:space="preserve"> <value> Добавьте эту ссылку в клиент V2Ray: </value> </data>
+  <data name="SubscriptionLinkIsPermanent" xml:space="preserve"> <value> ✅ Это ваша постоянная ссылка на подписку. Если вы измените свое местоположение или приобретете новые подписки, эта ссылка останется прежней. Просто не забудьте &lt;b&gt;Обновить подписку&lt;/b&gt; в клиенте V2ray после внесения любых изменений. </value> </data>
+  <data name="AndroidTeachingText" xml:space="preserve"> <value> Пошаговое руководство по Android по использованию ссылки на подписку
 
-1- Download V2rayNG from this link: https://github.com/2dust/v2rayNG/releases (You have to download V2rayNG version 1.8+ from Github if you want to use Reality configs)
-2- Tap on '🌐 Connect!' Button to get config text
-3- Tap on '🔑 Switch to Subscription Link' Button below the config text to get your permanent subscription link
-4- Tap on the link to copy it
-5- Open V2rayNG and tap on Menu icon on top left
-6- Tap on 'Subscription group setting'
-7- Tap on + icon on top right
-8- On 'remark' textbox enter your desired name ie: SegVPN
-9- Tap on 'Optional URL' and paste your permanent subscription link you copied at step 4
-10- Tap on Check Icon on top right
-11- Tap on back Icon on top left to return to the main page of V2rayNG
-12- Tap on 3 dots at top right
-13- Tap on 'Update subscription' and wait until your connections appear
-14- Tap on a connection you want to use 
-15- Click on connect button on bottom right
+    1- Скачайте V2rayNG по этой ссылке: https://github.com/2dust/v2rayNG/releases (Вам нужно скачать V2rayNG версии 1.8+ с Github, если вы хотите использовать конфигурации Reality) 
+    2- Нажмите на кнопку ‘🌐 Подключиться!’ чтобы получить текст конфигурации 
+    3- Нажмите на кнопку ‘🔑 Переключиться на ссылку подписки’ под текстом конфигурации, чтобы получить свою постоянную ссылку на подписку 
+    4- Нажмите на ссылку, чтобы скопировать ее 
+    5- Откройте V2rayNG и нажмите на значок меню в левом верхнем углу 
+    6- Нажмите на ‘Настройка группы подписки’ 
+    7- Нажмите на значок + в правом верхнем углу 
+    8- В текстовом поле ‘примечание’ введите желаемое имя, например: SegVPN 
+    9- Нажмите на ‘Необязательный URL’ и вставьте свою постоянную ссылку на подписку, которую вы скопировали на шаге 4 
+    10- Нажмите на значок галочки в правом верхнем углу 
+    11- Нажмите на значок назад в левом верхнем углу, чтобы вернуться на главную страницу V2rayNG 
+    12- Нажмите на 3 точки в правом верхнем углу 
+    13- Нажмите на ‘Обновить подписку’ и дождитесь появления ваших подключений 
+    14- Нажмите на подключение, которое вы хотите использовать 
+    15- Нажмите на кнопку подключения в правом нижнем углу
 
-⚠️ NOTE: Repeat steps 12 to 15 whenever your connections did not work properly.
-</value>
-  </data>
-  <data name="IosTeachingText" xml:space="preserve">
-    <value>
-iOS step by step guide on using Subscription Link
+    ⚠️ ПРИМЕЧАНИЕ: Повторяйте шаги с 12 по 15, если ваши подключения не работают должным образом. </value> </data>
+  <data name="IosTeachingText" xml:space="preserve"> <value> Пошаговое руководство по iOS по использованию ссылки на подписку
 
-1- Download Wings X from this link: https://apps.apple.com/us/app/wings-x/id6446119727
-2- Tap on '🌐 Connect!' Button to get config text
-3- Tap on '🔑 Switch to Subscription Link' Button below the config text to get your permanent subscription link
-4- Tap on the link to copy it
-5- Open Wings X and tap on + icon on top right
-6- Tap on 'Subscription Link'
-7- On 'name' textbox enter your desired name ie: SegVPN
-8- Tap on 'URL' and paste your permanent subscription link you copied at step 4
-9- Tap on 'Subscribe' and wait for a few seconds
-10- Tap on 'Play' Button in front of each connection you want to use
+    1- Скачайте Wings X по этой ссылке: https://apps.apple.com/us/app/wings-x/id6446119727 
+    2- Нажмите на кнопку ‘🌐 Подключиться!’ чтобы получить текст конфигурации 
+    3- Нажмите на кнопку ‘🔑 Переключиться на ссылку подписки’ под текстом конфигурации, чтобы получить свою постоянную ссылку на подписку 
+    4- Нажмите на ссылку, чтобы скопировать ее 
+    5- Откройте Wings X и нажмите на значок + в правом верхнем углу 
+    6- Нажмите на ‘Ссылка на подписку’ 
+    7- В текстовом поле ‘имя’ введите желаемое имя, например: SegVPN 
+    8- Нажмите на ‘URL’ и вставьте свою постоянную ссылку на подписку, которую вы скопировали на шаге 4 
+    9- Нажмите на ‘Подписаться’ и подождите несколько секунд 
+    10- Нажмите на кнопку ‘Воспроизвести’ перед каждым подключением, которое вы хотите использовать
 
-⚠️ NOTE: Do the following steps if your connections did not work properly after some time.
+    ⚠️ ПРИМЕЧАНИЕ: Выполните следующие шаги, если ваши подключения не работают должным образом через некоторое время.
 
-1- Open Wings X and click on '📎(Clipper)' Icon
-2- Tap on the name of your subscription
-3- Tap on 'Update' and return to Main Page 
+    1- Откройте Wings X и нажмите на значок ‘📎(Клипер)’ 
+    2- Нажмите на название вашей подписки 
+    3- Нажмите на ‘Обновить’ и вернитесь на главную страницу
 
-⚪️ Alternative applications: 
-A. NapsternetV https://apps.apple.com/us/app/napsternetv/id1629465476
-B. Fair VPN https://apps.apple.com/us/app/fair-vpn/id1533873488
-C. V2Box https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
-</value>
-  </data>
-  <data name="WindowsTeachingText" xml:space="preserve">
-    <value>
-Windows step by step guide on using Subscription Link
+    ⚪️ Альтернативные приложения: 
+    A. NapsternetV https://apps.apple.com/us/app/napsternetv/id1629465476 
+    B. Fair VPN https://apps.apple.com/us/app/fair-vpn/id1533873488 
+    C. V2Box https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690 </value> </data>
+  <data name="WindowsTeachingText" xml:space="preserve"> <value> Пошаговое руководство по Windows по использованию ссылки на подписку
 
-1- Download V2rayN by following the gif below from this link: https://github.com/2dust/v2rayN/releases
-2- After installing and updating, run the program as administrator
-3- Tap on '🌐 Connect!' Button to get config text
-4- Tap on '🔑 Switch to Subscription Link' Button below the config text to get your permanent subscription link
-5- Tap on the link to copy it
-6- Click on + Icon and on 'Remarks' textbox enter your desired name ie: SegVPN 
-7- Click on 'URL' Textbox and paste URL you copied at step 5
-8- Click on 'Confirm'
-9- Select the newly created tab (In this example the name will be SegVPN)
-10- Click on 'Subscription group' and click on 'Update current subscription without proxy'
-11- Left click on the config you want to connect to, then hit enter
-12- Check 'Enable Tun' at bottom middle
+    1- Скачайте V2rayN, следуя гифке ниже по этой ссылке: https://github.com/2dust/v2rayN/releases 
+    2- После установки и обновления запустите программу от имени администратора 
+    3- Нажмите на кнопку ‘🌐 Подключиться!’ чтобы получить текст конфигурации 
+    4- Нажмите на кнопку ‘🔑 Переключиться на ссылку подписки’ под текстом конфигурации, чтобы получить свою постоянную ссылку на подписку 
+    5- Нажмите на ссылку, чтобы скопировать ее 
+    6- Нажмите на значок + и в текстовом поле ‘Примечания’ введите желаемое имя, например: SegVPN 
+    7- Нажмите на текстовое поле ‘URL’ и вставьте URL, который вы скопировали на шаге 5 
+    8- Нажмите на ‘Подтвердить’ 
+    9- Выберите вновь созданную вкладку (В этом примере имя будет SegVPN) 
+    10- Нажмите на ‘Группа подписки’ и нажмите на ‘Обновить текущую подписку без прокси’ 
+    11- Левой кнопкой мыши щелкните по конфигурации, к которой хотите подключиться, затем нажмите Enter 
+    12- Установите флажок ‘Включить Tun’ внизу посередине
 
-⚠️ NOTE: Repeat step 10 whenever your connections did not work properly.
+    ⚠️ ПРИМЕЧАНИЕ: Повторяйте шаг 10, если ваши подключения не работают должным образом.
 
-⚪️ Alternative applications: 
-A. Nekoray https://github.com/MatsuriDayo/nekoray/releases
+    ⚪️ Альтернативные приложения: 
+    A. Nekoray https://github.com/MatsuriDayo/nekoray/releases
 
-</value>
-  </data>
-  <data name="InviteToGetMoney" xml:space="preserve">
-    <value>
-&lt;b&gt;💡 Did you know:&lt;/b&gt;
-You can get 5 cents &lt;i&gt;guaranteed&lt;/i&gt; for every friend you invite to SEGVpn!
+  </value> </data>
+  <data name="InviteToGetMoney" xml:space="preserve"> <value> &lt;b&gt;💡 Знаете ли вы:&lt;/b&gt; Вы можете получить 5 центов &lt;i&gt;гарантированно&lt;/i&gt; за каждого друга, которого пригласите в SEGVpn!
 
-👇 Just tap on the '✉️ Invite' button below and start making money 💸</value>
-  </data>
-  <data name="ChangeLocationToImproveSpeed" xml:space="preserve">
-    <value>&lt;b&gt;📡 We Noticed Something...&lt;/b&gt;
+    👇 Просто нажмите на кнопку ‘✉️ Пригласить’ ниже и начните зарабатывать деньги 💸</value> </data>
+  <data name="ChangeLocationToImproveSpeed" xml:space="preserve"> <value>&lt;b&gt;📡 Мы заметили что-то…&lt;/b&gt;
 
-📶 You have used less than 1 Gigabyte of your service in the past 10 days. We want you to enjoy the full benefits of our features, so here are some suggestions to optimize your experience:
+    📶 Вы использовали менее 1 гигабайта своего сервиса за последние 10 дней. Мы хотим, чтобы вы наслаждались всеми преимуществами наших функций, поэтому вот несколько советов для оптимизации вашего опыта:
 
-&lt;b&gt;&lt;i&gt;🌎 Switch your location&lt;/i&gt;&lt;/b&gt;
-You can get a faster and more stable connection by choosing a different location that suits your ISP and Provider better. Just tap on the ‘🔶 Change Location’ button below and explore our options.
+    &lt;b&gt;&lt;i&gt;🌎 Смените свое местоположение&lt;/i&gt;&lt;/b&gt; 
+    Вы можете получить более быстрое и стабильное подключение, выбрав другое местоположение, которое лучше подходит вашему интернет-провайдеру и оператору. Просто нажмите на кнопку ‘🔶 Сменить местоположение’ ниже и изучите наши варианты.
 
-&lt;b&gt;&lt;i&gt;🛡️ Use Compatible Clients&lt;/i&gt;&lt;/b&gt;
-SEGVpn offers state of the art, advanced and secure configs that only work with certain V2Ray clients. To find out which clients are compatible, please tap on /help
+    &lt;b&gt;&lt;i&gt;🛡️ Используйте совместимые клиенты&lt;/i&gt;&lt;/b&gt; 
+    SEGVpn предлагает передовые и безопасные конфигурации, которые работают только с определенными клиентами V2Ray. Чтобы узнать, какие клиенты совместимы, пожалуйста, нажмите на /help
 
-&lt;b&gt;&lt;i&gt;🔁 Refresh your Subscription Link&lt;/i&gt;&lt;/b&gt;
-We have to update our domains regularly to avoid being blocked by GFW. To keep up with our changes, go to your v2ray app and tap on ‘Update Subscription’. For more details, tap on /help.
+    &lt;b&gt;&lt;i&gt;🔁 Обновите свою ссылку на подписку&lt;/i&gt;&lt;/b&gt; 
+    Мы должны регулярно обновлять наши домены, чтобы избежать блокировки GFW. Чтобы следить за нашими изменениями, перейдите в свое приложение v2ray и нажмите на ‘Обновить подписку’. Для получения более подробной информации нажмите на /help.
 
-&lt;b&gt;&lt;i&gt;📧 Reach out to us&lt;/i&gt;&lt;/b&gt;
-If none of the above solutions work for you, don’t hesitate to contact us at SEGSeed@Gmail.com and tell us your problem. Our Support Team is always ready to help you and solve any issues you may have.
+    &lt;b&gt;&lt;i&gt;📧 Свяжитесь с нами&lt;/i&gt;&lt;/b&gt;
+    Если ни одно из вышеуказанных решений не подходит вам, не стесняйтесь связаться с нами по адресу SEGSeed@Gmail.com и рассказать нам о своей проблеме. Наша служба поддержки всегда готова помочь вам и решить любые вопросы, которые у вас могут возникнуть.
 
+    Мы рады поддерживать вас в эти трудные интернет-времена
 
-We are honored to keep you connected in these tough internet times
-
-🚀 STAY CONNECTED 🚀
-</value>
-  </data>
+    🚀 ОСТАВАЙТЕСЬ НА СВЯЗИ 🚀 </value> </data>
 </root>
