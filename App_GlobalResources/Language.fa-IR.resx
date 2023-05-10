@@ -124,7 +124,7 @@
     <value>✅ بله</value>
   </data>
   <data name="btnNotAgree" xml:space="preserve">
-    <value>❌ خی</value>
+    <value>❌ خیر</value>
   </data>
   <data name="btnAccept" xml:space="preserve">
     <value>✅ تایید کنید</value>
