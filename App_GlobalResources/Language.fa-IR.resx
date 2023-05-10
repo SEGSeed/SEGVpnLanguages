@@ -121,10 +121,10 @@
     <value>حساب شما با موفقیت تمدید شد. متشکرم! ☺️🙏</value>
   </data>
   <data name="btnAgree" xml:space="preserve">
-    <value>✅ موافق</value>
+    <value>✅ بله</value>
   </data>
   <data name="btnNotAgree" xml:space="preserve">
-    <value>❌ موافق نیستم</value>
+    <value>❌ خی</value>
   </data>
   <data name="btnAccept" xml:space="preserve">
     <value>✅ تایید کنید</value>
@@ -136,7 +136,7 @@
     <value>↩️ بازگشت</value>
   </data>
   <data name="btnStartFreeTrial" xml:space="preserve">
-    <value>🥁 آزمایشی رایگان خود را شروع کنید</value>
+    <value>🥁 اکانت رایگان خود را شروع کنید</value>
   </data>
   <data name="btnConnect" xml:space="preserve">
     <value>🌐 اتصال!</value>
@@ -151,7 +151,7 @@
     <value>↩️ بازگشت به منوی اصلی</value>
   </data>
   <data name="btnChangeServer" xml:space="preserve">
-    <value>🔶 تغییر مکان</value>
+    <value>🔶 تغییر مکان سرور</value>
   </data>
   <data name="btnClose" xml:space="preserve">
     <value>❌ بستن</value>
@@ -181,13 +181,13 @@
     <value>◽️ نحوه اتصال با ویندوز</value>
   </data>
   <data name="btnHowToExtendSubscription" xml:space="preserve">
-    <value>❓ نحوه تمدید مدت زمان اتصال?</value>
+    <value>❓ نحوه تمدید اشتراک</value>
   </data>
   <data name="btnHowToIncreaseSpeed" xml:space="preserve">
     <value>❓ چگونه سرعت را افزایش دهیم</value>
   </data>
   <data name="btnHowToViewUsage" xml:space="preserve">
-    <value>❓ نحوه مشاهده استفاده من</value>
+    <value>❓ نحوه مشاهده میزان مصرف</value>
   </data>
   <data name="btnGift" xml:space="preserve">
     <value>🎁 هدیه</value>
@@ -196,7 +196,7 @@
     <value>✉️ دعوت</value>
   </data>
   <data name="btnGoPremium" xml:space="preserve">
-    <value>🛫 برو پریمیوم</value>
+    <value>🛫 خرید اشتراک</value>
   </data>
   <data name="btnReject" xml:space="preserve">
     <value>❌ رد کردن</value>
@@ -211,16 +211,16 @@
     <value>🧑‍🏫 آموزش ها</value>
   </data>
   <data name="btnUsage" xml:space="preserve">
-    <value>📊 مصرف</value>
+    <value>📊 میزان مصرف</value>
   </data>
   <data name="lblUsage" xml:space="preserve">
-    <value>📊 مصرف</value>
+    <value>📊 میزان مصرف</value>
   </data>
   <data name="btnViewAppTutorial" xml:space="preserve">
-    <value>🖥 مشاهده برنامه آموزشی</value>
+    <value>🖥 مشاهده آموزش برنامه</value>
   </data>
   <data name="ChangeServerCanceled" xml:space="preserve">
-    <value>تغییر مکان لغو شد</value>
+    <value>تغییر مکان سرور لغو شد</value>
   </data>
   <data name="ChangeServerNotInState" xml:space="preserve">
     <value>برای تغییر سرور ابتدا روی دکمه زیر ضربه بزنید و سپس یک سرور را انتخاب کنید.
@@ -243,7 +243,7 @@
     <value>آموزش مورد نظر خود را انتخاب کنید</value>
   </data>
   <data name="ClickOnSettleDebt" xml:space="preserve">
-    <value>برای پرداخت روی /settleDebt کلیک کنید</value>
+    <value>برای تسویه حساب روی /settleDebt کلیک کنید</value>
   </data>
   <data name="CommandDoesNotExists" xml:space="preserve">
     <value>فرمان وجود ندارد</value>
@@ -294,10 +294,10 @@
 همیشه می توانید دستور /status را برای مشاهده آخرین وضعیت خود ارسال کنید</value>
   </data>
   <data name="HowToExtend" xml:space="preserve">
-    <value>چگونه می خواهید حساب خود را گسترش دهید</value>
+    <value>چگونه می خواهید حساب خود را خریداری کنید</value>
   </data>
   <data name="InvitationSucceed" xml:space="preserve">
-    <value>دعوت موفق شد!</value>
+    <value>دعوت ارسال شد!</value>
   </data>
   <data name="InviteMessage" xml:space="preserve">
     <value>🔖 از شما دعوت شده است که از SegVPN استفاده کنید.
@@ -416,7 +416,7 @@
   </data>
   <data name="ServerChangedSuccessfully" xml:space="preserve">
     <value>🌎 مکان با موفقیت تغییر کرد.
-❗️ اتصالات فعلی شما به زودی حذف خواهد شد، لطفاً با به روز رسانی اشتراک خود یا کپی و جایگذاری متن پیکربندی جدید ایجاد شده در بالا، از اتصالات جدید استفاده کنید.
+❗️ اتصالات فعلی شما به زودی قطع خواهد شد، لطفاً با به روز رسانی اشتراک خود یا کپی و جایگذاری متن پیکربندی جدید ایجاد شده در بالا، از اتصالات جدید استفاده کنید.
 
 ‼️ توجه: تنظیمات Reality در حال حاضر فقط روی کلاینت‌های خاصی کار می کند.
 برای جزئیات بیشتر روی /help ضربه بزنید</value>
