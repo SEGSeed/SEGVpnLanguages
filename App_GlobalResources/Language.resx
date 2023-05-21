@@ -192,6 +192,9 @@
   <data name="btnGift" xml:space="preserve">
     <value>🎁 Gift</value>
   </data>
+  <data name="btnPayWithCrypto" xml:space="preserve">
+    <value>🪙 Pay With Crypto</value>
+  </data>
   <data name="btnInvite" xml:space="preserve">
     <value>✉️ Invite</value>
   </data>
@@ -593,6 +596,13 @@ For example 5.99 or 10...
   <data name="ChargeWalletAmountIsLargerThan2000" xml:space="preserve">
     <value>Amount should be smaller than 2000$</value>
   </data>
+  <data name="ChoosePaymentType" xml:space="preserve">
+    <value>
+💵 Choose desired payment type you want to pay {Amount}$ with. 
+
+Note: To see how we could achieve this functionality and how you can add this for other currencies please &lt;a href="https://t.me/SEGVPN/15"&gt;This Post&lt;/a&gt; and &lt;a href="https://t.me/SEGVPN/16"&gt;This Post&lt;/a&gt;
+</value>
+  </data>
   <data name="ChooseCoin" xml:space="preserve">
     <value>💵 Choose desired coin to pay {Amount}$ with. </value>
   </data>
@@ -643,8 +653,9 @@ Please wait...</value>
   <data name="PaymentStatusExpired" xml:space="preserve">
     <value>Expired</value>
   </data>
-  <data name="WaitingForPaymentTemplate" xml:space="preserve">
-    <value>Please send &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} on &lt;b&gt;{CryptoNetwork}&lt;/b&gt; network to Crypto Wallet below
+  <data name="WaitingForPaymentTemplateTypeCrypto" xml:space="preserve">
+    <value>
+Please send &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} on &lt;b&gt;{CryptoNetwork}&lt;/b&gt; network to Crypto Wallet below
 
 &lt;code&gt;{Wallet}&lt;/code&gt;
 {MemoTemplate}
@@ -655,7 +666,22 @@ Please note that payments may take a few minutes to take place and you will be n
 
 This payment will expire in {MinutesToExpire} minutes
 
-tap on /refresh to refresh manually</value>
+tap on /refresh to refresh manually
+</value>
+  </data>
+  <data name="WaitingForPaymentTemplateIRR" xml:space="preserve">
+    <value>
+Click on this link to pay with Iran Rial:
+https://weswap.digital/quick?amount={CryptoAmount}&amp;currency=TRX&amp;address={Wallet}
+
+Payment status: {PaymentStatus}
+
+Please note that payments may take a few minutes to take place and you will be notified after verification
+
+This payment will expire in {MinutesToExpire} minutes
+
+tap on /refresh to refresh manually
+</value>
   </data>
   <data name="MemoTemplate" xml:space="preserve">
     <value>Memo: &lt;code&gt;{Memo}&lt;/code&gt;
@@ -763,7 +789,7 @@ You can always change your language with command /language
   </data>
   <data name="TermsOfServiceAgreedText" xml:space="preserve">
     <value>
-✅ Terms of service accepted, now you can click on Connect button to receive your connections.
+✅ Terms of service accepted, now you can click on '🌐 Connect' button to receive your connections.
 </value>
   </data>
   <data name="TermsOfServiceDisagreeText" xml:space="preserve">
@@ -872,47 +898,44 @@ Android step by step guide on using Subscription Link
 
 1- Download V2rayNG from this link: https://github.com/2dust/v2rayNG/releases (You have to download V2rayNG version 1.8+ from Github if you want to use Reality configs)
 2- Tap on '🌐 Connect!' Button to get config text
-3- Tap on '🔑 Switch to Subscription Link' Button below the config text to get your permanent subscription link
-4- Tap on the link to copy it
-5- Open V2rayNG and tap on Menu icon on top left
-6- Tap on 'Subscription group setting'
-7- Tap on + icon on top right
-8- On 'remark' textbox enter your desired name ie: SegVPN
-9- Tap on 'Optional URL' and paste your permanent subscription link you copied at step 4
-10- Tap on Check Icon on top right
-11- Tap on back Icon on top left to return to the main page of V2rayNG
-12- Tap on 3 dots at top right
-13- Tap on 'Update subscription' and wait until your connections appear
-14- Tap on a connection you want to use 
-15- Click on connect button on bottom right
+3- Tap on the link to copy it
+4- Open V2rayNG and tap on Menu icon on top left
+5- Tap on 'Subscription group setting'
+6- Tap on + icon on top right
+7- On 'remark' textbox enter your desired name ie: SegVPN
+8- Tap on 'Optional URL' and paste your permanent subscription link you copied at step 3
+9- Tap on Check Icon on top right
+10- Tap on back Icon on top left to return to the main page of V2rayNG
+11- Tap on 3 dots at top right
+12- Tap on 'Update subscription' and wait until your connections appear
+13- Tap on a connection you want to use 
+14- Click on connect button on bottom right
 
-⚠️ NOTE: Repeat steps 12 to 15 whenever your connections did not work properly.
+⚠️ NOTE: Repeat steps 11 to 14 whenever your connections did not work properly.
 </value>
   </data>
   <data name="IosTeachingText" xml:space="preserve">
     <value>
 iOS step by step guide on using Subscription Link
 
-1- Download Wings X from this link: https://apps.apple.com/us/app/wings-x/id6446119727
+1- Download FoXray from this link: https://apps.apple.com/us/app/foxray/id6448898396
 2- Tap on '🌐 Connect!' Button to get config text
-3- Tap on '🔑 Switch to Subscription Link' Button below the config text to get your permanent subscription link
-4- Tap on the link to copy it
-5- Open Wings X and tap on + icon on top right
-6- Tap on 'Subscription Link'
-7- On 'name' textbox enter your desired name ie: SegVPN
-8- Tap on 'URL' and paste your permanent subscription link you copied at step 4
-9- Tap on 'Subscribe' and wait for a few seconds
-10- Tap on 'Play' Button in front of each connection you want to use
+3- Tap on the link to copy it
+4- Open FoXray and tap 'Subscriptions' at the bottom menu
+5- On 'name' textbox enter your desired name ie: SegVPN
+6- Tap on 'URL' and paste your permanent subscription link you copied at step 3
+7- Tap on 'Subscribe' and wait for a few seconds
+8- Tap on 'Play' Button in front of each connection you want to use
 
 ⚠️ NOTE: Do the following steps if your connections did not work properly after some time.
 
-1- Open Wings X and click on '📎(Clipper)' Icon
+1- Open FoXray and click on 'Subscriptions' at the bottom menu
 2- Tap on the name of your subscription
 3- Tap on 'Update' and return to Main Page 
 
 ⚪️ Alternative applications: 
 A. NapsternetV https://apps.apple.com/us/app/napsternetv/id1629465476
-B. Fair VPN https://apps.apple.com/us/app/fair-vpn/id1533873488
+B. FairVPN https://apps.apple.com/us/app/fair-vpn/id1533873488
 C. V2Box https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
 </value>
   </data>
@@ -923,17 +946,16 @@ Windows step by step guide on using Subscription Link
 1- Download V2rayN by following the gif below from this link: https://github.com/2dust/v2rayN/releases
 2- After installing and updating, run the program as administrator
 3- Tap on '🌐 Connect!' Button to get config text
-4- Tap on '🔑 Switch to Subscription Link' Button below the config text to get your permanent subscription link
-5- Tap on the link to copy it
-6- Click on + Icon and on 'Remarks' textbox enter your desired name ie: SegVPN 
-7- Click on 'URL' Textbox and paste URL you copied at step 5
-8- Click on 'Confirm'
-9- Select the newly created tab (In this example the name will be SegVPN)
-10- Click on 'Subscription group' and click on 'Update current subscription without proxy'
-11- Left click on the config you want to connect to, then hit enter
-12- Check 'Enable Tun' at bottom middle
+4- Tap on the link to copy it
+5- Click on + Icon and on 'Remarks' textbox enter your desired name ie: SegVPN 
+6- Click on 'URL' Textbox and paste URL you copied at step 4
+7- Click on 'Confirm'
+8- Select the newly created tab (In this example the name will be SegVPN)
+9- Click on 'Subscription group' and click on 'Update current subscription without proxy'
+10- Left click on the config you want to connect to, then hit enter
+11- Check 'Enable Tun' at bottom middle
 
-⚠️ NOTE: Repeat step 10 whenever your connections did not work properly.
+⚠️ NOTE: Repeat step 9 whenever your connections did not work properly.
 
 ⚪️ Alternative applications: 
 A. Nekoray https://github.com/MatsuriDayo/nekoray/releases
@@ -968,6 +990,16 @@ If none of the above solutions work for you, don’t hesitate to contact us at S
 We are honored to keep you connected in these tough internet times
 
 🚀 STAY CONNECTED 🚀
+</value>
+  </data>
+  <data name="BuySubscriptionsWithDiscount" xml:space="preserve">
+    <value>
+&lt;b&gt;⚡️ Limited offer: Don’t miss this amazing deal on subscriptions!&lt;/b&gt;
+
+This is a rare opportunity! You can now get our premium subscriptions for a jaw-dropping 50 to 76 percent off!
+
+Tap on the ‘🛍 Subscription’ button and claim your offer now!
+
 </value>
   </data>
 </root>

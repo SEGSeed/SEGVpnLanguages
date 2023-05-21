@@ -216,6 +216,10 @@
   <data name="lblUsage" xml:space="preserve">
     <value>📊 مصرف</value>
   </data>
+  <data name="btnPayWithCrypto" xml:space="preserve">
+    <value>🪙 پرداخت با رمزارز</value>
+  </data>
+
   <data name="btnViewAppTutorial" xml:space="preserve">
     <value>🖥 مشاهده برنامه آموزشی</value>
   </data>
@@ -397,7 +401,7 @@
     <value>در حال حاضر هیچ اشتراک فعالی ندارید، برای مشاهده برنامه ها روی دکمه زیر ضربه بزنید.</value>
   </data>
   <data name="ResetUsage" xml:space="preserve">
-    <value>کاربر گرامی، پس از {Days From Now} روز از اولین ثبت نام شما، استفاده شما بازنشانی شده است.
+    <value>کاربر گرامی، پس از {DaysFromNow} روز از اولین ثبت نام شما، استفاده شما بازنشانی شده است.
 
 همیشه می توانید منو را ببینید یا آخرین وضعیت خود را روی /status ضربه بزنید</value>
   </data>
@@ -512,7 +516,7 @@
     <value>طرح {PlanTitle}
 {MaxTraffic} گیگابایت در ماه
 ماه {Month}
-{Limit} کاربران همزمان.
+{IpLimit} کاربران همزمان.
 </value>
   </data>
   <data name="OrderItemDetailGiftCredit" xml:space="preserve">
@@ -544,7 +548,7 @@
 برای پرداخت روی دکمه زیر ضربه بزنید.</value>
   </data>
   <data name="ChooseGiftType" xml:space="preserve">
-    <value>نوع هدیه را انتخاب کنید::</value>
+    <value>نوع هدیه را انتخاب کنید:</value>
   </data>
   <data name="GiftTypeCredit" xml:space="preserve">
     <value>💰 اعتبار</value>
@@ -591,6 +595,14 @@
   <data name="ChargeWalletAmountIsLargerThan2000" xml:space="preserve">
     <value>مقدار باید کمتر از 2000$ باشد </value>
   </data>
+  <data name="ChoosePaymentType" xml:space="preserve">
+    <value>
+💵 نوع پرداخت مورد نظر خود را که می خواهید با آن {Amount}$ پرداخت کنید انتخاب کنید.
+
+توجه: برای دیدن اینکه چگونه توانستیم این قابلیت را داشته باشیم و چگونه می توانید این را برای سایر ارزها اضافه کنید، لطفاً &lt;a href="https://t.me/SEGVPN/15"&gt;این پست&lt;/a&gt; و &lt;a href="https://t.me/SEGVPN/16"&gt;این پست&lt;/a&gt; را ببینید.
+</value>
+  </data>
+
   <data name="ChooseCoin" xml:space="preserve">
     <value>💵 سکه مورد نظر را برای پرداخت {Amount}$ انتخاب کنید. </value>
   </data>
@@ -641,7 +653,7 @@
   <data name="PaymentStatusExpired" xml:space="preserve">
     <value>منقضی شده</value>
   </data>
-  <data name="WaitingForPaymentTemplate" xml:space="preserve">
+  <data name="WaitingForPaymentTemplateTypeCrypto" xml:space="preserve">
     <value>
 لطفاً &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} را در شبکه &lt;b&gt;{CryptoNetwork}&lt;/b&gt; به کیف پول زیر ارسال کنید
 &lt;code&gt;{Wallet}&lt;/code&gt;
@@ -655,6 +667,21 @@
 
 برای بازخوانی دستی روی /refresh ضربه بزنید</value>
   </data>
+  <data name="WaitingForPaymentTemplateIRR" xml:space="preserve">
+    <value>
+برای پرداخت با ریال ایران روی این لینک کلیک کنید: https://weswap.digital/quick?amount={CryptoAmount}&amp;currency=TRX&amp;address={Wallet}
+
+وضعیت پرداخت: {PaymentStatus}
+
+لطفاً توجه داشته باشید که پرداخت‌ها ممکن است چند دقیقه زمان ببرد و پس از تأیید به شما اطلاع داده خواهد شد
+
+این پرداخت در {MinutesToExpire} دقیقه منقضی خواهد شد
+
+روی /refresh بزنید تا به صورت دستی تازه‌سازی شود
+
+</value>
+  </data>
+
   <data name="MemoTemplate" xml:space="preserve">
     <value>Memo: &lt;code&gt;{Memo}&lt;/code&gt;
 احتیاط: اگر Memo را مشخص نکنید، ممکن است پرداخت از بین برود</value>
@@ -760,7 +787,7 @@
   </data>
   <data name="TermsOfServiceAgreedText" xml:space="preserve">
     <value>
-✅ شرایط خدمات پذیرفته شد، اکنون می توانید برای دریافت اتصالات خود بر روی دکمه اتصال کلیک کنید.
+✅ شرایط خدمات پذیرفته شد، اکنون می توانید برای دریافت اتصالات خود بر روی دکمه '🌐 اتصال!' کلیک کنید.
 </value>
   </data>
   <data name="TermsOfServiceDisagreeText" xml:space="preserve">
@@ -861,67 +888,62 @@
     <value>
 راهنمای گام به گام اندروید برای استفاده از Subscription Link
 
-1- V2rayNG را از این لینک دانلود کنید: https://github.com/2dust/v2rayNG/releases (اگر می خواهید از تنظیمات Reality استفاده کنید باید V2rayNG نسخه 1.8+ را از Github دانلود کنید)
+1- از این لینک V2rayNG را دانلود کنید: https://github.com/2dust/v2rayNG/releases (اگر می خواهید از تنظیمات Reality استفاده کنید باید V2rayNG نسخه 1.8+ را از Github دانلود کنید)
 2- روی "🌐 اتصال!" ضربه بزنید. دکمه دریافت متن پیکربندی
-3- برای دریافت لینک اشتراک دائمی خود، روی دکمه '🔑 تغییر به Subscription Link' زیر متن پیکربندی ضربه بزنید.
-4- برای کپی کردن لینک روی آن ضربه بزنید
-5- V2rayNG را باز کرده و روی نماد Menu در بالا سمت چپ ضربه بزنید
-6- روی «Subscription group setting» ضربه بزنید
-7- روی نماد + در بالا سمت راست ضربه بزنید
-8- در 'remark' نام مورد نظر خود را وارد کنید مثلا: SegVPN
-9- روی «Optional URL» ضربه بزنید و پیوند اشتراک دائمی خود را که در مرحله 4 کپی کردید، جای‌گذاری کنید.
-10- روی آیکون تیک در بالا سمت راست ضربه بزنید
-11- روی آیکون بازگشت در بالا سمت چپ ضربه بزنید تا به صفحه اصلی V2rayNG بازگردید
-12- روی 3 نقطه در بالا سمت راست ضربه بزنید
-13- روی 'Update subscription' ضربه بزنید و منتظر بمانید تا اتصالات شما ظاهر شود
-14- روی اتصالی که می خواهید استفاده کنید ضربه بزنید
-15- روی دکمه اتصال در پایین سمت راست کلیک کنید
+3- برای کپی کردن لینک روی آن ضربه بزنید
+4- بعد از باز کردن V2rayNG، روی نماد Menu در بالا سمت چپ ضربه بزنید
+5- روی «Subscription group setting» ضربه بزنید
+6- روی نماد + در بالا سمت راست ضربه بزنید
+7- در 'remark' نام مورد نظر خود را وارد کنید مثلا: SegVPN
+8- روی «Optional URL» ضربه بزنید و پیوند اشتراک دائمی خود را که در مرحله 3 کپی کردید، جای‌گذاری کنید.
+9- روی آیکون تیک در بالا سمت راست ضربه بزنید
+10- روی آیکون بازگشت در بالا سمت چپ ضربه بزنید تا به صفحه اصلی V2rayNG بازگردید
+11- روی 3 نقطه در بالا سمت راست ضربه بزنید
+12- روی 'Update subscription' ضربه بزنید و منتظر بمانید تا اتصالات شما ظاهر شود
+13- روی اتصالی که می خواهید استفاده کنید ضربه بزنید
+14- روی دکمه اتصال در پایین سمت راست کلیک کنید
 
-⚠️ توجه: هر زمان که اتصالات شما به درستی کار نکرد، مراحل 12 تا 15 را تکرار کنید.</value>
+⚠️ توجه: هر زمان که اتصالات شما به درستی کار نکرد، مراحل 11 تا 14 را تکرار کنید.</value>
   </data>
   <data name="IosTeachingText" xml:space="preserve">
     <value>
-راهنمای گام به گام iOS برای استفاده از Subscription Link
+راهنمای گام به گام iOS برای استفاده از لینک اشتراک
 
-1- Wings X را از این لینک دانلود کنید: https://apps.apple.com/us/app/wings-x/id6446119727
+1- از این لینک foXray دانلود کنید: https://apps.apple.com/us/app/foxray/id6448898396
 2- روی "🌐 اتصال!" ضربه بزنید. دکمه دریافت متن پیکربندی
-3- برای دریافت لینک اشتراک دائمی خود، روی دکمه '🔑 تغییر به Subscription Link' زیر متن پیکربندی ضربه بزنید.
-4- برای کپی کردن لینک روی آن ضربه بزنید
-5- Wings X را باز کنید و روی نماد + در بالا سمت راست ضربه بزنید
-6- روی «Subscription Link» ضربه بزنید
-7- در 'name' نام مورد نظر خود را وارد کنید مثلا: SegVPN
-8- روی 'URL' ضربه بزنید و پیوند اشتراک دائمی خود را که در مرحله 4 کپی کرده اید، جایگذاری کنید
-9- روی 'Subscribe' ضربه بزنید و چند ثانیه صبر کنید
-10- در مقابل هر اتصالی که می خواهید استفاده کنید، روی دکمه «Play» ضربه بزنید
+3- برای کپی کردن لینک روی آن ضربه بزنید
+4- FoXray را باز کنید و در منوی پایین روی 'Subscriptions' ضربه بزنید
+5- در 'name' نام مورد نظر خود را وارد کنید یعنی: SegVPN
+6- روی «URL» ضربه بزنید و پیوند اشتراک دائمی خود را که در مرحله 3 کپی کرده اید، جایگذاری کنید
+7- روی 'Subscribe' ضربه بزنید و چند ثانیه صبر کنید
+8- در مقابل هر اتصالی که می‌خواهید استفاده کنید، روی دکمه «Play» ضربه بزنید
 
 ⚠️ توجه: اگر پس از مدتی اتصالات شما به درستی کار نکرد، مراحل زیر را انجام دهید.
 
-1- Wings X را باز کرده و روی نماد '📎(گیره)' کلیک کنید
+1- FoXray را باز کرده و در منوی پایین بر روی 'Subscriptions' کلیک کنید
 2- روی نام اشتراک خود ضربه بزنید
 3- بر روی 'Update' ضربه بزنید و به صفحه اصلی بازگردید
 
 ⚪️ برنامه های جایگزین:
 A. NapsternetV https://apps.apple.com/us/app/napsternetv/id1629465476
-B. Fair VPN https://apps.apple.com/us/app/fair-vpn/id1533873488
-C. V2Box https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
-</value>
+ب. FairVPN https://apps.apple.com/us/app/fair-vpn/id1533873488
+C. V2Box https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690</value>
   </data>
   <data name="WindowsTeachingText" xml:space="preserve">
     <value>
 راهنمای گام به گام ویندوز برای استفاده از Subscription Link
 
-1- V2rayN را با دنبال کردن گیف زیر از این لینک دانلود کنید: https://github.com/2dust/v2rayN/releases
+1- با دنبال کردن گیف زیر V2rayN را از این لینک دانلود کنید: https://github.com/2dust/v2rayN/releases
 2- پس از نصب و به روز رسانی، برنامه را به عنوان administrator اجرا کنید
-2- روی "🌐 اتصال!" ضربه بزنید. دکمه دریافت متن پیکربندی
-3- برای دریافت لینک اشتراک دائمی خود، روی دکمه '🔑 تغییر به Subscription Link' زیر متن پیکربندی ضربه بزنید.
-5- برای کپی کردن لینک روی آن ضربه بزنید
-6- بر روی آیکون + کلیک کنید و در متن "Remarks" نام مورد نظر خود را وارد کنید مثلا: SegVPN
-7- روی «URL» کلیک کنید و آدرسی را که در مرحله 5 کپی کردید، قرار دهید
-8- بر روی "Confirm" کلیک کنید
-9- تب جدید ایجاد شده را انتخاب کنید (در این مثال نام SegVPN خواهد بود)
-10- بر روی 'Subscription Group' کلیک کنید و بر روی 'Update current subscription without proxy.
-11- روی کانفیکی که می خواهید به آن متصل شوید کلیک چپ کرده و اینتر را بزنید
-12- در پایین وسط گزینه Enable Tun را علامت بزنید
+3- روی "🌐 اتصال!" ضربه بزنید. دکمه دریافت متن پیکربندی
+4- برای کپی کردن لینک روی آن ضربه بزنید
+5- بر روی آیکون + کلیک کنید و در متن "Remarks" نام مورد نظر خود را وارد کنید مثلا: SegVPN
+6- روی «URL» کلیک کنید و آدرسی را که در مرحله 4 کپی کردید، قرار دهید
+7- بر روی "Confirm" کلیک کنید
+8- تب جدید ایجاد شده را انتخاب کنید (در این مثال نام SegVPN خواهد بود)
+9- بر روی 'Subscription Group' کلیک کنید و بر روی 'Update current subscription without proxy.
+10- روی کانفیکی که می خواهید به آن متصل شوید کلیک چپ کرده و اینتر را بزنید
+11- در پایین وسط گزینه Enable Tun را علامت بزنید
 
 ⚠️ توجه: هر زمان که اتصالات شما به درستی کار نکرد، مرحله 10 را تکرار کنید.
 
@@ -957,6 +979,16 @@ SEGVpn پیکربندی های مدرن، پیشرفته و ایمن را ارا
 ما مفتخریم که شما را در این روزهای سخت اینترنتی در ارتباط نگه داریم
 
 🚀 متصل بمانید 🚀
+</value>
+  </data>
+  <data name="BuySubscriptionsWithDiscount" xml:space="preserve">
+    <value>
+&lt;b&gt;⚡️ پیشنهاد محدود: از این فرصت شگفت‌انگیز برای اشتراک‌ها غافل نشوید!&lt;/b&gt;
+
+ن یک فرصت نادر است! هم اکنون شما می‌توانید اشتراک‌های ویژه ما را با تخفیف ۵۰ تا ۷۶ درصدی بخرید!
+
+روی دکمه ‘🛍 اشتراک’ ضربه بزنید و پیشنهاد خود را همین حالا دریافت کنید!
+
 </value>
   </data>
 </root>

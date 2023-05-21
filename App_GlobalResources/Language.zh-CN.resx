@@ -149,7 +149,12 @@
   <data name="btnSettleDebt" xml:space="preserve"> <value>💸 结清债务</value> </data>
   <data name="btnTutorial" xml:space="preserve"> <value>🧑‍🏫 教程</value> </data>
   <data name="btnUsage" xml:space="preserve"> <value>📊 使用情况</value> </data>
+  <data name="btnPayWithCrypto" xml:space="preserve">
+    <value>🪙 用加密支付</value>
+  </data>
   <data name="lblUsage" xml:space="preserve"> <value>📊 使用情况</value> </data>
+
+
   <data name="btnViewAppTutorial" xml:space="preserve"> <value>🖥 查看应用教程</value> </data>
   <data name="ChangeServerCanceled" xml:space="preserve"> <value>已取消更改服务器</value> </data>
   <data name="ChangeServerNotInState" xml:space="preserve"> <value>要更改服务器，首先点击下面的按钮，然后选择一个服务器。
@@ -338,6 +343,13 @@
   <data name="ChargeWalletAmountIsLargerThan2000" xml:space="preserve">
     <value>金额应小于 2000$</value>
   </data>
+  <data name="ChoosePaymentType" xml:space="preserve">
+    <value>
+💵 选择您想用来支付{Amount}$的期望付款类型。
+
+注意：要查看我们如何实现此功能以及如何为其他货币添加此功能，请查看&lt;a href="https://t.me/SEGVPN/15"&gt;这篇文章&lt;/a&gt;和&lt;a href="https://t.me/SEGVPN/16"&gt;这篇文章&lt;/a&gt;
+</value>
+  </data>
   <data name="ChooseCoin" xml:space="preserve">
     <value>💵 选择所需的硬币来支付 {Amount}$. </value>
   </data>
@@ -358,17 +370,35 @@
   <data name="PaymentStatusFailed" xml:space="preserve"> <value>失败的</value> </data>
   <data name="PaymentStatusRefunded" xml:space="preserve"> <value>已退款</value> </data>
   <data name="PaymentStatusExpired" xml:space="preserve"> <value>已过期</value> </data>
-  <data name="WaitingForPaymentTemplate" xml:space="preserve"> <value>请发送 &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} 到以下加密钱包，使用 &lt;b&gt;{CryptoNetwork}&lt;/b&gt; 网络
+  <data name="WaitingForPaymentTemplateTypeCrypto" xml:space="preserve">
+ <value>
+请发送 &lt;code&gt;{CryptoAmount}&lt;/code&gt; {CryptoName} 到以下加密钱包，使用 &lt;b&gt;{CryptoNetwork}&lt;/b&gt; 网络
 
-    &lt;code&gt;{Wallet}&lt;/code&gt; {MemoTemplate}
+&lt;code&gt;{Wallet}&lt;/code&gt; {MemoTemplate}
 
-    支付状态：{PaymentStatus}
+支付状态：{PaymentStatus}
 
-    请注意，支付可能需要几分钟才能完成，您将在验证后收到通知
+请注意，支付可能需要几分钟才能完成，您将在验证后收到通知
 
-    此支付将在 {MinutesToExpire} 分钟后过期
+此支付将在 {MinutesToExpire} 分钟后过期
 
-    点击 /refresh 手动刷新</value> </data>
+点击 /refresh 手动刷新
+</value> 
+</data>
+  <data name="WaitingForPaymentTemplateIRR" xml:space="preserve">
+    <value>
+点击此链接用伊朗里亚尔支付： 
+https://weswap.digital/quick?amount={CryptoAmount}&amp;currency=TRX&amp;address={Wallet}
+
+付款状态：{PaymentStatus}
+
+请注意，付款可能需要几分钟才能完成，验证后您将收到通知
+
+此付款将在 {MinutesToExpire} 分钟后过期
+
+点击 /refresh 手动刷新</value>
+  </data>
+
   <data name="MemoTemplate" xml:space="preserve"> <value>Memo: &lt;code&gt;{Memo}&lt;/code&gt; 🟥 注意：如果您不指定 memo，支付可能会丢失</value> </data>
   <data name="PaymentFailed" xml:space="preserve"> <value>支付失败，出现错误。请稍后再试。</value> </data>
   <data name="PaymentExpired" xml:space="preserve"> <value>支付已过期。请重试。</value> </data>
@@ -423,7 +453,9 @@
     — 连接是设计为只供一人使用。
 
     — 如果违反这些规则，您的账户可能会被暂停。</value> </data>
-  <data name="TermsOfServiceAgreedText" xml:space="preserve"> <value> ✅ 已接受服务条款，现在您可以点击连接按钮来获取您的连接。 </value> </data>
+  <data name="TermsOfServiceAgreedText" xml:space="preserve"> <value>
+✅ 接受服务条款，现在您可以点击“🌐连接”按钮接收您的连接。
+</value> </data>
   <data name="TermsOfServiceDisagreeText" xml:space="preserve">
     <value>
 很抱歉我们的条款不适合您！ 我们希望您尽快回来或使用我们的其他 &lt;a href="https://t.me/SegLand"&gt; 产品 &lt;/a&gt;。
@@ -476,47 +508,45 @@
 Android 使用订阅链接的分步指南
 
 1- 从这个链接下载 V2rayNG：https://github.com/2dust/v2rayNG/releases（如果你想使用 Reality 配置，你必须从 Github 下载 V2rayNG 版本 1.8+）
-2- 点击"🌐连接！” 获取配置文本的按钮
-3- 点击配置文本下方的"🔑切换到订阅链接”按钮以获取永久订阅链接
-4- 点击链接进行复制
-5- 打开 V2rayNG 并点击左上角的菜单图标
-6- 点击"订阅组设置”
-7- 点击右上角的 + 图标
-8- 在"备注”文本框中输入您想要的名称，即：SegVPN
-9- 点击"可选 URL”并粘贴您在第 4 步复制的永久订阅链接
-10- 点击右上角的检查图标
-11- 点击左上角的返回图标返回到 V2rayNG 的主页
-12- 点击右上角的 3 个点
-13- 点击"更新订阅”并等待您的连接出现
-14- 点击您要使用的连接
-15-点击右下角的连接按钮
+2- 点击“🌐连接！”获取配置文本的按钮
+3- 点击链接进行复制
+4- 打开 V2rayNG 并点击左上角的菜单图标
+5- 点击“订阅组设置”
+6- 点击右上角的 + 图标
+7- 在“备注”文本框中输入您想要的名称，即：SegVPN
+8- 点击“可选 URL”并粘贴您在第 3 步复制的永久订阅链接
+9- 点击右上角的检查图标
+10- 点击左上角的返回图标返回到 V2rayNG 的主页
+11- 点击右上角的 3 个点
+12- 点击“更新订阅”并等待您的连接出现
+13- 点击您要使用的连接
+14-点击右下角的连接按钮
 
-⚠️ 注意：每当您的连接无法正常工作时，请重复步骤 12 至 15。</value>
+⚠️ 注意：每当您的连接无法正常工作时，请重复步骤 11 至 14。
+</value>
   </data>
   <data name="IosTeachingText" xml:space="preserve">
     <value>
-iOS 使用订阅链接的分步指南
+iOS使用订阅链接的分步指南
 
-1- 从此链接下载 Wings X：https://apps.apple.com/us/app/wings-x/id6446119727
-2- 点击"🌐连接！” 获取配置文本的按钮
-3- 点击配置文本下方的"🔑切换到订阅链接”按钮以获取永久订阅链接
-4- 点击链接进行复制
-5- 打开 Wings X 并点击右上角的 + 图标
-6- 点击"订阅链接”
-7- 在"名称”文本框中输入您想要的名称，即：SegVPN
-8- 点击"URL”并粘贴您在第 4 步复制的永久订阅链接
-9- 点击"订阅”并等待几秒钟
-10- 点击您要使用的每个连接前面的"播放”按钮
+1- 从这个链接下载FoXray：https://apps.apple.com/us/app/foxray/id6448898396 
+2- 点击’🌐 Connect!‘按钮获取配置文本 
+3- 点击链接复制它 
+4- 打开FoXray并点击底部菜单的’Subscriptions’ 
+5- 在’name’文本框输入你想要的名字，比如：SegVPN 
+6- 点击’URL’并粘贴你在第3步复制的永久订阅链接 
+7- 点击’Subscribe’并等待几秒钟 
+8- 点击你想要使用的每个连接前面的’Play’按钮
 
-⚠️ 注意：如果您的连接在一段时间后无法正常工作，请执行以下步骤。
+⚠️ 注意：如果你的连接在一段时间后没有正常工作，请执行以下步骤。
 
-1- 打开 Wings X 并点击"📎(Clipper)”图标
-2- 点击您的订阅名称
-3- 点击"更新”并返回主页
+1- 打开FoXray并点击底部菜单的’Subscriptions’ 
+2- 点击你的订阅名称 
+3- 点击’Update’并返回主页面
 
-⚪️ 替代应用：
-A. NapsternetV https://apps.apple.com/us/app/napsternetv/id1629465476
-B. Fair VPN https://apps.apple.com/us/app/fair-vpn/id1533873488
+⚪️ 替代应用程序： 
+A. NapsternetV https://apps.apple.com/us/app/napsternetv/id1629465476 
+B. FairVPN https://apps.apple.com/us/app/fair-vpn/id1533873488 
 C. V2Box https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690</value>
   </data>
   <data name="WindowsTeachingText" xml:space="preserve">
@@ -525,18 +555,17 @@ Windows 使用订阅链接的分步指南
 
 1- 通过以下链接中的 gif 下载 V2rayN：https://github.com/2dust/v2rayN/releases
 2-安装和更新后，以管理员身份运行程序
-3- 点击"🌐连接！” 获取配置文本的按钮
-4- 点击配置文本下方的"🔑切换到订阅链接”按钮以获取永久订阅链接
-5-点击链接进行复制
-6- 单击 + 图标并在"备注”文本框中输入您想要的名称，即：SegVPN
-7- 单击"URL”文本框并粘贴您在第 5 步复制的 URL
-8-点击"确认”
-9- 选择新创建的选项卡（在此示例中，名称将是 SegVPN）
-10- 单击"订阅组”，然后单击"无需代理更新当前订阅”
-11- 左键单击要连接的配置，然后按 Enter
-12-选中底部中间的"启用Tun”
+3- 点击“🌐连接！”获取配置文本的按钮
+4- 点击链接进行复制
+5- 单击 + 图标并在“备注”文本框中输入您想要的名称，即：SegVPN
+6- 单击“URL”文本框并粘贴您在第 4 步复制的 URL
+7- 点击“确认”
+8- 选择新创建的选项卡（在此示例中，名称将是 SegVPN）
+9- 单击“订阅组”，然后单击“不使用代理更新当前订阅”
+10- 左键单击要连接的配置，然后按 Enter
+11-选中底部中间的“启用Tun”
 
-⚠️ 注意：每当您的连接无法正常工作时，请重复第 10 步。
+⚠️ 注意：每当您的连接无法正常工作时，请重复第 9 步。
 
 ⚪️ 替代应用：
 A. Nekoray https://github.com/MatsuriDayo/nekoray/releases
@@ -564,4 +593,13 @@ A. Nekoray https://github.com/MatsuriDayo/nekoray/releases
     在这些艰难的互联网时代，我们很荣幸能让您保持连接
 
     🚀 保持连接 🚀 </value> </data>
+  <data name="BuySubscriptionsWithDiscount" xml:space="preserve">
+    <value>
+&lt;b&gt;⚡️ 限时优惠：不要错过这个订阅的惊人优惠！&lt;/b&gt;
+
+这是一个难得的机会！您现在可以以惊人的50至76％的折扣获得我们的高级订阅！
+
+点击“🛍 订阅”按钮，立即领取您的优惠！
+</value>
+  </data>
 </root>
